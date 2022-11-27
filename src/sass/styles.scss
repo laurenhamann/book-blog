@@ -1,0 +1,110 @@
+$dark : #002B5B;
+$midDark : #2B4865;
+$midLight : #256D85;
+$light : #8FE3CF;
+
+body {
+    margin: 24px;
+}
+div.blogger-section {
+    display: flex;
+    flex: row;
+    width: 40vw;
+    justify-content: space-between;
+        p {
+            font-size: 1em;
+        }
+        .yellow {
+            color: yellow;
+        }
+        .red {
+            color: red;
+        }
+        .green {
+            color: green;
+        }
+
+        .tag {
+            color: grey;
+            font-style: italic;
+        }
+    }
+
+
+.book-cover-home {
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+}
+
+.headline {
+    color: $dark;
+}
+
+.date {
+    color: $midLight;
+}
+
+.yellow {
+    color: #DEA057;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+
+.Mystery {
+    color: #FD841F;
+}
+
+.Fiction {
+    color: #CD104D;
+}
+
+.Thriller {
+    color: #9C2C77;
+}
+
+.Romance {
+    color: #D989B5;
+}
+
+.Nonfiction {
+    color: #4FA095;
+}
+
+.Historical {
+    color: #5C2E7E;
+}
+
+.LGBT {
+    color: #E8AA42;
+}
+
+.Contemporary {
+    color: #810955;
+}
+
+.Horror {
+    color: #F24C4C;
+}
+
+.Essays {
+    color: #93ABD3;
+}
+
+.World {
+    color: #562B08;
+}
+
+.Memoir {
+    color: #005555;
+}
+
+
+.post-wrapper {
+    width: 100vw;
+    height: 50px;
+}

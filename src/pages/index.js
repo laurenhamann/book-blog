@@ -1,15 +1,19 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-
+import '../sass/styles.scss'
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
+import useBlogs from "../hooks/use-blogs"
+
 
 const BlogIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
-
-  if (posts.length === 0) {
+  const blogs = useBlogs();
+  const siteTitle = data.site.siteMetadata.title;
+  const [posts, setPosts] = React.useState(blogs);
+  const [query, setQuery] = React.useState('emptyQuery');
+  if (blogs.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
         <Bio />
@@ -22,15 +26,63 @@ const BlogIndex = ({ data, location }) => {
     )
   }
 
+  const filterPosts = (event) => {
+    const q = event.target.value;
+    const newPosts = [];
+    setQuery(q);
+    const filteredPostList = posts.map((post) => {
+      if(post.title.toLowerCase().includes(q.toLowerCase()) ||
+      (post.author &&
+        post.author.toLowerCase().includes(q.toLowerCase())) ||
+      (post.tags &&
+        post.tags.join('').toLowerCase().includes(q.toLowerCase()))){
+          return newPosts.push(post);
+        }
+    });
+    setPosts(newPosts);
+    if(q === ""){
+      setPosts(blogs);
+      console.log('I ran on blank');
+    }
+
+    // set the component's state with our newly generated query and list variables
+    console.log(filteredPostList);
+  };
+
+  // const { filteredPostList } = posts;
+  // const hasSearchResults = filteredPostList && query !== 'emptyQuery';
+  // const post = hasSearchResults ? filteredPostList : blogs;
+  // console.log(post);
+
   return (
     <Layout location={location} title={siteTitle}>
       <Bio />
-      <ol style={{ listStyle: `none` }}>
-        {posts.map(post => {
-          const title = post.frontmatter.title || post.fields.slug
+      <form name="search" rel="search">
+      <input className="searchInput"
+              type="search"
+              aria-label="Search"
+              placeholder="Filter blog posts by title or tag"
+              onChange={(e) => filterPosts(e)}>
 
+      </input>
+      {/* <button type="submit" onClick={(e) => filterPosts(e)}> Search </button> */}
+      </form>
+      <ol>
+        {posts.map(post => {
+          const title = post.title || post.slug;
+          const classNames = post.rating === 5 ? 'green' : 
+            post.rating >= 3 ? 'yellow' : 'red';
+          
+          let image = getImage(post.image);
+          const tags = post.tags !== undefined ? post.tags.map((tag) => {
+                      return (
+                        <small className={tag}>
+                        {tag} { }
+                        </small>
+                      )
+                    }) : 'No Tags Available';
           return (
-            <li key={post.fields.slug}>
+            <li key={post.slug}>
               <article
                 className="post-list-item"
                 itemScope
@@ -38,20 +90,20 @@ const BlogIndex = ({ data, location }) => {
               >
                 <header>
                   <h2>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
+                    <Link to={post.slug} itemProp="url">
+                    <GatsbyImage image={image} className="book-cover-home" /> <br />
+                      <span itemProp="headline" className="headline">{title}</span>
                     </Link>
                   </h2>
-                  <small>{post.frontmatter.date}</small>
+                  <small className="date">{post.date}</small>
+                  <br />
+                  <small>
+                  Rating:
+                  </small>
+                  <button className={classNames}> {post.rating} out of 5</button>
+                  <br />
+                    {tags}
                 </header>
-                <section>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
-                    }}
-                    itemProp="description"
-                  />
-                </section>
               </article>
             </li>
           )
@@ -75,19 +127,6 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
-      }
-    }
-    allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-          description
-        }
       }
     }
   }

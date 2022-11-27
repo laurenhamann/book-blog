@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Lauren's Book Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Lauren Hamann`,
+      summary: `An avid audiobook listener since 2020`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Collection of all the books read since lock down.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `laurenhamann`,
     },
   },
   plugins: [
@@ -59,6 +59,20 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        gatsbyRemarkPlugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1200,
+            },
+          },
+        ],
+      },
+    },
+    `gatsby-plugin-sass`,
+    {
       resolve: `gatsby-plugin-feed`,
       options: {
         query: `
@@ -97,6 +111,7 @@ module.exports = {
                   frontmatter {
                     title
                     date
+                    img
                   }
                 }
               }

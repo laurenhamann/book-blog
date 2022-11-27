@@ -60,6 +60,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       })
     })
   }
+
 }
 
 /**
@@ -116,6 +117,12 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
+      rating: Int
+      author: String
+      blogauthor: String
+      tags: [String]
+      biline: String
+      series: String
     }
 
     type Fields {

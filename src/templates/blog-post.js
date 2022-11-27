@@ -10,7 +10,8 @@ const BlogPostTemplate = ({
   location,
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
-
+  const classNames = post.frontmatter.rating === 5 ? 'green' : 
+  post.frontmatter.rating >= 3 ? 'yellow' : 'red';
   return (
     <Layout location={location} title={siteTitle}>
       <article
@@ -20,6 +21,12 @@ const BlogPostTemplate = ({
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
+          <h4>{post.frontmatter.author}</h4>
+          <div className="blogger-section">
+            <p className="author">{post.frontmatter.blogauthor}</p>
+            <p className={classNames}>{post.frontmatter.rating} out of 5</p>
+            <p className="tag">{post.frontmatter.tags}</p>
+          </div>
           <p>{post.frontmatter.date}</p>
         </header>
         <section
@@ -65,7 +72,7 @@ export const Head = ({ data: { markdownRemark: post } }) => {
   return (
     <Seo
       title={post.frontmatter.title}
-      description={post.frontmatter.description || post.excerpt}
+      description={post.excerpt}
     />
   )
 }
@@ -90,7 +97,10 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
-        description
+        blogauthor
+        author
+        tags
+        rating
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
