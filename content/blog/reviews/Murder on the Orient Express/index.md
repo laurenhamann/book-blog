@@ -6,7 +6,7 @@ date: "2022-11-15"
 blogauthor: Lauren Hamann
 author: Agatha, Christie
 tags: ['Fiction', 'Mystery', 'Thriller']
-img: '../1.jpg'
+img: './1.jpg'
 rating: 4
 omit: false
 ---

@@ -1,6 +1,7 @@
 ---
 title: David and Goliath
 biline: Underdogs, Misfits, and the Art of Battling Giants
+series:
 date: "2021-11-11"
 blogauthor: Lauren Hamann
 author: Gladwell, Malcolm

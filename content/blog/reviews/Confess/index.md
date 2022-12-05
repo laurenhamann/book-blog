@@ -1,6 +1,8 @@
 ---
 title: Confess
 date: "2022-02-26"
+series:
+biline:
 blogauthor: Lauren Hamann
 author: Hoover, Colleen
 tags: ['Fiction ', 'Romance']

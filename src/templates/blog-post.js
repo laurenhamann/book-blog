@@ -5,6 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
+
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
   location,
@@ -12,6 +13,14 @@ const BlogPostTemplate = ({
   const siteTitle = site.siteMetadata?.title || `Title`
   const classNames = post.frontmatter.rating === 5 ? 'green' : 
   post.frontmatter.rating >= 3 ? 'yellow' : 'red';
+
+  const tags = post.frontmatter.tags !== undefined ? post.frontmatter.tags.map((tag) => {
+    return (
+      <small className={tag}>
+      -{tag} { }
+      </small>
+    )
+  }) : 'No Tags Available';
   return (
     <Layout location={location} title={siteTitle}>
       <article
@@ -25,7 +34,7 @@ const BlogPostTemplate = ({
           <div className="blogger-section">
             <p className="author">{post.frontmatter.blogauthor}</p>
             <p className={classNames}>{post.frontmatter.rating} out of 5</p>
-            <p className="tag">{post.frontmatter.tags}</p>
+            <p className="tag">{tags} </p>
           </div>
           <p>{post.frontmatter.date}</p>
         </header>
@@ -101,7 +110,9 @@ export const pageQuery = graphql`
         author
         tags
         rating
-      }
+        biline
+        series
+      } 
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
       fields {

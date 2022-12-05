@@ -1,0 +1,18 @@
+---
+title: My Year of Rest and Relaxation
+biline:
+series: 
+date: "2022-01-04"
+blogauthor: Lauren Hamann
+author: Moshfegh, Ottessa
+tags: ['Fiction', 'Mental Health', 'Contemporary']
+img: 1.jpg
+rating: 3
+omit: false
+---
+
+![Book Cover](1.jpg)
+
+## Book Description
+
+Our narrator should be happy, shouldn’t she? She’s young, thin, pretty, a recent Columbia graduate, works an easy job at a hip art gallery, lives in an apartment on the Upper East Side of Manhattan paid for, like the rest of her needs, by her inheritance. But there is a dark and vacuous hole in her heart, and it isn’t just the loss of her parents, or the way her Wall Street boyfriend treats her, or her sadomasochistic relationship with her best friend, Reva. It’s the year 2000 in a city aglitter with wealth and possibility; what could be so terribly wrong?

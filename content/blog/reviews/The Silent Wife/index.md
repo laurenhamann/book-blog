@@ -2,7 +2,7 @@
 title: The Silent Wife
 biline: 
 series: "Will Trent #10"
-date: "2022-05-08"
+date: "2022-05-28"
 blogauthor: Lauren Hamann
 author: Slaughter, Karin
 tags: ['Fiction', 'Thriller', 'Mystery']

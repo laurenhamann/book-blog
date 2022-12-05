@@ -1,16 +1,17 @@
 ---
 title: Broken
 series: "Will Trent #4"
+biline:
 date: "2022-05-19"
 blogauthor: Lauren Hamann
 author: Slaughter, Karin
 tags: ['Fiction ', 'Mystery', 'Thriller']
-img: broken.jpg
+img: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](broken.jpg)
+![Book Cover](1.jpg)
 
 
 ## Book Description

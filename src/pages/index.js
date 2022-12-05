@@ -13,6 +13,49 @@ const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title;
   const [posts, setPosts] = React.useState(blogs);
   const [query, setQuery] = React.useState('emptyQuery');
+  const [asideVersion, setAside] = React.useState('author');
+  const [asideTxt, setAsideTxt] = React.useState();
+  let final = [];
+  function asideText (texts) {
+    let arr = [];
+    blogs.map((txt) => {
+      const v = texts === 'author' ? txt.author : texts === 'tags' ? txt.tags : txt.rating;
+      if(texts === 'tags'){
+        v.map((t, i) => {
+          arr.push(t);
+        })
+      }else {
+        arr.push(v);
+      }
+    })
+    let count = 0;
+    const lengthshortened = arr.length - 2;
+    const length = arr.length - 1;
+    console.log(lengthshortened, length);
+    let uniquearr = [...new Set(arr)];
+    uniquearr.forEach((t, i) => {
+      arr.filter((d, index2) => {
+        if(index2 <= lengthshortened) {
+          if(t === d) {
+            count = count + 1;
+            // console.log(t, 'did match', d, count); 
+          }else {
+            // console.log(t, 'did not match', d);  
+          }
+        } else if(index2 === length) {
+          final.push({
+            name: t,
+            count: count
+          });
+          count = 0;
+        }
+      })
+    })
+    const sorted = final.sort((a, b) => b.count - a.count);
+    console.log(sorted);
+  }
+
+
   if (blogs.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
@@ -24,35 +67,59 @@ const BlogIndex = ({ data, location }) => {
         </p>
       </Layout>
     )
+  }else {
+    asideText(asideVersion);
   }
 
   const filterPosts = (event) => {
-    const q = event.target.value;
+    const q = event.target.value === 0 ? event.target.textContent : event.target.value;
     const newPosts = [];
     setQuery(q);
-    const filteredPostList = posts.map((post) => {
-      if(post.title.toLowerCase().includes(q.toLowerCase()) ||
-      (post.author &&
-        post.author.toLowerCase().includes(q.toLowerCase())) ||
-      (post.tags &&
-        post.tags.join('').toLowerCase().includes(q.toLowerCase()))){
+    console.log(q);
+    if(asideVersion === 'tags'){
+      console.log('im here!')
+      posts.map((post) => {
+        post.tags.filter(t => {
+          if(q === t){
+            newPosts.push(post);
+          }
+        })
+      })
+    }else if(q === 1 | 2 | 3 | 4 | 5 ) {
+      posts.map((post) => {
+        console.log('wrong one')
+        if(post.rating === q){
           return newPosts.push(post);
         }
-    });
+      })
+    }else {
+      console.log('wrong one end')
+      posts.map((post) => {
+        if(post.title.toLowerCase().includes(q.toLowerCase()) ||
+        (post.author &&
+          post.author.toLowerCase().includes(q.toLowerCase())) ||
+        (post.tags &&
+          post.tags.join('').toLowerCase().includes(q.toLowerCase()))){
+            return newPosts.push(post);
+          }
+      });
+    }
+    // const filteredPostList = posts.map((post) => {
+    //   if(post.title.toLowerCase().includes(q.toLowerCase()) ||
+    //   (post.author &&
+    //     post.author.toLowerCase().includes(q.toLowerCase())) ||
+    //   (post.tags &&
+    //     post.tags.join('').toLowerCase().includes(q.toLowerCase()))){
+    //       return newPosts.push(post);
+    //     }
+    // });
     setPosts(newPosts);
-    if(q === ""){
+    if(q === "" || q === "reset"){
       setPosts(blogs);
-      console.log('I ran on blank');
     }
 
     // set the component's state with our newly generated query and list variables
-    console.log(filteredPostList);
   };
-
-  // const { filteredPostList } = posts;
-  // const hasSearchResults = filteredPostList && query !== 'emptyQuery';
-  // const post = hasSearchResults ? filteredPostList : blogs;
-  // console.log(post);
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -65,8 +132,10 @@ const BlogIndex = ({ data, location }) => {
               onChange={(e) => filterPosts(e)}>
 
       </input>
+      <button value='reset' onClick={(e) => filterPosts(e)} type='button'>Reset</button>
       {/* <button type="submit" onClick={(e) => filterPosts(e)}> Search </button> */}
       </form>
+      <div className="flex">
       <ol>
         {posts.map(post => {
           const title = post.title || post.slug;
@@ -77,7 +146,7 @@ const BlogIndex = ({ data, location }) => {
           const tags = post.tags !== undefined ? post.tags.map((tag) => {
                       return (
                         <small className={tag}>
-                        {tag} { }
+                        -{tag} { }
                         </small>
                       )
                     }) : 'No Tags Available';
@@ -92,16 +161,13 @@ const BlogIndex = ({ data, location }) => {
                   <h2>
                     <Link to={post.slug} itemProp="url">
                     <GatsbyImage image={image} className="book-cover-home" /> <br />
-                      <span itemProp="headline" className="headline">{title}</span>
+                      <span itemProp="headline" className="headline" key={post.slug}>{title}</span>
                     </Link>
                   </h2>
-                  <small className="date">{post.date}</small>
-                  <br />
-                  <small>
-                  Rating:
-                  </small>
-                  <button className={classNames}> {post.rating} out of 5</button>
-                  <br />
+                  <p className="author">Written by: {post.author}</p>
+                  <p className="biline">{post.biline}{post.series}</p>
+                  <small className="date">Date Read: {post.date}</small>
+                  <small className={classNames}> Rating: {post.rating} out of 5</small>
                     {tags}
                 </header>
               </article>
@@ -109,6 +175,46 @@ const BlogIndex = ({ data, location }) => {
           )
         })}
       </ol>
+      <aside className="aside" id={asideVersion}>
+          <div id='authors'>
+            <div className={asideVersion === 'author' ? 'tab selected' : 'tab'}
+              onClick={()=> {
+                setAside('author');
+                asideText('author');
+              }}>
+                <small>Authors</small>
+            </div>
+            <div className={asideVersion === 'tags' ? 'tab selected' : 'tab'}
+            onClick={()=> {
+                setAside('tags');
+                asideText('tags');
+              }}>
+                <small>Tags</small>
+            </div>
+            <div className={asideVersion === 'rating' ? 'tab selected' : 'tab'}
+            onClick={()=> {
+                setAside('rating');
+                asideText('rating');
+              }}>
+                <small>Rating</small>
+            </div>
+            <div className="data">
+              {final.map((t, i) => {
+                return (
+                  <div>
+                    <li value={t.name} className="aside-list-item" onClick={(e) => filterPosts(e)}>
+                      {t.name}
+                    </li>
+                    <small>
+                        ({t.count})
+                    </small>
+                  </div>
+                )
+              })}
+            </div>
+          </div>
+      </aside>
+      </div>
     </Layout>
   )
 }

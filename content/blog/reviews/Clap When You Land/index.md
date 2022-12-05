@@ -1,6 +1,8 @@
 ---
 title: Clap When You Land
 date: "2022-04-03"
+biline: 
+series:
 blogauthor: Lauren Hamann
 author: Acevedo, Elizabeth
 tags: ['Fiction ', 'Contemporary']

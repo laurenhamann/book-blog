@@ -39,6 +39,8 @@ const useBlogs = () => {
         author: post.frontmatter.author,
         blogAuthor: post.frontmatter.blogauthor,
         date: post.frontmatter.date,
+        biline: post.frontmatter.biline,
+        series: post.frontmatter.series,
         excerpt: post.excerpt,
         tags: post.frontmatter.tags,
         rating: post.frontmatter.rating,

@@ -1,12 +1,25 @@
 ---
 title: Beach Read
 date: "2022-02-18"
+biline:
+series:
 blogauthor: Lauren Hamann
 author: Henry, Emily
 tags: ['Fiction', 'Romance']
-img: beachread.jpg
+img: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](beachread.jpg)
+![Book Cover](1.jpg)
+
+
+## Book Description
+
+Augustus Everett is an acclaimed author of literary fiction. January Andrews writes bestselling romance. When she pens a happily ever after, he kills off his entire cast.
+
+They’re polar opposites.
+
+In fact, the only thing they have in common is that for the next three months, they're living in neighboring beach houses, broke, and bogged down with writer's block.
+
+Until, one hazy evening, one thing leads to another and they strike a deal designed to force them out of their creative ruts: Augustus will spend the summer writing something happy, and January will pen the next Great American Novel. She’ll take him on field trips worthy of any rom-com montage, and he’ll take her to interview surviving members of a backwoods death cult (obviously). Everyone will finish a book and no one will fall in love. Really.

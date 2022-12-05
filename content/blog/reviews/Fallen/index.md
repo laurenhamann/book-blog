@@ -2,7 +2,7 @@
 title: Fallen
 biline:
 series: "Will Trent #5"
-date: "2022-05-30"
+date: "2022-05-22"
 blogauthor: Lauren Hamann
 author: Slaughter, Karin
 tags: ['Fiction', 'Thriller', 'Mystery']

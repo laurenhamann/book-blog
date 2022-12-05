@@ -1,15 +1,17 @@
 ---
 title: 28 Summers
 date: "2022-02-25"
+biline:
+series:
 blogauthor: Lauren Hamann
 author: Hilderbrand, Elin
 tags: ['Fiction ', 'Romance']
-img: './28Summers.jpg'
+img: './1.jpg'
 rating: 5
 omit: false
 ---
 
-![Book Cover](./28Summers.jpg)
+![Book Cover](./1.jpg)
 
 
 ## Book Description

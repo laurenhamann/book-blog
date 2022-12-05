@@ -1,6 +1,7 @@
 ---
 title: Daring Greatly
 biline: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead
+series:
 date: "2021-11-09"
 blogauthor: Lauren Hamann
 author: Brown, Brene

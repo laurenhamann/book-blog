@@ -1,5 +1,7 @@
 ---
 title: Cop Town
+series:
+biline:
 date: "2022-07-30"
 blogauthor: Lauren Hamann
 author: Slaughter, Karin

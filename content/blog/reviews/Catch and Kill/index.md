@@ -1,6 +1,7 @@
 ---
 title: Catch and Kill
 biline: Lies, Spies, and a Conspiracy to Protect Predators
+series:
 date: "2022-01-08"
 blogauthor: Lauren Hamann
 author: Farrow, Ronan

@@ -1,16 +1,17 @@
 ---
 title: Blindsighted
 series: "Grant County #1"
+biline:
 date: "2022-05-09"
 blogauthor: Lauren Hamann
 author: Slaughter, Karin
 tags: ['Fiction ', 'Mystery', 'Thriller']
-img: blind.jpg
+img: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](blind.jpg)
+![Book Cover](1.jpg)
 
 
 ## Book Description

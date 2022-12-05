@@ -1,5 +1,6 @@
 ---
 title: Criminal
+biline:
 series: "Will Trent #6"
 date: "2022-05-24"
 blogauthor: Lauren Hamann
