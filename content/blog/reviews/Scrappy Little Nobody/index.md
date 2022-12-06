@@ -1,12 +1,10 @@
 ---
 title: Scrappy Little Nobody
-biline:
-series: 
 date: "2022-02-16"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Kendrick, Anna
 tags: ['Nonfiction', 'Humor', 'Memoir']
-img: 1.jpg
+image: 1.jpg
 rating: 3
 omit: false
 ---

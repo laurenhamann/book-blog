@@ -1,12 +1,10 @@
 ---
 title: Let's Explore Diabetes with Owls
-biline:
-series: 
 date: "2021-08-17"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Sedaris, David
 tags: ['Nonfiction', 'Humor', 'Essays']
-img: 1.jpg
+image: 1.jpg
 rating: 3
 omit: false
 ---

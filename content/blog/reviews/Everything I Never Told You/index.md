@@ -1,12 +1,10 @@
 ---
 title: Everything I Never Told You
-biline:
-series:
 date: "2022-03-21"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Ng, Celeste
 tags: ['Fiction', 'Contemporary', 'Mystery']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

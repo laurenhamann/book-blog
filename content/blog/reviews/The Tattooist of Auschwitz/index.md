@@ -1,12 +1,10 @@
 ---
-title: The Tattooist of Auschwitz
-biline:
-series: 
+title: The Tattooist of Auschwitz 
 date: "2021-07-16"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Morris, Heather
 tags: ['Fiction', 'Historical']
-img: 1.jpg
+image: 1.jpg
 rating: 3
 omit: false
 ---

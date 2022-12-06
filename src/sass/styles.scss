@@ -160,7 +160,7 @@ ol {
     align-content: flex-start;
     height: 80vh;
     overflow: scroll;
-    li {
+    li.flex {
         width: auto;
         height: auto;
         max-height: 420px;
@@ -257,4 +257,12 @@ section p span {
 section p {
     width: 80vw;
     margin: 0 auto;
+}
+
+
+.article-section {
+    ol {
+        justify-content: center;
+        margin: 5px auto;
+    }
 }

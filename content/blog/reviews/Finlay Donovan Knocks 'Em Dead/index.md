@@ -1,12 +1,11 @@
 ---
 title: Finlay Donovan Knocks 'Em Dead
-biline:
 series: "Finlay Donovan #2"
 date: "2022-04-19"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Cosimano, Elle
 tags: ['Mystery', 'Fiction']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---
@@ -19,4 +18,4 @@ Finlay Donovan is―once again―struggling to finish her next novel and keep he
 
 On the not-so-bright side, someone out there wants her ex-husband, Steven, out of the picture. Permanently. Whatever else Steven may be, he's a good father, but saving him will send her down a rabbit hole of hit-women disguised as soccer moms, and a little bit more involvement with the Russian mob than she'd like.
 
-Meanwhile, Vero's keeping secrets, and Detective Nick Anthony seems determined to get back into her life. He may be a hot cop, but Finlay's first priority is preventing her family from sleeping with the fishes... and if that means bending a few laws then so be it.
+Meanwhile, Vero's keeping secrets and Detective Nick Anthony seems determined to get back into her life. He may be a hot cop, but Finlay's first priority is preventing her family from sleeping with the fishes... and if that means bending a few laws then so be it.

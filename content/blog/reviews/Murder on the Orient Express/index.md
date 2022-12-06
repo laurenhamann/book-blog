@@ -1,12 +1,11 @@
 ---
 title: Murder on the Orient Express
-biline:
 series: "Hercule Poirot #9"
 date: "2022-11-15"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Agatha, Christie
 tags: ['Fiction', 'Mystery', 'Thriller']
-img: './1.jpg'
+image: './1.jpg'
 rating: 4
 omit: false
 ---

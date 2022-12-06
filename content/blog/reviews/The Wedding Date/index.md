@@ -1,12 +1,10 @@
 ---
 title: The Wedding Date
-biline:
-series: 
 date: "2022-03-14"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Guillory, Jasmine
 tags: ['Fiction', 'Romance', 'Contemporary']
-img: 1.jpg
+image: 1.jpg
 rating: 2
 omit: false
 ---
@@ -21,4 +19,4 @@ On the eve of his ex's wedding festivities, Drew is minus a plus one. Until a po
 
 After Alexa and Drew have more fun than they ever thought possible, Drew has to fly back to Los Angeles and his job as a pediatric surgeon, and Alexa heads home to Berkeley, where she's the mayor's chief of staff. Too bad they can't stop thinking about the other...
 
-They're just two high-powered professionals on a collision course toward the long distance dating disaster of the century--or closing the gap between what they think they need and what they truly want...
+They're just two high-powered professionals on a collision course toward the long-distance dating disaster of the century--or closing the gap between what they think they need and what they truly want...

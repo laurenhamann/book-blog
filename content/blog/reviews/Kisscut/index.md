@@ -1,12 +1,11 @@
 ---
 title: Kisscut
-biline:
 series: "Grant County #2"
 date: "2022-05-10"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Slaughter, Karin
 tags: ['Fiction', 'Thriller', 'Mystery']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---
@@ -15,7 +14,7 @@ omit: false
 
 ## Book Description
 
-Saturday night dates at the skating rink have been a tradition in the small southern town of Heartsdale for as long as anyone can remember, but when a teenage quarrel explodes into a deadly shoot-out, Sara Linton--the town's pediatrician and medical examiner--finds herself entangled in a terrible tragedy.
+Saturday night dates at the skating rink have been a tradition in the small southern town of Heartsdale for as long as anyone can remember, but when a teenage quarrel explodes into a deadly shoot-out, Sara Linton--the town's pediatrician and a medical examiner--finds herself entangled in a terrible tragedy.
 
 What seemed at first to be a horrific but individual catastrophe proves to have wider implications. The autopsy reveals evidence of long-term abuse, of ritualistic self -mutilation, but when Sara and police chief Jeffrey Tolliver start to investigate, they are frustrated at every turn.
 

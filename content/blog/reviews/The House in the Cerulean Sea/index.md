@@ -1,12 +1,10 @@
 ---
 title: The House in the Cerulean Sea
-biline:
-series: 
 date: "2022-04-11"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Klune, T.J.
 tags: ['Fiction', 'Fantasy']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

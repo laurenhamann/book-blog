@@ -1,17 +1,15 @@
 ---
 title: A Very Punchable Face
-biline:
-series: 
 date: "2021-08-04"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Jost, Colin
 tags: ['Nonfiction', 'Memoir', 'Humor']
-img: './1.jpg'
+image: 1.jpg
 rating: 2
 omit: false
 ---
 
-![Book Cover](./1.jpg)
+![Book Cover](1.jpg)
 
 ## Book Description
 

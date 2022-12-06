@@ -1,17 +1,15 @@
 ---
 title: A Walk to Remember
-biline:
-series: 
 date: "2022-03-06"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Sparks, Nicholas
 tags: ['Fiction', 'Romance', 'Contemporary']
-img: './1.jpg'
+image: 1.jpg
 rating: 3
 omit: false
 ---
 
-![Book Cover](./1.jpg)
+![Book Cover](1.jpg)
 
 ## Book Description
 

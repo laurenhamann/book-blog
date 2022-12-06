@@ -1,12 +1,11 @@
 ---
 title: Talking to Strangers
-biline: What We Should Know About the People We Don’t Know
-series: 
+byline: What We Should Know About the People We Don’t Know
 date: "2021-09-20"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Gladwell, Malcolm
 tags: ['Nonfiction', 'Psychology']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

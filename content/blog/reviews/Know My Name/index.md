@@ -1,12 +1,10 @@
 ---
 title: Know My Name
-biline:
-series: 
 date: "2021-08-17"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Miller, Chanel
 tags: ['Nonfiction', 'Memoir']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

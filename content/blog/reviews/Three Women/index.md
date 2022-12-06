@@ -1,12 +1,10 @@
 ---
 title: Three Women
-biline:
-series: 
 date: "2022-09-21"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Taddeo, Lisa
 tags: ['Nonfiction', 'Feminism']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

@@ -1,12 +1,11 @@
 ---
 title: Being Mortal
-biline: Medicine and What Matters in the End
-series: 
+byline: Medicine and What Matters in the End
 date: "2021-10-26"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Gawande, Atul
 tags: ['Nonfiction ', 'Health']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

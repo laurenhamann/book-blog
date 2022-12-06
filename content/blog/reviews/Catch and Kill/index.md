@@ -1,12 +1,11 @@
 ---
 title: Catch and Kill
-biline: Lies, Spies, and a Conspiracy to Protect Predators
-series:
+byline: Lies, Spies, and a Conspiracy to Protect Predators
 date: "2022-01-08"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Farrow, Ronan
 tags: ['Nonfiction ', 'Crime', 'Politics']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

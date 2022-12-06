@@ -1,12 +1,10 @@
 ---
 title: The Great Alone
-biline:
-series:
 date: "2021-08-13"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Hannah, Kristin
 tags: ['Fiction', 'Historical']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

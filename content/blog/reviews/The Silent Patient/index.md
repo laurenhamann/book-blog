@@ -1,12 +1,10 @@
 ---
-title: The Silent Patient
-biline:
-series: 
+title: The Silent Patient 
 date: "2021-08-22"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Michaelides, Alex
 tags: ['Fiction', 'Thriller', 'Mystery']
-img: 1.jpg
+image: 1.jpg
 rating: 3
 omit: false
 ---
@@ -19,4 +17,4 @@ Alicia Berenson’s life is seemingly perfect. A famous painter married to an in
 
 Alicia’s refusal to talk, or give any kind of explanation, turns a domestic tragedy into something far grander, a mystery that captures the public imagination and casts Alicia into notoriety. The price of her art skyrockets, and she, the silent patient, is hidden away from the tabloids and spotlight at the Grove, a secure forensic unit in North London.
 
-Theo Faber is a criminal psychotherapist who has waited a long time for the opportunity to work with Alicia. His determination to get her to talk and unravel the mystery of why she shot her husband takes him down a twisting path into his own motivations—a search for the truth that threatens to consume him.... 
+Theo Faber is a criminal psychotherapist who has waited a long time for the opportunity to work with Alicia. His determination to get her to talk and unravel the mystery of why she shot her husband takes him down a twisting path into his motivations—a search for the truth that threatens to consume him.

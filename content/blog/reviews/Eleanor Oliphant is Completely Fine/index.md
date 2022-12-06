@@ -1,12 +1,10 @@
 ---
 title: Eleanor Oliphant is Completely Fine
-biline:
-series:
 date: "2021-09-17"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Honeyman, Gail
 tags: ['Fiction', 'Contemporary']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

@@ -1,12 +1,11 @@
 ---
 title: Indelible
-biline:
 series: "Grant County #4"
 date: "2022-05-12"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Slaughter, Karin
 tags: ['Fiction', 'Mystery', 'Thriller']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

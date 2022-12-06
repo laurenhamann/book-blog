@@ -1,12 +1,11 @@
 ---
 title: Never Broken
-biline: Songs Are Only Half the Story
-series: 
+byline: Songs Are Only Half the Story
 date: "2021-10-22"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Jewel
 tags: ['Nonfiction', 'Music', 'Essays']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---
@@ -18,4 +17,4 @@ When Jewel's first album, Pieces of You, topped the charts in 1995, her emotiona
 
 Living on a homestead in Alaska, Jewel learned to yodel at age three and joined her parents' act, working in hotels, honky-tonks, and biker bars. Behind a strong-willed and independent family life, with an emphasis on music and artistic talent, was also instability, abuse, and trauma.
 
-At age 15 Jewel was accepted into the prestigious Interlochen Arts Academy in Michigan, where she began writing her own songs as a means of expression. She was 18, homeless, and living out of her car in San Diego when a radio DJ aired a bootleg version of one of her songs. It was requested in the top-10 countdown, something unheard of for an unsigned artist. By age 21, her debut album went multiplatinum.
+At age 15 Jewel was accepted into the prestigious Interlochen Arts Academy in Michigan, where she began writing her songs as a means of expression. She was 18, homeless, and living out of her car in San Diego when a radio DJ aired a bootleg version of one of her songs. It was requested in the top-10 countdown, something unheard of for an unsigned artist. By age 21, her debut album went multiplatinum.

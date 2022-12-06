@@ -1,12 +1,10 @@
 ---
 title: Beach Read
 date: "2022-02-18"
-biline:
-series:
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Henry, Emily
 tags: ['Fiction', 'Romance']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---
@@ -16,7 +14,7 @@ omit: false
 
 ## Book Description
 
-Augustus Everett is an acclaimed author of literary fiction. January Andrews writes bestselling romance. When she pens a happily ever after, he kills off his entire cast.
+Augustus Everett is an acclaimed author of literary fiction. January Andrews writes bestselling romances. When she pens a happily ever after, he kills off his entire cast.
 
 They’re polar opposites.
 

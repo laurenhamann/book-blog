@@ -1,12 +1,11 @@
 ---
 title: Finders Keepers
-biline:
 series: "Bill Hodges Trilogy #2"
 date: "2021-12-27"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: King, Stephen
 tags: ['Fiction', 'Horror', 'Thriller']
-img: 1.jpg
+image: 1.jpg
 rating: 3
 omit: false
 ---

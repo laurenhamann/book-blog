@@ -1,12 +1,10 @@
 ---
 title: Daisy Jones & The Six
 date: "2022-02-26"
-series:
-biline:
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Reid, Taylor Jenkins
 tags: ['Fiction ', 'Historical']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

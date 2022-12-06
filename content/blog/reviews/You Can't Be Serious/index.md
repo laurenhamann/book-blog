@@ -1,12 +1,10 @@
 ---
-title: You Can't Be Serious
-biline:
-series: 
+title: You Can't Be Serious 
 date: "2021-11-04"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Penn, Kal
 tags: ['Nonfiction', 'Memoir']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

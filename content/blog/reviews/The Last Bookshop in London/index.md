@@ -1,12 +1,10 @@
 ---
 title: The Last Bookshop in London
-biline:
-series: 
 date: "2022-10-22"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Martin, Madeline
 tags: ['Fiction', 'Historical']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

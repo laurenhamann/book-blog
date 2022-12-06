@@ -1,12 +1,10 @@
 ---
 title: The Woman in the Window
-biline:
-series: 
 date: "2021-10-10"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Finn, A.J.
 tags: ['Fiction', 'Thriller', 'Mystery']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

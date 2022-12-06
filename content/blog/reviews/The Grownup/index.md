@@ -1,12 +1,10 @@
 ---
 title: The Grownup
-biline:
-series:
 date: "2022-04-08"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Flynn, Gillian
 tags: ['Fiction', 'Mystery', 'Short Stories']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

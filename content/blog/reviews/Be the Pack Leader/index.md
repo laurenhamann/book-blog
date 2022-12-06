@@ -1,12 +1,11 @@
 ---
 title: Be the Pack Leader
 date: "2021-12-01"
-biline: Use Cesar's Way to Transform Your Dog . . . and Your Life
-series:
-blogauthor: Lauren Hamann
+byline: Use Cesar's Way to Transform Your Dog . . . and Your Life
+blogger: Lauren Hamann
 author: Millan, Cesar
 tags: ['Nonfiction', 'Animals']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

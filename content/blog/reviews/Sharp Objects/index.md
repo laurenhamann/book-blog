@@ -1,12 +1,10 @@
 ---
 title: Sharp Objects
-biline:
-series: 
 date: "2021-09-08"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Flynn, Gillian
 tags: ['Fiction', 'Mystery', 'Thriller']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

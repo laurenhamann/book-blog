@@ -1,12 +1,10 @@
 ---
 title: Eleanor & Park
-biline:
-series:
 date: "2022-02-24"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Rowell, Rainbow
 tags: ['Fiction', 'Romance']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

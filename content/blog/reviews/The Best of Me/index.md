@@ -1,12 +1,12 @@
 ---
 title: The Best of Me
 date: "2021-10-26"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Sedaris, David
 tags: ['Nonfiction ', 'Essays']
-img: best.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](best.jpg)
+![Book Cover](1.jpg)

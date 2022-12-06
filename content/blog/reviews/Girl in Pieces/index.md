@@ -1,12 +1,10 @@
 ---
 title: Girl in Pieces
-biline:
-series:
 date: "2022-04-05"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Glasgow, Kathleen
 tags: ['Fiction', 'Contemporary']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

@@ -1,10 +1,10 @@
 ---
 title: The Alice Network
 date: "2022-02-20"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Quinn, Kate
 tags: ['Fiction ', 'Historical', 'World War 2']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---
@@ -17,4 +17,4 @@ In an enthralling new historical novel from national bestselling author Kate Qui
 
 1915. A year into the Great War, Eve Gardiner burns to join the fight against the Germans and unexpectedly gets her chance when she's recruited to work as a spy. Sent into enemy-occupied France, she's trained by the mesmerizing Lili, code name Alice, the "queen of spies", who manages a vast network of secret agents right under the enemy's nose.
 
-Thirty years later, haunted by the betrayal that ultimately tore apart the Alice Network, Eve spends her days drunk and secluded in her crumbling London house. Until a young American barges in uttering a name Eve hasn't heard in decades, and launches them both on a mission to find the truth...no matter where it leads.
+Thirty years later, haunted by the betrayal that ultimately tore apart the Alice Network, Eve spends her days drunk and secluded in her crumbling London house. Until a young American barge in uttering a name Eve hasn't heard in decades and launches them both on a mission to find the truth...no matter where it leads.

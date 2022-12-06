@@ -1,12 +1,10 @@
 ---
 title: One Flew Over the Cuckoo's Nest
-biline:
-series: 
 date: "2022-10-06"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Kesey, Ken
 tags: ['Fiction', 'Psychology', 'Classics']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

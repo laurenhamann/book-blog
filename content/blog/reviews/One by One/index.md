@@ -1,12 +1,10 @@
 ---
 title: One by One
-biline:
-series: 
 date: "2022-09-22"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Ware, Ruth
 tags: ['Fiction', 'Mystery', 'Thriller']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

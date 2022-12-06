@@ -1,12 +1,11 @@
 ---
 title: The Girl with the Dragon Tattoo
-biline:
 series: "Millennium #1"
 date: "2022-03-25"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Larsson, Stieg
 tags: ['Fiction', 'Mystery', 'Thriller']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

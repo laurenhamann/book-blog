@@ -1,12 +1,10 @@
 ---
 title: Vox
-biline:
-series: 
 date: "2021-10-05"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Dalcher, Christina
 tags: ['Fiction', 'Dystopia']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---
@@ -25,4 +23,4 @@ Soon women can no longer hold jobs. Girls are no longer taught to read or write.
 
 But this is not the end.
 
-For herself, her daughter, and every woman silenced, Jean will reclaim her voice.
+For herself, her daughter, and every woman silenced, Jean, will reclaim her voice.

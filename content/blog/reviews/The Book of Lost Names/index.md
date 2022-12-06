@@ -1,15 +1,15 @@
 ---
 title: The Book of Lost Names
 date: "2022-10-22"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Harmel, Kristin
 tags: ['Fiction ', 'Historical', 'World War 2']
-img: names.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](names.jpg)
+![Book Cover](1.jpg)
 
 
 ## Book Description

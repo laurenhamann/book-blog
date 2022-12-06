@@ -1,12 +1,10 @@
 ---
 title: The Green Mile
-biline:
-series:
 date: "2022-01-12"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: King, Stephen
 tags: ['Fiction', 'Horror', 'Thriller']
-img: 1.jpg
+image: 1.jpg
 rating: 3
 omit: false
 ---

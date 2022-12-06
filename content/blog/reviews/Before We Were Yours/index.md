@@ -1,12 +1,10 @@
 ---
 title: Before We Were Yours
 date: "2021-08-08"
-biline:
-series:
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Wingate, Lisa
 tags: ['Fiction', 'Historical']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

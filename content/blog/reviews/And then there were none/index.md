@@ -1,12 +1,10 @@
 ---
 title: And Then There Were None
 date: "2022-08-21"
-biline:
-series:
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Agatha, Christie
 tags: ['Fiction ', 'Mystery', 'Classics']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

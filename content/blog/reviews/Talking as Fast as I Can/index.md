@@ -1,12 +1,11 @@
 ---
 title: Talking as Fast as I Can
-biline: From Gilmore Girls to Gilmore Girls (and Everything in Between)
-series: 
+byline: From Gilmore Girls to Gilmore Girls (and Everything in Between)
 date: "2021-10-11"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Graham, Lauren
 tags: ['Nonfiction', 'Memoir']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

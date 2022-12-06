@@ -1,12 +1,10 @@
 ---
 title: Call Me By Your Name
-biline:
-series:
 date: "2022-08-18"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Aciman, Andre
 tags: ['Fiction ', 'Romance', 'LGBT']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

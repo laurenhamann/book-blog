@@ -1,12 +1,10 @@
 ---
-title: The Phantom Prince
-biline:
-series: 
+title: The Phantom Prince 
 date: "2021-02-14"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Kendall, Elizabeth
 tags: ['Nonfiction', 'Crime', 'Memoir']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

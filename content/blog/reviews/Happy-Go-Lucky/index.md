@@ -1,12 +1,10 @@
 ---
-title: Happy-Go-Lucky
-biline:
-series: 
+title: Happy-Go-Lucky 
 date: "2022-06-12"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Sedaris, David 
 tags: ['Nonfiction', 'Memoir', 'Essays']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

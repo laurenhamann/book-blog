@@ -1,12 +1,11 @@
 ---
 title: Hidden Valley Road
-biline: Inside the Mind of an American Family
-series: 
+byline: Inside the Mind of an American Family
 date: "2021-10-07"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Kolker, Robert
 tags: ['Nonfiction', 'Psychology']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

@@ -1,12 +1,11 @@
 ---
 title: Beyond Reach
-biline:
 series: "Grant County #6"
 date: "2022-05-17"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Slaughter, Karin
 tags: ['Fiction ', 'Mystery', 'Thriller']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

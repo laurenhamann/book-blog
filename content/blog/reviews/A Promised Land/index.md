@@ -1,17 +1,15 @@
 ---
 title: A Promised Land
-biline:
-series: 
 date: "2021-07-14"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Obama, Barack
 tags: ['Nonfiction', 'Memoir']
-img: './1.jpg'
+image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](./1.jpg)
+![Book Cover](1.jpg)
 
 ## Book Description
 

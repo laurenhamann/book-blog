@@ -1,12 +1,11 @@
 ---
 title: The Man Who Died Twice
-biline:
 series: "Thursday Murder Club #2"
 date: "2022-04-30"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Osman, Richard
 tags: ['Fiction', 'Mystery']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

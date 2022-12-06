@@ -1,12 +1,10 @@
 ---
 title: Great Circle
-biline:
-series:
 date: "2022-06-24"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Shipstead, Maggie
 tags: ['Fiction', 'Historical']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

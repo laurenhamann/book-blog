@@ -1,12 +1,11 @@
 ---
 title: Freakonomics
-biline: A Rogue Economist Explores the Hidden Side of Everything
-series:
+byline: A Rogue Economist Explores the Hidden Side of Everything
 date: "2021-10-24"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Levitt, Steven D.
 tags: ['Nonfiction', 'Economics']
-img: 1.jpg
+image: 1.jpg
 rating: 4 
 omit: false
 ---

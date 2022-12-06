@@ -1,12 +1,10 @@
 ---
 title: Cop Town
-series:
-biline:
 date: "2022-07-30"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Slaughter, Karin
 tags: ['Fiction ', 'Mystery', 'Thriller']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

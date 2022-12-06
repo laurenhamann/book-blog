@@ -1,12 +1,11 @@
 ---
 title: Fallen
-biline:
 series: "Will Trent #5"
 date: "2022-05-22"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Slaughter, Karin
 tags: ['Fiction', 'Thriller', 'Mystery']
-img: 1.jpg
+image: 1.jpg
 rating: 3
 omit: false
 ---

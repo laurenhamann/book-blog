@@ -1,12 +1,11 @@
 ---
 title: Lilac Girls
-biline:
 series: "Lilac Girls #1"
 date: "2022-11-21"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Kelly, Martha Hall
 tags: ['Fiction', 'Historical', 'World War 2']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---
@@ -21,7 +20,7 @@ On the eve of a fateful war, New York socialite Caroline Ferriday has her hands 
 
 An ocean away from Caroline, Kasia Kuzmerick, a Polish teenager, senses her carefree youth disappearing as she sinks deeper into her role as courier for the underground resistance movement. In a tense atmosphere of watchful eyes and suspect neighbors, one false move can have dire consequences.
 
-For ambitious young German doctor, Herta Oberheuser, an ad for a government medical position seems her ticket out of a desolate life. But, once hired, she finds herself trapped in a male-dominated realm of Nazi secrets and power.
+For ambitious young German doctor, Herta Oberheuser, an ad for a government medical position seems like her ticket out of a desolate life. But, once hired, she finds herself trapped in a male-dominated realm of Nazi secrets and power.
 
 The lives of these three women are set on a collision course when the unthinkable happens and Kasia is sent to Ravensbrück, the notorious female-only Nazi concentration camp. The tragedy and triumph of their stories cross continents—from New York to Paris, and Germany to Poland—capturing the indomitable pull of compassion to bring justice to those whom history has forgotten.
 

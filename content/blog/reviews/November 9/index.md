@@ -1,12 +1,10 @@
 ---
 title: November 9
-biline:
-series: 
 date: "2021-12-15"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Hoover, Colleen
 tags: ['Fiction', 'Romance', 'Mystery']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

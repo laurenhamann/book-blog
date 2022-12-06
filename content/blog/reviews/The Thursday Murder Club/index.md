@@ -1,12 +1,11 @@
 ---
 title: The Thursday Murder Club
-biline:
 series: "Thursday Murder Club #1"
 date: "2022-04-29"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Osman, Richard
 tags: ['Fiction', 'Mystery']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

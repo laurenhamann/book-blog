@@ -1,12 +1,10 @@
 ---
-title: The Hunting Party
-biline:
-series: 
+title: The Hunting Party 
 date: "2022-10-14"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Foley, Lucy
 tags: ['Fiction', 'Mystery', 'Thriller']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---
@@ -15,7 +13,7 @@ omit: false
 
 ## Book Description
 
-During the languid days of the Christmas break, a group of thirtysomething friends from Oxford meet to welcome in the New Year together, a tradition they began as students ten years ago. For this vacation, they’ve chosen an idyllic and isolated estate in the Scottish Highlands—the perfect place to get away and unwind by themselves.
+During the languid days of the Christmas break, a group of thirtysomething friends from Oxford meets to welcome in the New Year together, a tradition they began as students ten years ago. For this vacation, they’ve chosen an idyllic and isolated estate in the Scottish Highlands—the perfect place to get away and unwind by themselves.
 
 They arrive on December 30th, just before a historic blizzard seals the lodge off from the outside world.
 

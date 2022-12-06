@@ -1,12 +1,11 @@
 ---
 title: I Would Leave Me If I Could
-biline: A Collection of Poetry
-series: 
+byline: A Collection of Poetry
 date: "2021-06-03"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Halsey
 tags: ['Poetry']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

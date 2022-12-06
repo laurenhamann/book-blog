@@ -1,12 +1,10 @@
 ---
-title: The Stand
-biline:
-series: 
+title: The Stand 
 date: "2021-11-16"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: King, Stephen
 tags: ['Fiction', 'Horror', 'Fantasy']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---

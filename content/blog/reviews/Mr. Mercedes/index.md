@@ -1,12 +1,11 @@
 ---
 title: Mr.Mercedes
-biline:
 series: "Bill Hodges Trilogy #1"
 date: "2021-12-25"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: King, Stephen
 tags: ['Fiction', 'Horror', 'Thriller']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---
@@ -19,4 +18,4 @@ In the predawn hours, in a distressed American city, hundreds of unemployed men 
 
 Months later, an ex-cop named Bill Hodges, still haunted by the unsolved crime, contemplates suicide. When he gets a crazed letter from "the perk," claiming credit for the murders, Hodges wakes up from his depressed and vacant retirement, fearing another even more diabolical attack and hell-bent on preventing it.
 
-Brady Hartfield lives with his alcoholic mother in the house where he was born. He loved the feel of death under the wheels of the Mercedes, and he wants that rush again. Only Bill Hodges, with a couple of eccentric and mismatched allies, can apprehend the killer before he strikes again. And they have no time to lose, because Brady's next mission, if it succeeds, will kill or maim thousands.
+Brady Hartfield lives with his alcoholic mother in the house where he was born. He loved the feel of death under the wheels of the Mercedes, and he wants that rush again. Only Bill Hodges, with a couple of eccentric and mismatched allies, can apprehend the killer before he strikes again. And they have no time to lose, because Brady's next mission if it succeeds, will kill or maim thousands.

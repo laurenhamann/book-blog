@@ -1,12 +1,11 @@
 ---
 title: Barrel Fever
 date: "2021-10-06"
-biline: Stories and Essays
-series:
-blogauthor: Lauren Hamann
+byline: Stories and Essays
+blogger: Lauren Hamann
 author: Sedaris, David
 tags: ['Humor', 'Nonfiction', 'Essays']
-img: 1.jpg
+image: 1.jpg
 rating: 3
 omit: false
 ---

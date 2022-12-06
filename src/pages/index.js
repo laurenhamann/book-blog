@@ -85,7 +85,7 @@ const BlogIndex = ({ data, location }) => {
           }
         })
       })
-    }else if(q === 1 | 2 | 3 | 4 | 5 ) {
+    }else if(q === 1 || q === 2 || q === 3 || q === 4 || q === 5 ) {
       posts.map((post) => {
         console.log('wrong one')
         if(post.rating === q){
@@ -151,7 +151,7 @@ const BlogIndex = ({ data, location }) => {
                       )
                     }) : 'No Tags Available';
           return (
-            <li key={post.slug}>
+            <li key={post.slug} className='flex'>
               <article
                 className="post-list-item"
                 itemScope
@@ -160,7 +160,9 @@ const BlogIndex = ({ data, location }) => {
                 <header>
                   <h2>
                     <Link to={post.slug} itemProp="url">
-                    <GatsbyImage image={image} className="book-cover-home" /> <br />
+                    <GatsbyImage image={image} 
+                    alt=""
+                    className="book-cover-home" /> <br />
                       <span itemProp="headline" className="headline" key={post.slug}>{title}</span>
                     </Link>
                   </h2>

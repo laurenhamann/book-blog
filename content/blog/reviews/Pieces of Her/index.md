@@ -1,12 +1,11 @@
 ---
 title: Pieces of Her
-biline:
 series: "Andrea Oliver #1"
 date: "2022-04-15"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Slaughter, Karin
 tags: ['Fiction', 'Mystery', 'Thriller']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---
@@ -21,4 +20,4 @@ Andrea knows everything about her mother, Laura. She knows she’s spent her who
 
 But all that changes when a trip to the mall explodes into violence and Andrea suddenly sees a completely different side to Laura. Because it turns out that before Laura was Laura, she was someone completely different. For nearly thirty years she’s been hiding from her previous identity, lying low in the hope that no one would ever find her. But now she’s been exposed, and nothing will ever be the same again.
 
-The police want answers and Laura’s innocence is on the line, but she won’t speak to anyone, including her own daughter. Andrea is on a desperate journey following the breadcrumb trail of her mother’s past. And if she can’t uncover the secrets hidden there, there may be no future for either one of them. . . .
+The police want answers and Laura’s innocence is on the line, but she won’t speak to anyone, including her daughter. Andrea is on a desperate journey following the breadcrumb trail of her mother’s past. And if she can’t uncover the secrets hidden there, there may be no future for either one of them. . . .

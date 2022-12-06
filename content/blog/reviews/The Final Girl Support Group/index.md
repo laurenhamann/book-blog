@@ -1,12 +1,10 @@
 ---
 title: The Final Girl Support Group
-biline:
-series:
 date: "2022-07-01"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Hendrix, Grady
 tags: ['Fiction', 'Horror', 'Thriller']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---
@@ -15,7 +13,7 @@ omit: false
 
 ## Book Description
 
-In horror movies, the final girl is the one who's left standing when the credits roll. The one who fought back, defeated the killer, and avenged her friends. The one who emerges bloodied but victorious. But after the sirens fade and the audience moves on, what happens to her?
+In horror movies, the final girl is the one who's left standing when the credits roll. The one who fought back defeated the killer and avenged her friends. The one who emerges bloodied but victorious. But after the sirens fade and the audience moves on, what happens to her?
 
 Lynnette Tarkington is a real-life final girl who survived a massacre twenty-two years ago, and it has defined every day of her life since. And she's not alone. For more than a decade she's been meeting with five other actual final girls and their therapist in a support group for those who survived the unthinkable, putting their lives back together, piece by piece. That is until one of the women misses a meeting and Lynnette's worst fears are realized--someone knows about the group and is determined to take their lives apart again, piece by piece.
 

@@ -1,12 +1,10 @@
 ---
 title: Clap When You Land
 date: "2022-04-03"
-biline: 
-series:
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Acevedo, Elizabeth
 tags: ['Fiction ', 'Contemporary']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---
@@ -21,4 +19,4 @@ In New York City, Yahaira Rios is called to the principal’s office, where her 
 
 Separated by distance—and Papi’s secrets—the two girls are forced to face a new reality in which their father is dead and their lives are forever altered.
 
-And then, when it seems like they’ve lost everything of their father, they learn of each other.
+And then, when it seems like they’ve lost everything about their father, they learn of each other.

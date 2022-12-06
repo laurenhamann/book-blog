@@ -1,12 +1,10 @@
 ---
 title: The Invisible Life of Addie LaRue
-biline:
-series: 
 date: "2021-08-19"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Schwab, V.E.
 tags: ['Fiction', 'Fantasy']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

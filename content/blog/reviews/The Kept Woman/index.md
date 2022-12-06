@@ -1,12 +1,11 @@
 ---
 title: The Kept Woman
-biline:
 series: "Will Trent #8"
 date: "2022-05-30"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Slaughter, Karin
 tags: ['Fiction', 'Mystery', 'Thriller']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

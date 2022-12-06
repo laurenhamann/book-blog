@@ -1,12 +1,11 @@
 ---
 title: Vanderbilt
-biline: The Rise and Fall of an American Dynasty
-series: 
+byline: The Rise and Fall of an American Dynasty 
 date: "2022-02-16"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Anderson, Cooper
 tags: ['Nonfiction', 'History', 'Biography']
-img: 1.jpg
+image: 1.jpg
 rating: 2
 omit: false
 ---

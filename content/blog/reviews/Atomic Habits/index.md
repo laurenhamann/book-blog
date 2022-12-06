@@ -1,12 +1,11 @@
 ---
 title: Atomic Habits
 date: "2021-08-30"
-biline: An Easy & Proven Way to Build Good Habits & Break Bad Ones
-series:
-blogauthor: Lauren Hamann
+byline: An Easy & Proven Way to Build Good Habits & Break Bad Ones
+blogger: Lauren Hamann
 author: Clear, James
 tags: ['Nonfiction ', 'Self Help']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---
@@ -16,7 +15,7 @@ omit: false
 ## Book Description
 
 
-A revolutionary system to get 1 per cent better every day
+A revolutionary system to get 1 percent better every day
 
 People think when you want to change your life, you need to think big. But world-renowned habits expert James Clear has discovered another way. He knows that real change comes from the compound effect of hundreds of small decisions – doing two push-ups a day, waking up five minutes early, or holding a single short phone call.
 

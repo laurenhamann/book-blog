@@ -1,12 +1,10 @@
 ---
 title: The Maidens
-biline:
-series: 
 date: "2022-02-17"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Michaelides, Alex
 tags: ['Fiction', 'Mystery', 'Thriller']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

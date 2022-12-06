@@ -1,12 +1,11 @@
 ---
 title: The Good Daughter
-biline:
 series: "Good Daughter #1"
 date: "2022-10-26"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Slaughter, Karin
 tags: ['Fiction', 'Thriller', 'Mystery']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

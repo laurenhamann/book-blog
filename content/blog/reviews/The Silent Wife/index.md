@@ -1,12 +1,11 @@
 ---
 title: The Silent Wife
-biline: 
 series: "Will Trent #10"
 date: "2022-05-28"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Slaughter, Karin
 tags: ['Fiction', 'Thriller', 'Mystery']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---
@@ -19,4 +18,4 @@ Investigating the killing of a prisoner during a riot inside a state penitentiar
 
 Only days ago, another young woman was viciously murdered in a state park in northern Georgia. Is it a fluke, or could there be a serial killer on the loose?
 
-As Will Trent digs into both crimes it becomes clear that he must solve the cold case in order to find the answer. Yet nearly a decade has passed—time for memories to fade, witnesses to vanish, evidence to disappear, and lies to become truth. But Will can’t crack either mystery without the help of the one person he doesn’t want involved: his girlfriend and Jeffrey Tolliver’s widow, medical examiner Sara Linton.
+As Will Trent digs into both crimes it becomes clear that he must solve the cold case to find the answer. Yet nearly a decade has passed—time for memories to fade, witnesses to vanish, evidence to disappear, and lies to become truth. But Will can’t crack either mystery without the help of the one person he doesn’t want to be involved with: his girlfriend and Jeffrey Tolliver’s widow, medical examiner Sara Linton.

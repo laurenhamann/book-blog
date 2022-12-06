@@ -1,12 +1,10 @@
 ---
 title: Then She Was Gone
-biline:
-series: 
 date: "2022-10-24"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Jewell, Lisa
 tags: ['Fiction', 'Mystery', 'Thriller']
-img: 1.jpg
+image: 1.jpg
 rating: 5
 omit: false
 ---
@@ -23,7 +21,7 @@ It’s been ten years since Ellie disappeared, but Laurel has never given up hop
 
 And then one day a charming and charismatic stranger called Floyd walks into a café and sweeps Laurel off her feet.
 
-Before too long she’s staying the night at this house and being introduced to his nine year old daughter.
+Before too long she’s staying the night at this house and being introduced to his nine-year-old daughter.
 
 Poppy is precocious and pretty - and meeting her completely takes Laurel's breath away.
 

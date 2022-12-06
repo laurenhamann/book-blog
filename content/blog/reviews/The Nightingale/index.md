@@ -1,12 +1,10 @@
 ---
 title: The Nightingale
-biline:
-series: 
 date: "2022-10-08"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Hannah, Kristin
 tags: ['Fiction', 'Historical', 'World War 2']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

@@ -1,12 +1,11 @@
 ---
 title: Memorial Drive
-biline: A Daughter's Memoir
-series: 
+byline: A Daughter's Memoir
 date: "2021-11-10"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Trethewey, Natasha
 tags: ['Nonfiction', 'Memoir']
-img: 1.jpg
+image: 1.jpg
 rating: 4
 omit: false
 ---

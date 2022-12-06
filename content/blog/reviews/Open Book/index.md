@@ -1,12 +1,10 @@
 ---
-title: Open Book
-biline:
-series: 
+title: Open Book 
 date: "2021-09-09"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Simpson, Jessica
 tags: ['Nonfiction', 'Memoir', 'Essays']
-img: 1.jpg
+image: 1.jpg
 rating: 3
 omit: false
 ---

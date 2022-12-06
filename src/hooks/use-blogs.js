@@ -12,15 +12,15 @@ const useBlogs = () => {
             nodes {
             frontmatter {
                 author
-                biline
-                blogauthor
+                byline
+                blogger
                 date(formatString: "MMMM DD, YYYY")
                 description
                 rating
                 series
                 tags
                 title
-                img {
+                image {
                 childImageSharp {
                     gatsbyImageData(blurredOptions: {width: 150}, height: 200, width: 200)
                 }
@@ -37,14 +37,14 @@ const useBlogs = () => {
     return data.allMarkdownRemark.nodes.map(post => ({
         title: post.frontmatter.title,
         author: post.frontmatter.author,
-        blogAuthor: post.frontmatter.blogauthor,
+        blogAuthor: post.frontmatter.blogger,
         date: post.frontmatter.date,
-        biline: post.frontmatter.biline,
+        biline: post.frontmatter.byline,
         series: post.frontmatter.series,
         excerpt: post.excerpt,
         tags: post.frontmatter.tags,
         rating: post.frontmatter.rating,
-        image: post.frontmatter.img,
+        image: post.frontmatter.image,
         slug: post.fields.slug
     }))
 }

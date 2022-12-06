@@ -1,12 +1,11 @@
 ---
 title: The State of Affairs
-biline: Rethinking Infidelity
-series: 
+byline: Rethinking Infidelity
 date: "2021-08-19"
-blogauthor: Lauren Hamann
+blogger: Lauren Hamann
 author: Perel, Esther
 tags: ['Nonfiction', 'Psychology']
-img: 1.jpg
+image: 1.jpg
 rating: 3
 omit: false
 ---
