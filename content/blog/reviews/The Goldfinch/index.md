@@ -3,13 +3,12 @@ title: The Goldfinch
 date: "2021-10-15"
 blogger: Lauren Hamann
 author: Tartt, Donna
+narrator: Pittu, David
 tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 3
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

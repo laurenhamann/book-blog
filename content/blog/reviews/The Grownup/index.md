@@ -3,13 +3,13 @@ title: The Grownup
 date: "2022-04-08"
 blogger: Lauren Hamann
 author: Flynn, Gillian
+narrator: Whelan, Julia
 tags: ['Fiction', 'Mystery', 'Short Stories']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description

@@ -3,13 +3,13 @@ title: The Anthropocene Reviewed
 date: "2022-01-30"
 blogger: Lauren Hamann
 author: Green, John
+narrator: Green, John
 tags: ['Nonfiction ', 'Essays']
 image: reviewed.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](reviewed.jpg)
 
 
 ## Book Description

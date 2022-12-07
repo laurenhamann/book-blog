@@ -3,13 +3,13 @@ title: The House in the Cerulean Sea
 date: "2022-04-11"
 blogger: Lauren Hamann
 author: Klune, T.J.
+narrator: Henning, Daniel
 tags: ['Fiction', 'Fantasy']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

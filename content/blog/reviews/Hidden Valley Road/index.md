@@ -4,13 +4,13 @@ byline: Inside the Mind of an American Family
 date: "2021-10-07"
 blogger: Lauren Hamann
 author: Kolker, Robert
+narrator: Pratt, Sean
 tags: ['Nonfiction', 'Psychology']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

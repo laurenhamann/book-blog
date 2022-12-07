@@ -3,13 +3,13 @@ title: The Younger Wife
 date: "2022-11-23"
 blogger: Lauren Hamann
 author: Hepworth, Sally
+narrators: ['Kreinik, Barrie', 'Lee, Caroline', 'Douglas-Henry, Jessica', 'Carides, Zoe']
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 3
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

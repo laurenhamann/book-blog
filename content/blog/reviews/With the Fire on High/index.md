@@ -3,13 +3,13 @@ title: With the Fire on High
 date: "2022-04-15"
 blogger: Lauren Hamann
 author: Acevedo, Elizabeth
+narrator: Acevedo, Elizabeth
 tags: ['Fiction', 'Contemporary', 'Romance']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

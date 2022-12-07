@@ -4,13 +4,13 @@ byline: Tales of Life and Music
 date: "2021-12-04"
 blogger: Lauren Hamann
 author: Grohl, Dave
+narrator: Grohl, Dave
 tags: ['Nonfiction', 'Music', 'Memoir']
 image: 1.jpg
 rating: 4 
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

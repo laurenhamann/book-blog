@@ -3,13 +3,13 @@ title: The Flight Attendant
 date: "2022-03-30"
 blogger: Lauren Hamann
 author: Bohjalian, Chris
+narrators: ['Spencer, Erin', 'Experience, Grace', 'Deakins, Mark']
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description

@@ -4,13 +4,12 @@ date: "2021-08-30"
 byline: An Easy & Proven Way to Build Good Habits & Break Bad Ones
 blogger: Lauren Hamann
 author: Clear, James
+narrator: Clear, James
 tags: ['Nonfiction ', 'Self Help']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

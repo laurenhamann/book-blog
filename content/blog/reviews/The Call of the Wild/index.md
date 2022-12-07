@@ -3,13 +3,13 @@ title: The Call of the Wild
 date: "2021-11-17"
 blogger: Lauren Hamann
 author: London, Jack
+narrator: Schreiber, Pablo
 tags: ['Fiction ', 'Adventure', 'Classics']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description

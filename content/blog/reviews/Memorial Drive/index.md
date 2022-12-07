@@ -4,13 +4,13 @@ byline: A Daughter's Memoir
 date: "2021-11-10"
 blogger: Lauren Hamann
 author: Trethewey, Natasha
+narrator: Trethewey, Natasha
 tags: ['Nonfiction', 'Memoir']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

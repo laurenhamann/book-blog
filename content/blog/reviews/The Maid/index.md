@@ -3,13 +3,13 @@ title: The Maid
 date: "2022-03-22"
 blogger: Lauren Hamann
 author: Prose, Nita
+narrator: Ambrose, Lauren
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

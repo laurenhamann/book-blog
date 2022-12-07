@@ -3,13 +3,13 @@ title: Truly Madly Guilty
 date: "2022-04-13"
 blogger: Lauren Hamann
 author: Moriarty, Liane
+narrator: Lee, Caroline
 tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

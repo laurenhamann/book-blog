@@ -3,13 +3,13 @@ title: Lincoln in the Bardo
 date: "2021-09-28"
 blogger: Lauren Hamann
 author: Saunders, George
+narrators: ['Offerman, Nick', 'Sedaris, David', 'Saunders, George', 'Brownstein, Carrie', 'Cheadle, Don', 'Dunham, Lena', 'Hader, Bill', 'Heyborne, Kirby', 'Key, Keegan-Michael', 'Moore, Julianne', 'Mullally, Megan', 'Sarandon, Susan', 'Stiller, Ben']
 tags: ['Fiction', 'Historical', 'Fantasy']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

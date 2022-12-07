@@ -3,13 +3,13 @@ title: The Maidens
 date: "2022-02-17"
 blogger: Lauren Hamann
 author: Michaelides, Alex
+narrators: ['Holdbrook-Smith, Kobna', 'Brealey, Louise']
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

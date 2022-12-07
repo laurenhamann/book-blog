@@ -3,13 +3,12 @@ title: Billy Summers
 date: "2021-11-22"
 blogger: Lauren Hamann
 author: King, Stephen
+narrator: Sparks, Paul
 tags: ['Fiction ', 'Thriller', 'Horror']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

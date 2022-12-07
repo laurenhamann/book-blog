@@ -3,13 +3,13 @@ title: The Dead Fathers Club
 date: "2022-10-07"
 blogger: Lauren Hamann
 author: Haig, Matt
+narrator: Dennis, Andrew
 tags: ['Fiction ', 'Mystery']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description 

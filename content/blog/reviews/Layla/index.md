@@ -3,13 +3,13 @@ title: Layla
 date: "2022-06-12"
 blogger: Lauren Hamann
 author: Hoover, Colleen
+narrator: Pallino, Brian
 tags: ['Fiction', 'Romance', 'Fantasy']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

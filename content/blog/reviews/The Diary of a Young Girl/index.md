@@ -3,13 +3,13 @@ title: The Diary of a Young Girl
 date: "2021-11-18"
 blogger: Lauren Hamann
 author: Frank, Anne
+narrator: Blair, Selma
 tags: ['Nonfiction', 'Memoir']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 

@@ -3,13 +3,13 @@ title: Vox
 date: "2021-10-05"
 blogger: Lauren Hamann
 author: Dalcher, Christina
+narrator: Whelan, Julia
 tags: ['Fiction', 'Dystopia']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

@@ -4,13 +4,13 @@ byline: Improve Your Mornings, Rethink Family Dinner, Fight Smarter, Go Out and 
 date: "2021-07-23"
 blogger: Lauren Hamann
 author: Feiler, Bruce
+narrator: Feiler, Bruce
 tags: ['Nonfiction', 'Parenting']
 image: 1.jpg
 rating: 3
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

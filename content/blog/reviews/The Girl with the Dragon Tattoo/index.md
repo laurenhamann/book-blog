@@ -4,13 +4,13 @@ series: "Millennium #1"
 date: "2022-03-25"
 blogger: Lauren Hamann
 author: Larsson, Stieg
+narrator: Vance, Simon
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description

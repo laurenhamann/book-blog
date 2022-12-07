@@ -3,13 +3,13 @@ title: Every Breath
 date: "2022-02-27"
 blogger: Lauren Hamann
 author: Sparks, Nicholas
+narrators: ['Michael, Sean Cameron', 'Johansson, Vanessa']
 tags: ['Fiction', 'Romance']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description

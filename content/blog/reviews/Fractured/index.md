@@ -4,13 +4,12 @@ series: "Will Trent #2"
 date: "2022-05-04"
 blogger: Lauren Hamann
 author: Slaughter, Karin
+narrator: Early, Kathleen
 tags: ['Mystery', 'Thriller', 'Fiction']
 image: 1.jpg
 rating: 3
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

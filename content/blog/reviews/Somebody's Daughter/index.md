@@ -3,13 +3,13 @@ title: Somebody's Daughter
 date: "2021-11-16"
 blogger: Lauren Hamann
 author: Ford, Ashley C.
+narrator: Ford, Ashley C.
 tags: ['Nonfiction', 'Memoir']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

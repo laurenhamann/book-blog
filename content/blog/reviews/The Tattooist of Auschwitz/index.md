@@ -3,13 +3,13 @@ title: The Tattooist of Auschwitz
 date: "2021-07-16"
 blogger: Lauren Hamann
 author: Morris, Heather
+narrator: Armitage, Richard
 tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 3
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

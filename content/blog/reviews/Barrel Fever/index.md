@@ -4,13 +4,12 @@ date: "2021-10-06"
 byline: Stories and Essays
 blogger: Lauren Hamann
 author: Sedaris, David
+narrator: Sedaris, David
 tags: ['Humor', 'Nonfiction', 'Essays']
 image: 1.jpg
 rating: 3
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

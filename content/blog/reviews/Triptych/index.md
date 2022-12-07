@@ -4,13 +4,13 @@ series: "Will Trent #1"
 date: "2022-05-02"
 blogger: Lauren Hamann
 author: Slaughter, Karin
+narrator: Kramer, Michael
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

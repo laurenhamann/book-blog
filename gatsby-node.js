@@ -86,12 +86,13 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 exports.createSchemaCustomization = ({ actions }) => {
   const { createTypes } = actions
 
-  // Explicitly define the siteMetadata {} object
+  // Explicitly define the siteMetadata object
   // This way those will always be defined even if removed from gatsby-config.js
 
   // Also explicitly define the Markdown frontmatter
   // This way the "MarkdownRemark" queries will return `null` even when no
   // blog posts are stored inside "content/blog" instead of returning an error
+
   createTypes(`
     type SiteSiteMetadata {
       author: Author
@@ -113,18 +114,21 @@ exports.createSchemaCustomization = ({ actions }) => {
       fields: Fields
     }
 
+
     type Frontmatter {
       title: String
       description: String
       date: Date @dateformat
       rating: Int
       author: String
-      blogauthor: String
+      blogger: String
       tags: [String]
       biline: String
       series: String
+      narrator: String
+      narrators: [String]
     }
-
+    
     type Fields {
       slug: String
     }

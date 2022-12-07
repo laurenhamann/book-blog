@@ -3,13 +3,12 @@ title: Clap When You Land
 date: "2022-04-03"
 blogger: Lauren Hamann
 author: Acevedo, Elizabeth
+narrators: ['Acevedo, Elizabeth', 'Marte, Melania-Luisa']
 tags: ['Fiction ', 'Contemporary']
 image: 1.jpg
 rating: 5
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

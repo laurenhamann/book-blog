@@ -4,13 +4,12 @@ series: "Grant County #3"
 date: "2022-05-12"
 blogger: Lauren Hamann
 author: Slaughter, Karin
+narrator: Early, Kathleen
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 5
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

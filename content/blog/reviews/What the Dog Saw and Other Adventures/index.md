@@ -3,13 +3,13 @@ title: What the Dog Saw and Other Adventures
 date: "2021-11-30"
 blogger: Lauren Hamann
 author: Gladwell, Malcolm
+narrator: Gladwell, Malcolm
 tags: ['Nonfiction', 'Psychology']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

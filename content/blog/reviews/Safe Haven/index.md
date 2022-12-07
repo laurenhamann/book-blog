@@ -3,13 +3,13 @@ title: Safe Haven
 date: "2022-03-03"
 blogger: Lauren Hamann
 author: Sparks, Nicholas
+narrator: Lowman, Rebecca
 tags: ['Fiction', 'Romance']
 image: 1.jpg
 rating: 3
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

@@ -4,13 +4,12 @@ byline: The Power of Thinking Without Thinking
 date: "2021-10-25"
 blogger: Lauren Hamann
 author: Gladwell, Malcolm
+narrator: Gladwell, Malcolm
 tags: ['Nonfiction ', 'Psychology']
 image: 1.jpg
 rating: 5
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

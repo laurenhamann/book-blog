@@ -3,13 +3,13 @@ title: Golden Girl
 date: "2022-04-04"
 blogger: Lauren Hamann
 author: Hilderbrand, Elin
-tags: ['Fiction']
+narrator: Bennett, Erin
+tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description

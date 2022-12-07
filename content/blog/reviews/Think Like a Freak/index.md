@@ -3,13 +3,12 @@ title: Think Like a Freak
 date: "2021-10-08"
 blogger: Lauren Hamann
 author: Levitt, Steven D.
+narrator: Dubner, Stephen J.
 tags: ['Nonfiction', 'Economics']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

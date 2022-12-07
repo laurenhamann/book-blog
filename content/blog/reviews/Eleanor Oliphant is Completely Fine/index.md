@@ -3,13 +3,12 @@ title: Eleanor Oliphant is Completely Fine
 date: "2021-09-17"
 blogger: Lauren Hamann
 author: Honeyman, Gail
+narrator: McCarron, Cathleen
 tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

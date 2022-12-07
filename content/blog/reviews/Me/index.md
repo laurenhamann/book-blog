@@ -3,13 +3,13 @@ title: Me
 date: "2022-01-05"
 blogger: Lauren Hamann
 author: John, Elton
+narrator: Egerton, Taron
 tags: ['Nonfiction', 'Memoir']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

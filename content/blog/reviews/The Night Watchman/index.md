@@ -3,13 +3,13 @@ title: The Night Watchman
 date: "2022-10-08"
 blogger: Lauren Hamann
 author: Erdich, Louise
+narrator: Erdich, Louise
 tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

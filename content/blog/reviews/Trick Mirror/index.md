@@ -4,13 +4,13 @@ byline: Reflections on Self-Delusion
 date: "2021-07-26"
 blogger: Lauren Hamann
 author: Tolentino, Jia
+narrator: Tolentino, Jia
 tags: ['Nonfiction', 'Essays']
 image: 1.jpg
 rating: 2
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

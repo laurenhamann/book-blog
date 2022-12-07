@@ -4,13 +4,12 @@ byline: Underdogs, Misfits, and the Art of Battling Giants
 date: "2021-11-11"
 blogger: Lauren Hamann
 author: Gladwell, Malcolm
+narrator: Gladwell, Malcolm
 tags: ['Nonfiction ', 'Self Help']
 image: 1.jpg
 rating: 3
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description 

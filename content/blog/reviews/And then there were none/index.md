@@ -3,13 +3,12 @@ title: And Then There Were None
 date: "2022-08-21"
 blogger: Lauren Hamann
 author: Agatha, Christie
+narrator: Stevens, Dan
 tags: ['Fiction ', 'Mystery', 'Classics']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

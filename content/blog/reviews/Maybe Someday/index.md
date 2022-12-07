@@ -4,13 +4,13 @@ series: "Maybe #1"
 date: "2022-03-10"
 blogger: Lauren Hamann
 author: Hoover, Colleen
+narrators: ['Webber, Zachary', 'Goethals, Angela']
 tags: ['Fiction', 'Romance']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

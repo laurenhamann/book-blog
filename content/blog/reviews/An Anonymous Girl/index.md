@@ -3,13 +3,12 @@ title: An Anonymous Girl
 date: "2021-09-28"
 blogger: Lauren Hamann
 author: Hendricks, Greer
+narrators: ['Kreinik, Barrie', 'Whelan, Julia']
 tags: ['Fiction ', 'Thriller', 'Mystery']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

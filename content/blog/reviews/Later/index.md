@@ -3,13 +3,13 @@ title: Later
 date: "2021-11-05"
 blogger: Lauren Hamann
 author: King, Stephen
+narrator: Numrich, Seth
 tags: ['Fiction', 'Horror', 'Thriller']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

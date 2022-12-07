@@ -3,13 +3,13 @@ title: The Notebook
 date: "2022-03-07"
 blogger: Lauren Hamann
 author: Sparks, Nicholas
+narrator: Bostwick, Barry
 tags: ['Fiction', 'Romance']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

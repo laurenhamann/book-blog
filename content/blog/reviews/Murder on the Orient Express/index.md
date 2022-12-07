@@ -4,13 +4,12 @@ series: "Hercule Poirot #9"
 date: "2022-11-15"
 blogger: Lauren Hamann
 author: Agatha, Christie
+narrator: Stevens, Dan
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: './1.jpg'
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

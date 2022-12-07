@@ -3,13 +3,13 @@ title: The Push
 date: "2021-11-04"
 blogger: Lauren Hamann
 author: Audrain, Ashley
+narrator: Ireland, Marin
 tags: ['Fiction', 'Mystery']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

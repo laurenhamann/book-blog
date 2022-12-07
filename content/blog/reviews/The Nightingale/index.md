@@ -3,13 +3,13 @@ title: The Nightingale
 date: "2022-10-08"
 blogger: Lauren Hamann
 author: Hannah, Kristin
+narrator: Stone, Polly
 tags: ['Fiction', 'Historical', 'World War 2']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

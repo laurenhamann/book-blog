@@ -3,13 +3,13 @@ title: Open Book
 date: "2021-09-09"
 blogger: Lauren Hamann
 author: Simpson, Jessica
+narrator: Simpson, Jessica
 tags: ['Nonfiction', 'Memoir', 'Essays']
 image: 1.jpg
 rating: 3
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 Jessica tells of growing up in 1980s Texas where she was sexually abused by the daughter of a family friend, and of unsuccessfully auditioning for the Mickey Mouse Club at age 13 with Justin Timberlake and Ryan Gosling before going on to sign a record deal with Columbia and marrying 98 Degrees member Nick Lachey.

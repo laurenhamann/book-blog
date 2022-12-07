@@ -3,13 +3,12 @@ title: A Slow Fire Burning
 date: "2022-01-03"
 blogger: Lauren Hamann
 author: Hawkins, Paula
+narrator: Pike, Rosamund
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

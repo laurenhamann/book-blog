@@ -3,13 +3,13 @@ title: The Love Hypothesis
 date: "2022-03-10"
 blogger: Lauren Hamann
 author: Hazelwood, Ali
+narrators: ['Dalton, Callie', 'Hamilton, Teddy']
 tags: ['Romance', 'Fiction', 'Contemporary']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

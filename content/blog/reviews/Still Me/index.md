@@ -4,13 +4,13 @@ series: "Me Before You #3"
 date: "2022-02-23"
 blogger: Lauren Hamann
 author: Moyes, Jojo
+narrator: Acton, Anna
 tags: ['Fiction', 'Romance']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

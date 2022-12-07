@@ -3,13 +3,13 @@ title: Such a Fun Age
 date: "2021-12-13"
 blogger: Lauren Hamann
 author: Reid, Kiley
+narrator: Lewis, Nicole
 tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 3
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

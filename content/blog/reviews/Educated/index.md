@@ -3,13 +3,13 @@ title: Educated
 date: "2021-09-09"
 blogger: Lauren Hamann
 author: Westover, Tara
+narrator: Whelan, Julia
 tags: ['Nonfiction', 'Memoir']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description

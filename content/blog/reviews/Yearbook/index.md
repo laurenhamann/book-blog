@@ -3,13 +3,13 @@ title: Yearbook
 date: "2022-01-30"
 blogger: Lauren Hamann
 author: Rogen, Seth
+narrator: Rogen, Seth
 tags: ['Nonfiction', 'Memoir', 'Humor']
 image: 1.jpg
 rating: 3
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

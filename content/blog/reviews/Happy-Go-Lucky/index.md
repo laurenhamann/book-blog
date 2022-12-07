@@ -2,14 +2,14 @@
 title: Happy-Go-Lucky 
 date: "2022-06-12"
 blogger: Lauren Hamann
-author: Sedaris, David 
+author: Sedaris, David
+narrator: Sedaris, David
 tags: ['Nonfiction', 'Memoir', 'Essays']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

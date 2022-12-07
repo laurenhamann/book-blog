@@ -3,13 +3,13 @@ title: My Year of Rest and Relaxation
 date: "2022-01-04"
 blogger: Lauren Hamann
 author: Moshfegh, Ottessa
+narrator: Whelan, Julia
 tags: ['Fiction', 'Mental Health', 'Contemporary']
 image: 1.jpg
 rating: 3
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

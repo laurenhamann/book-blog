@@ -3,13 +3,12 @@ title: Big Little Lies
 date: "2022-04-07"
 blogger: Lauren Hamann
 author: Moriarty, Liane
+narrator: Lee, Caroline
 tags: ['Fiction ', 'Mystery']
 image: 1.jpg
 rating: 5
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

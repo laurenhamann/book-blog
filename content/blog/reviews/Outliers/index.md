@@ -4,13 +4,13 @@ byline: The Story of Success
 date: "2021-10-28"
 blogger: Lauren Hamann
 author: Gladwell, Malcolm
+narrator: Gladwell, Malcolm
 tags: ['Nonfiction', 'Psychology']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 In this stunning book, Malcolm Gladwell takes us on an intellectual journey through the world of "outliers"--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different?

@@ -3,13 +3,12 @@ title: The Final Girl Support Group
 date: "2022-07-01"
 blogger: Lauren Hamann
 author: Hendrix, Grady
+narrator: King, Adrienne
 tags: ['Fiction', 'Horror', 'Thriller']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

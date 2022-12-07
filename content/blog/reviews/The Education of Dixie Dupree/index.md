@@ -3,13 +3,13 @@ title: The Education of Dixie Dupree
 date: "2022-05-07"
 blogger: Lauren Hamann
 author: Everhart, Donna
+narrator: Bentley, Amy Melissa
 tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description

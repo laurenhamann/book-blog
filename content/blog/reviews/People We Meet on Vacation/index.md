@@ -3,13 +3,13 @@ title: People We Meet on Vacation
 date: "2022-03-18"
 blogger: Lauren Hamann
 author: Henry, Emily
+narrator: Whelan, Julia
 tags: ['Fiction', 'Romance']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

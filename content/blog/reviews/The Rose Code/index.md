@@ -3,13 +3,13 @@ title: The Rose Code
 date: "2022-10-21"
 blogger: Lauren Hamann
 author: Quinn, Kate
+narrator: Maarleveld, Saskia
 tags: ['Historical', 'Fiction']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

@@ -4,13 +4,13 @@ series: "Me Before You #1"
 date: "2022-02-20"
 blogger: Lauren Hamann
 author: Moyes, Jojo
+narrators: ['Lyons, Susan', 'Bentink, Anna', 'Crossley, Steven', 'Tregear, Alex', 'Wincott, Andrew', 'Lindsay, Owen']
 tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

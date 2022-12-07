@@ -3,13 +3,13 @@ title: Nine Perfect Strangers
 date: "2022-10-17"
 blogger: Lauren Hamann
 author: Moriarty, Liane
+narrator: Lee, Caroline
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

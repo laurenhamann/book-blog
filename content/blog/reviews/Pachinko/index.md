@@ -3,13 +3,13 @@ title: Pachinko
 date: "2022-11-11"
 blogger: Lauren Hamann
 author: Min Jin Lee
+narrator: Hiroto, Allison
 tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 3
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

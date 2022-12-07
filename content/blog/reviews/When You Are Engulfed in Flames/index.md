@@ -3,13 +3,13 @@ title: When You Are Engulfed in Flames
 date: "2021-09-24"
 blogger: Lauren Hamann
 author: Sedaris, David
+narrator: Sedaris, David
 tags: ['Nonfiction', 'Humor', 'Essays']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

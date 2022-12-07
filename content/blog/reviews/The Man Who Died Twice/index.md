@@ -4,13 +4,13 @@ series: "Thursday Murder Club #2"
 date: "2022-04-30"
 blogger: Lauren Hamann
 author: Osman, Richard
+narrator: Manville, Leslie
 tags: ['Fiction', 'Mystery']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

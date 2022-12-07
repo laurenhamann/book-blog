@@ -4,13 +4,13 @@ series: "It Ends With Us #1"
 date: "2021-11-23"
 blogger: Lauren Hamann
 author: Hoover, Colleen
+narrator: Song, Olivia
 tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

@@ -188,7 +188,9 @@ ol {
     height: 80vh;
     overflow: scroll;
     align-self: center;
-    #authors {
+
+    div {
+        cursor: pointer;
         .tab {
             background-color: #eee;
         }
@@ -196,17 +198,20 @@ ol {
             font-weight: bold;
             background-color: #bbb;
         }
-        .data {
-            padding: 7.5px;
-            border: 1px solid #002B5B;
-            div {
-                display: flex;
-                flex-direction: row;
-                justify-content: space-between;
-            li {
-                list-style: none;
+    }
+}
+
+.aside {
+    .data {
+        padding: 7.5px;
+        border: 1px solid #002B5B;
+        div.data-container {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            li.aside-list-item {
+                list-style-type: none;
                 cursor: pointer;
-            }
             }
         }
     }

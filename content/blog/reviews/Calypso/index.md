@@ -3,13 +3,12 @@ title: Calypso
 date: "2021-08-05"
 blogger: Lauren Hamann
 author: Sedaris, David
+narrator: Sedaris, David
 tags: ['Nonfiction ', 'Essays', 'Memoir', 'Humor']
 image: 1.jpg
 rating: 5
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

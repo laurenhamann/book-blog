@@ -4,13 +4,13 @@ series: "Finlay Donovan #2"
 date: "2022-04-19"
 blogger: Lauren Hamann
 author: Cosimano, Elle
+narrator: Dawe, Angela
 tags: ['Mystery', 'Fiction']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

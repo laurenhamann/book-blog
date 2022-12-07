@@ -4,13 +4,13 @@ series: "Will Trent #8"
 date: "2022-05-30"
 blogger: Lauren Hamann
 author: Slaughter, Karin
+narrator: Early, Kathleen
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

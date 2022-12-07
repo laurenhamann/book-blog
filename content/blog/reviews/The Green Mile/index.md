@@ -3,13 +3,13 @@ title: The Green Mile
 date: "2022-01-12"
 blogger: Lauren Hamann
 author: King, Stephen
+narrator: Muller, Frank
 tags: ['Fiction', 'Horror', 'Thriller']
 image: 1.jpg
 rating: 3
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description

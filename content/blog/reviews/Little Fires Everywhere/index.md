@@ -3,13 +3,13 @@ title: Little Fires Everywhere
 date: "2022-07-04"
 blogger: Lauren Hamann
 author: Ng, Celeste
+narrator: Lim, Jennifer
 tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

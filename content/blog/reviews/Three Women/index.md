@@ -3,13 +3,13 @@ title: Three Women
 date: "2022-09-21"
 blogger: Lauren Hamann
 author: Taddeo, Lisa
+narrators: ['Barr, Tara Lynne', 'Ireland, Marin', 'Suvari, Mena']
 tags: ['Nonfiction', 'Feminism']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

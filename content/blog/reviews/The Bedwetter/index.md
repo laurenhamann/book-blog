@@ -3,13 +3,13 @@ title: The Bedwetter
 date: "2021-10-22"
 blogger: Lauren Hamann
 author: Silverman, Sarah
+narrator: Silverman, Sarah
 tags: ['Nonfiction', 'Memoir']
 image: bedwetter.jpg
 rating: 3
 omit: false
 ---
 
-![Book Cover](bedwetter.jpg)
 
 
 ## Book Description

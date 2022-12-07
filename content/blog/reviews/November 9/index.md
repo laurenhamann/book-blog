@@ -3,13 +3,13 @@ title: November 9
 date: "2021-12-15"
 blogger: Lauren Hamann
 author: Hoover, Colleen
+narrators: ['Webber, Zachary', 'Goethals, Angela']
 tags: ['Fiction', 'Romance', 'Mystery']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

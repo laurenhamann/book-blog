@@ -3,13 +3,13 @@ title: Small Great Things
 date: "2021-12-07"
 blogger: Lauren Hamann
 author: Picoult, Jodi
+narrators: ['McDonald, Audra', 'Campbell, Cassandra', 'Fliakos, Ari']
 tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

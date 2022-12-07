@@ -3,13 +3,13 @@ title: The Song of Achilles
 date: "2021-09-04"
 blogger: Lauren Hamann
 author: Miller, Madeline
+narrator: Douglas, Frazer
 tags: ['Fiction', 'Historical', 'Fantasy']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

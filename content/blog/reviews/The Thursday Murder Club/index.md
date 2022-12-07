@@ -4,13 +4,13 @@ series: "Thursday Murder Club #1"
 date: "2022-04-29"
 blogger: Lauren Hamann
 author: Osman, Richard
+narrator: Manville, Lesley
 tags: ['Fiction', 'Mystery']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

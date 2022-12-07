@@ -3,14 +3,12 @@ title: Daisy Jones & The Six
 date: "2022-02-26"
 blogger: Lauren Hamann
 author: Reid, Taylor Jenkins
+narrators: ['Beals, Jennifer', 'Bratt, Benjamin', 'Greer, Judy', 'Schreiber, Pablo']
 tags: ['Fiction ', 'Historical']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
-
 
 ## Book Description 
 

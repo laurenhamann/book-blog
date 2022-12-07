@@ -4,13 +4,12 @@ byline: Diaries 1977-2002
 date: "2021-08-25"
 blogger: Lauren Hamann
 author: Sedaris, David
+narrator: Sedaris, David
 tags: ['Nonfiction', 'Humor', 'Memoir']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

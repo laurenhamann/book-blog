@@ -3,13 +3,13 @@ title: Project Hail Mary
 date: "2022-04-10"
 blogger: Lauren Hamann
 author: Weir, Andy
+narrator: Porter, Ray
 tags: ['Fiction', 'Science Fiction', 'Fantasy']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

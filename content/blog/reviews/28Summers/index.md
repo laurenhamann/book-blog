@@ -3,13 +3,12 @@ title: 28 Summers
 date: "2022-02-25"
 blogger: Lauren Hamann
 author: Hilderbrand, Elin
+narrator: Bennett, Erin
 tags: ['Fiction ', 'Romance']
 image: '1.jpg'
 rating: 5
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

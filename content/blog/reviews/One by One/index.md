@@ -3,13 +3,13 @@ title: One by One
 date: "2022-09-22"
 blogger: Lauren Hamann
 author: Ware, Ruth
+narrator: Church, Imogen
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

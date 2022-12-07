@@ -3,13 +3,13 @@ title: Malibu Raising
 date: "2021-11-25"
 blogger: Lauren Hamann
 author: Reid, Taylor Jenkins
+narrator: Whelan, Julia
 tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 Malibu: August 1983. It’s the day of Nina Riva’s annual end-of-summer party, and anticipation is at a fever pitch. Everyone wants to be around the famous Rivas: Nina, the talented surfer and supermodel; brothers Jay and Hud, one a championship surfer, the other a renowned photographer; and their adored baby sister, Kit. Together, the siblings are a source of fascination in Malibu and the world over—especially as the offspring of the legendary singer, Mick Riva.

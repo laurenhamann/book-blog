@@ -3,13 +3,13 @@ title: Fox 8
 date: "2021-11-11"
 blogger: Lauren Hamann
 author: Saunders, George
+narrator: Saunders, George
 tags: ['Fiction', 'Short Stories']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description

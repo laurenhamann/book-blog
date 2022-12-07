@@ -4,13 +4,12 @@ series: "Grant County #6"
 date: "2022-05-17"
 blogger: Lauren Hamann
 author: Slaughter, Karin
+narrator: Bean, Joyce
 tags: ['Fiction ', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 5
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

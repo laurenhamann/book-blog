@@ -3,13 +3,13 @@ title: The Lucky One
 date: "2022-05-12"
 blogger: Lauren Hamann
 author: Sparks, Nicholas
+narrator: Lloyd, John Bedford
 tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

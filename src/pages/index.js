@@ -16,14 +16,36 @@ const BlogIndex = ({ data, location }) => {
   const [asideVersion, setAside] = React.useState('author');
   const [asideTxt, setAsideTxt] = React.useState();
   let final = [];
+
+
   function asideText (texts) {
     let arr = [];
+
+    // if author then return author ~ if tags then return tags ~ if narrator and not null return narrator ~ if narrator and narrators not null return narrators ~ if rating return rating
+
     blogs.map((txt) => {
-      const v = texts === 'author' ? txt.author : texts === 'tags' ? txt.tags : txt.rating;
+      const v = texts === 'author' ? txt.author 
+      : 
+      texts === 'tags' ? txt.tags 
+      : 
+      texts === 'narrator' && txt.narrator !== null ? txt.narrator 
+      : 
+      texts === 'narrator' && txt.narrators !== null ? txt.narrators 
+      : 
+      txt.rating;
+
+      //Map over tags to separate 
       if(texts === 'tags'){
-        v.map((t, i) => {
+        v.map((t) => {
           arr.push(t);
         })
+        //Map over narrator to separate 
+      }else if(texts === 'narrator' && txt.narrators !== null){
+        v.map((t) => {
+          arr.push(t);
+        })
+      }else if(texts === 'narrator' && txt.narrator === null && txt.narrators === null){
+
       }else {
         arr.push(v);
       }
@@ -31,16 +53,13 @@ const BlogIndex = ({ data, location }) => {
     let count = 0;
     const lengthshortened = arr.length - 2;
     const length = arr.length - 1;
-    console.log(lengthshortened, length);
     let uniquearr = [...new Set(arr)];
     uniquearr.forEach((t, i) => {
       arr.filter((d, index2) => {
         if(index2 <= lengthshortened) {
           if(t === d) {
             count = count + 1;
-            // console.log(t, 'did match', d, count); 
-          }else {
-            // console.log(t, 'did not match', d);  
+          }else { 
           }
         } else if(index2 === length) {
           final.push({
@@ -52,7 +71,6 @@ const BlogIndex = ({ data, location }) => {
       })
     })
     const sorted = final.sort((a, b) => b.count - a.count);
-    console.log(sorted);
   }
 
 
@@ -75,10 +93,8 @@ const BlogIndex = ({ data, location }) => {
     const q = event.target.value === 0 ? event.target.textContent : event.target.value;
     const newPosts = [];
     setQuery(q);
-    console.log(q);
     if(asideVersion === 'tags'){
-      console.log('im here!')
-      posts.map((post) => {
+      blogs.map((post) => {
         post.tags.filter(t => {
           if(q === t){
             newPosts.push(post);
@@ -86,15 +102,25 @@ const BlogIndex = ({ data, location }) => {
         })
       })
     }else if(q === 1 || q === 2 || q === 3 || q === 4 || q === 5 ) {
-      posts.map((post) => {
-        console.log('wrong one')
+      blogs.map((post) => {
         if(post.rating === q){
           return newPosts.push(post);
         }
       })
+    }else if(asideVersion === 'narrator'){
+      blogs.map((post) => {
+        if(post.narrator !== null && post.narrator.toLowerCase().includes(q.toLowerCase())){
+          return newPosts.push(post)
+        }else if(post.narrators !== null){
+          post.narrators.map((e) => {
+            if(e.toLowerCase().includes(q.toLowerCase())){
+              return newPosts.push(post)
+            }
+          })
+        }
+      })
     }else {
-      console.log('wrong one end')
-      posts.map((post) => {
+      blogs.map((post) => {
         if(post.title.toLowerCase().includes(q.toLowerCase()) ||
         (post.author &&
           post.author.toLowerCase().includes(q.toLowerCase())) ||
@@ -104,22 +130,21 @@ const BlogIndex = ({ data, location }) => {
           }
       });
     }
-    // const filteredPostList = posts.map((post) => {
-    //   if(post.title.toLowerCase().includes(q.toLowerCase()) ||
-    //   (post.author &&
-    //     post.author.toLowerCase().includes(q.toLowerCase())) ||
-    //   (post.tags &&
-    //     post.tags.join('').toLowerCase().includes(q.toLowerCase()))){
-    //       return newPosts.push(post);
-    //     }
-    // });
+    console.log(q)
     setPosts(newPosts);
-    if(q === "" || q === "reset"){
+    if(q === "" || q === "none"){
       setPosts(blogs);
+      setAside('author');
     }
-
     // set the component's state with our newly generated query and list variables
   };
+  const filteredHeader = () => {
+    if(query === 'emptyQuery' || query === 'none'){
+      return;
+    }else{
+      return `Filter: ${query}`
+    }
+  }
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -132,15 +157,21 @@ const BlogIndex = ({ data, location }) => {
               onChange={(e) => filterPosts(e)}>
 
       </input>
-      <button value='reset' onClick={(e) => filterPosts(e)} type='button'>Reset</button>
+      <button value='none' onClick={(e) => filterPosts(e)} type='button'>Reset</button>
       {/* <button type="submit" onClick={(e) => filterPosts(e)}> Search </button> */}
       </form>
+      <div className="query"><h1>{filteredHeader()}</h1></div>
       <div className="flex">
       <ol>
         {posts.map(post => {
           const title = post.title || post.slug;
+
+          //color changes based on rating score
           const classNames = post.rating === 5 ? 'green' : 
             post.rating >= 3 ? 'yellow' : 'red';
+
+            //changes narrator singular to ensemble for multiple
+            const narrator = post.narrator !== null ? `Narrated By: ${post.narrator}` :post.narrator === null && post.narrators === null ? 'Written Word' : 'Narratored By: Ensemble';
           
           let image = getImage(post.image);
           const tags = post.tags !== undefined ? post.tags.map((tag) => {
@@ -149,7 +180,7 @@ const BlogIndex = ({ data, location }) => {
                         -{tag} { }
                         </small>
                       )
-                    }) : 'No Tags Available';
+                    }) : 'Uncatagorized';
           return (
             <li key={post.slug} className='flex'>
               <article
@@ -166,8 +197,9 @@ const BlogIndex = ({ data, location }) => {
                       <span itemProp="headline" className="headline" key={post.slug}>{title}</span>
                     </Link>
                   </h2>
-                  <p className="author">Written by: {post.author}</p>
                   <p className="biline">{post.biline}{post.series}</p>
+                  <p className="author">Written by: {post.author}</p>
+                  <p className="narrator">{narrator}</p>
                   <small className="date">Date Read: {post.date}</small>
                   <small className={classNames}> Rating: {post.rating} out of 5</small>
                     {tags}
@@ -186,6 +218,17 @@ const BlogIndex = ({ data, location }) => {
               }}>
                 <small>Authors</small>
             </div>
+          </div>
+          <div id='narrators'>
+            <div className={asideVersion === 'narrator' ? 'tab selected' : 'tab'}
+              onClick={()=> {
+                setAside('narrator');
+                asideText('narrator');
+              }}>
+                <small>Narrators</small>
+            </div>
+          </div>
+          <div id='tags'>
             <div className={asideVersion === 'tags' ? 'tab selected' : 'tab'}
             onClick={()=> {
                 setAside('tags');
@@ -193,6 +236,8 @@ const BlogIndex = ({ data, location }) => {
               }}>
                 <small>Tags</small>
             </div>
+          </div>
+          <div id='rating'>
             <div className={asideVersion === 'rating' ? 'tab selected' : 'tab'}
             onClick={()=> {
                 setAside('rating');
@@ -200,11 +245,12 @@ const BlogIndex = ({ data, location }) => {
               }}>
                 <small>Rating</small>
             </div>
+          </div>
             <div className="data">
               {final.map((t, i) => {
                 return (
-                  <div>
-                    <li value={t.name} className="aside-list-item" onClick={(e) => filterPosts(e)}>
+                  <div className="data-container">
+                    <li value={t.name} className={query === t.name ? "aside-list-item selected" : "aside-list-item"} onClick={(e) => filterPosts(e)}>
                       {t.name}
                     </li>
                     <small>
@@ -214,7 +260,6 @@ const BlogIndex = ({ data, location }) => {
                 )
               })}
             </div>
-          </div>
       </aside>
       </div>
     </Layout>

@@ -3,13 +3,13 @@ title: The Plot
 date: "2021-12-07"
 blogger: Lauren Hamann
 author: Korelitz, Jean Hanff
+narrator: Heyborne, Kirby
 tags: ['Fiction']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

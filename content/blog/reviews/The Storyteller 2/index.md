@@ -3,13 +3,13 @@ title: The Storyteller
 date: "2021-05-07"
 blogger: Lauren Hamann
 author: Picoult, Jodi
+narrators: ['Marno, Mozhan', 'Ikeda, Jennifer', 'Ballerini, Edoardo', 'Toren, Suzanne', 'Berman, Fred']
 tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

@@ -4,13 +4,13 @@ byline: A Rogue Economist Explores the Hidden Side of Everything
 date: "2021-10-24"
 blogger: Lauren Hamann
 author: Levitt, Steven D.
+narrator: Dubner, Stephen J.
 tags: ['Nonfiction', 'Economics']
 image: 1.jpg
 rating: 4 
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description

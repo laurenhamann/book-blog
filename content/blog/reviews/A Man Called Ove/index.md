@@ -3,13 +3,12 @@ title: A Man Called Ove
 date: "2022-01-08"
 blogger: Lauren Hamann
 author: Backman, Fredrik
+narrator: Simmons, J.K
 tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 5
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

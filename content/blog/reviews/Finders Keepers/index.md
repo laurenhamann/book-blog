@@ -4,13 +4,13 @@ series: "Bill Hodges Trilogy #2"
 date: "2021-12-27"
 blogger: Lauren Hamann
 author: King, Stephen
+narrator: Patton, Will
 tags: ['Fiction', 'Horror', 'Thriller']
 image: 1.jpg
 rating: 3
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description

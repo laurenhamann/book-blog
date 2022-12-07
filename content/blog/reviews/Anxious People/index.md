@@ -3,13 +3,12 @@ title: Anxious People
 date: "2021-12-09"
 blogger: Lauren Hamann
 author: Backman, Fredrik
+narrator: Ireland, Marin
 tags: ['Fiction ', 'Contemporary']
 image: 1.jpg
 rating: 5
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

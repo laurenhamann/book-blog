@@ -4,13 +4,13 @@ byline: Songs Are Only Half the Story
 date: "2021-10-22"
 blogger: Lauren Hamann
 author: Jewel
+narrator: Jewel
 tags: ['Nonfiction', 'Music', 'Essays']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 When Jewel's first album, Pieces of You, topped the charts in 1995, her emotional voice and vulnerable performance were groundbreaking. In the tradition of Joan Baez and Joni Mitchell (she has been compared to both), a singer-songwriter of her kind had not emerged in decades. Now, with over 30 million albums sold worldwide, Jewel tells the story of her life and the lessons learned from her experience and her music.

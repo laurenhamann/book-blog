@@ -2,6 +2,7 @@
 title: The Book Woman of Troublesome Creek
 date: "2022-05-05"
 blogger: Lauren Hamann
+narrator: Schorr, Katie
 author: Richardson, Kim Michele
 tags: ['Fiction ', 'Historical']
 image: 1.jpg
@@ -9,7 +10,6 @@ rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description

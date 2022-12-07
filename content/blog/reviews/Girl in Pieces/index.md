@@ -3,13 +3,13 @@ title: Girl in Pieces
 date: "2022-04-05"
 blogger: Lauren Hamann
 author: Glasgow, Kathleen
+narrator: Whelan, Julia
 tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

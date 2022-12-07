@@ -3,13 +3,13 @@ title: Gone Girl
 date: "2021-09-17"
 blogger: Lauren Hamann
 author: Flynn, Gillian
+narrator: Whelan, Julia
 tags: ['Fiction', 'Thriller', 'Mystery']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description

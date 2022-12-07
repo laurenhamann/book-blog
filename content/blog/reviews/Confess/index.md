@@ -3,13 +3,12 @@ title: Confess
 date: "2022-02-26"
 blogger: Lauren Hamann
 author: Hoover, Colleen
+narrators: ['Louise, Elizabeth', 'York, Sebastian']
 tags: ['Fiction ', 'Romance']
 image: 1.jpg
 rating: 5
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description 

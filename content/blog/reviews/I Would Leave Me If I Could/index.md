@@ -4,13 +4,13 @@ byline: A Collection of Poetry
 date: "2021-06-03"
 blogger: Lauren Hamann
 author: Halsey
+narrator: Halsey
 tags: ['Poetry']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

@@ -3,13 +3,13 @@ title: The Institute
 date: "2021-11-07"
 blogger: Lauren Hamann
 author: King, Stephen 
+narrator: Fontana, Santino
 tags: ['Fiction', 'Thriller']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

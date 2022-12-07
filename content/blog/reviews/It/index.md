@@ -3,13 +3,13 @@ title: It
 date: "2021-12-20"
 blogger: Lauren Hamann
 author: King, Stephen
+narrator: Weber, Steven
 tags: ['Fiction', 'Horror']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

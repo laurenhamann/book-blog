@@ -3,13 +3,12 @@ title: Beautiful World, Where Are You
 date: "2022-03-31"
 blogger: Lauren Hamann
 author: Rooney, Sally
+narrator: McMahon, Aoife
 tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 3
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

@@ -3,13 +3,13 @@ title: The Wedding Date
 date: "2022-03-14"
 blogger: Lauren Hamann
 author: Guillory, Jasmine
+narrator: Edwards, Janina
 tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 2
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

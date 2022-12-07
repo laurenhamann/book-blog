@@ -4,13 +4,13 @@ series: "Lilac Girls #1"
 date: "2022-11-21"
 blogger: Lauren Hamann
 author: Kelly, Martha Hall
+narrators: ['Campbell, Cassandra', 'Gati, Kathleen', 'Kana, Kathrin', 'Kelly, Martha Hall']
 tags: ['Fiction', 'Historical', 'World War 2']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

@@ -3,13 +3,12 @@ title: Before We Were Yours
 date: "2021-08-08"
 blogger: Lauren Hamann
 author: Wingate, Lisa
+narrators: ['Rankin, Emily', 'Taber, Catherine']
 tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 5
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

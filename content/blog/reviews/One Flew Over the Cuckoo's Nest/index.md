@@ -3,13 +3,13 @@ title: One Flew Over the Cuckoo's Nest
 date: "2022-10-06"
 blogger: Lauren Hamann
 author: Kesey, Ken
+narrator: Reilly, John C.
 tags: ['Fiction', 'Psychology', 'Classics']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

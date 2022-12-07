@@ -3,13 +3,13 @@ title: The Invisible Life of Addie LaRue
 date: "2021-08-19"
 blogger: Lauren Hamann
 author: Schwab, V.E.
+narrator: Whelan, Julia
 tags: ['Fiction', 'Fantasy']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

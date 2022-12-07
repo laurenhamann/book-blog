@@ -4,13 +4,12 @@ series: "Grant County #5"
 date: "2022-05-14" 
 blogger: Lauren Hamann
 author: Slaughter, Karin
+narrator: Ross, Clarinda
 tags: ['Thriller', 'Fiction', 'Mystery']
 image: 1.jpg
 rating: 3
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

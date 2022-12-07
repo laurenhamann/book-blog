@@ -3,13 +3,13 @@ title: The Wish
 date: "2021-12-21"
 blogger: Lauren Hamann
 author: Sparks, Nicholas
+narrators: ['Lee, Mela', 'Collyer, Will']
 tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

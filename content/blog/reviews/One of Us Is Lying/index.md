@@ -3,13 +3,13 @@ title: One of Us Is Lying
 date: "2022-04-05"
 blogger: Lauren Hamann
 author: Roberts, Bethan
+narrators: ['Guest, Kim Mai', 'Andrews, MacLeod', 'McManus, Shannon', 'Daymond, Robbie']
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

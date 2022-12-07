@@ -3,13 +3,13 @@ title: Yes Please
 date: "2021-09-19"
 blogger: Lauren Hamann
 author: Poehler, Amy
+narrator: Poehler, Amy
 tags: ['Nonfiction', 'Memoir']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

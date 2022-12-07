@@ -3,13 +3,13 @@ title: Outlander
 date: "2022-08-08"
 blogger: Lauren Hamann
 author: Gabaldon, Diana
+narrator: Porter, Davina
 tags: ['Fiction', 'Historical', 'Romance', 'Fantasy']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

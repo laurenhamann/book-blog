@@ -3,13 +3,12 @@ title: Everything I Never Told You
 date: "2022-03-21"
 blogger: Lauren Hamann
 author: Ng, Celeste
+narrator: Campbell, Cassandra
 tags: ['Fiction', 'Contemporary', 'Mystery']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

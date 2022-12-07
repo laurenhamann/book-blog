@@ -3,13 +3,12 @@ title: Eleanor & Park
 date: "2022-02-24"
 blogger: Lauren Hamann
 author: Rowell, Rainbow
+narrators: ['Lowman, Rebecca', 'Malhotra, Sunil']
 tags: ['Fiction', 'Romance']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

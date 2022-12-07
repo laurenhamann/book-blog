@@ -3,13 +3,13 @@ title: The Last Bookshop in London
 date: "2022-10-22"
 blogger: Lauren Hamann
 author: Martin, Madeline
+narrator: Maarleveld, Saskia
 tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

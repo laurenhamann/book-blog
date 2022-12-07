@@ -3,13 +3,13 @@ title: The Stand
 date: "2021-11-16"
 blogger: Lauren Hamann
 author: King, Stephen
+narrator: Gardner, Grover
 tags: ['Fiction', 'Horror', 'Fantasy']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

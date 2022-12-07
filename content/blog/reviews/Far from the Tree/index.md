@@ -3,13 +3,12 @@ title: Far from the Tree
 date: "2021-10-05"
 blogger: Lauren Hamann
 author: Benway, Robin
+narrator: Whelan, Julia
 tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 5
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

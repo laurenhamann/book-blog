@@ -3,13 +3,13 @@ title: The Four Winds
 date: "2021-07-30"
 blogger: Lauren Hamann
 author: Hannah, Kristin
+narrator: Whelan, Julia
 tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description

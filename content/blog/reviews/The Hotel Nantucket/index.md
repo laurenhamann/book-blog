@@ -3,13 +3,12 @@ title: The Hotel Nantucket
 date: "2022-11-27"
 blogger: Lauren Hamann
 author: Hilderbrand, Elin
+narrator: Bennett, Erin
 tags: ['Fiction', 'Romance']
 image: 1.jpg
 rating: 3
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

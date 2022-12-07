@@ -4,13 +4,12 @@ date: "2021-12-01"
 byline: Use Cesar's Way to Transform Your Dog . . . and Your Life
 blogger: Lauren Hamann
 author: Millan, Cesar
+narrator: Mayer, John H.
 tags: ['Nonfiction', 'Animals']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

@@ -16,10 +16,12 @@ const useBlogs = () => {
                 blogger
                 date(formatString: "MMMM DD, YYYY")
                 description
+                narrator
                 rating
                 series
                 tags
                 title
+                narrators
                 image {
                 childImageSharp {
                     gatsbyImageData(blurredOptions: {width: 150}, height: 200, width: 200)
@@ -43,6 +45,8 @@ const useBlogs = () => {
         series: post.frontmatter.series,
         excerpt: post.excerpt,
         tags: post.frontmatter.tags,
+        narrator: post.frontmatter.narrator,
+        narrators: post.frontmatter.narrators,
         rating: post.frontmatter.rating,
         image: post.frontmatter.image,
         slug: post.fields.slug

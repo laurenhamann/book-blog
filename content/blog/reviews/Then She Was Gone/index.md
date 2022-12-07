@@ -3,13 +3,13 @@ title: Then She Was Gone
 date: "2022-10-24"
 blogger: Lauren Hamann
 author: Jewell, Lisa
+narrator: Duff, Helen
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

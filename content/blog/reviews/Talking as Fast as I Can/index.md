@@ -4,13 +4,13 @@ byline: From Gilmore Girls to Gilmore Girls (and Everything in Between)
 date: "2021-10-11"
 blogger: Lauren Hamann
 author: Graham, Lauren
+narrator: Graham, Lauren
 tags: ['Nonfiction', 'Memoir']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

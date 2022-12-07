@@ -3,13 +3,12 @@ title: The Guest List
 date: "2022-10-10"
 blogger: Lauren Hamann
 author: Foley, Lucy
+narrators: ['Davies, Jot', 'Massey, Chloe', 'Dowd, Olivia', 'McMahon, Aoife', 'Ovens, Sarah', 'Keeble, Rich']
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 5
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

@@ -1,6 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -21,6 +21,11 @@ const BlogPostTemplate = ({
       </small>
     )
   }) : 'No Tags Available';
+
+
+  const narrator = post.frontmatter.narrator !== null ?  `Narrated by: ${post.frontmatter.narrator}` : post.frontmatter.narrators !== null ? 'Narrated by: Ensemble' : 'Hardcover';
+
+  let image = getImage(post.frontmatter.image);
   return (
     <Layout location={location} title={siteTitle}>
       <article
@@ -32,12 +37,17 @@ const BlogPostTemplate = ({
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <h4>{post.frontmatter.author}</h4>
           <div className="blogger-section">
-            <p className="author">{post.frontmatter.blogauthor}</p>
+            <p className="author">Posted by: {post.frontmatter.blogger}</p>
+            <p className="narrator">{narrator}</p>
             <p className={classNames}>{post.frontmatter.rating} out of 5</p>
             <p className="tag">{tags} </p>
           </div>
           <p>{post.frontmatter.date}</p>
         </header>
+
+        <GatsbyImage image={image} 
+                    alt=""
+                    className="book-cover-post" />
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
@@ -107,12 +117,19 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
-        blogauthor
+        blogger
         author
         tags
         rating
         biline
         series
+        narrator
+        narrators
+        image {
+          childImageSharp {
+              gatsbyImageData(blurredOptions: {width: 400}, height: 450, width: 300)
+          }
+        }
       } 
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {

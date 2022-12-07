@@ -4,14 +4,12 @@ byline: Lies, Spies, and a Conspiracy to Protect Predators
 date: "2022-01-08"
 blogger: Lauren Hamann
 author: Farrow, Ronan
+narrator: Farrow, Ronan
 tags: ['Nonfiction ', 'Crime', 'Politics']
 image: 1.jpg
 rating: 5
 omit: false
 ---
-
-![Book Cover](1.jpg)
-
 
 ## Book Description
 

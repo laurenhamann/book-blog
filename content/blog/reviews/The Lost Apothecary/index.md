@@ -3,13 +3,13 @@ title: The Lost Apothecary
 date: "2021-10-02"
 blogger: Lauren Hamann
 author: Penner, Sarah
+narrators: ['Bennett, Lorna', 'Anthony, Lauren', 'Irwin, Lauren']
 tags: ['Fiction', 'Historical', 'Mystery']
 image: 1.jpg
 rating: 5
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

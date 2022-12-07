@@ -3,13 +3,13 @@ title: How to Be an Antiracist
 date: "2021-09-15"
 blogger: Lauren Hamann
 author: Kendi, Ibram X. 
+narrator: Kendi, Ibram X.
 tags: ['Nonfiction', 'Race']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

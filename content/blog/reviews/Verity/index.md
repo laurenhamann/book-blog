@@ -3,13 +3,12 @@ title: Verity
 date: "2022-03-19"
 blogger: Lauren Hamann
 author: Hoover, Colleen
+narrators: ['Johansson, Vanessa', 'Landon, Amy']
 tags: ['Fiction', 'Thriller', 'Romance', 'Mystery']
 image: 1.jpg
 rating: 2
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

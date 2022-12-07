@@ -4,13 +4,12 @@ byline: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Paren
 date: "2021-11-09"
 blogger: Lauren Hamann
 author: Brown, Brene
+narrator: Brown, Brene
 tags: ['Nonfiction ', 'Self Help']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description 

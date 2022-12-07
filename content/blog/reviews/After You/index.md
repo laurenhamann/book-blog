@@ -4,13 +4,12 @@ series: "Me Before You Series #2"
 date: "2022-02-20"
 blogger: Lauren Hamann
 author: Moyes, Jojo
+narrator: Acton, Anna
 tags: ['Fiction ', 'Romance']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 How do you move on after losing the person you loved? How do you build a life worth living?

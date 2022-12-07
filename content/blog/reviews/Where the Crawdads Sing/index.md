@@ -3,13 +3,12 @@ title: Where the Crawdads Sing
 date: "2022-04-08"
 blogger: Lauren Hamann
 author: Owens, Delia
+narrator: Campbell, Cassandra
 tags: ['Fiction', 'Historical', 'Mystery']
 image: 1.jpg
 rating: 5
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

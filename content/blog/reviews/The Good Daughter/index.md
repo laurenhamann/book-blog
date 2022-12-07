@@ -4,13 +4,12 @@ series: "Good Daughter #1"
 date: "2022-10-26"
 blogger: Lauren Hamann
 author: Slaughter, Karin
+narrator: Early, Kathleen
 tags: ['Fiction', 'Thriller', 'Mystery']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 
 ## Book Description

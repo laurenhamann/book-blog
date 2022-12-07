@@ -3,13 +3,12 @@ title: Sharp Objects
 date: "2021-09-08"
 blogger: Lauren Hamann
 author: Flynn, Gillian
+narrator: Lee, Ann Marie
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

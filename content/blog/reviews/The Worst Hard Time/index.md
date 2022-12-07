@@ -4,13 +4,13 @@ byline: The Untold Story of Those Who Survived the Great American Dust Bowl
 date: "2021-12-05"
 blogger: Lauren Hamann
 author: Egan, Timothy
+narrator: York, Jacob
 tags: ['Nonfiction', 'History']
 image: 1.jpg
 rating: 3
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 ## Book Description
 

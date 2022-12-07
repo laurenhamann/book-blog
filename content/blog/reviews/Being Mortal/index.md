@@ -4,13 +4,12 @@ byline: Medicine and What Matters in the End
 date: "2021-10-26"
 blogger: Lauren Hamann
 author: Gawande, Atul
+narrator: Petkoff, Robert
 tags: ['Nonfiction ', 'Health']
 image: 1.jpg
 rating: 4
 omit: false
 ---
-
-![Book Cover](1.jpg)
 
 ## Book Description
 

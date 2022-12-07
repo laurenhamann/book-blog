@@ -3,13 +3,13 @@ title: The Great Alone
 date: "2021-08-13"
 blogger: Lauren Hamann
 author: Hannah, Kristin
+narrator: Whelan, Julia
 tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 4
 omit: false
 ---
 
-![Book Cover](1.jpg)
 
 
 ## Book Description
