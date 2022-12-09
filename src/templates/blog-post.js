@@ -125,6 +125,8 @@ export const pageQuery = graphql`
         series
         narrator
         narrators
+        superlatives
+        score
         image {
           childImageSharp {
               gatsbyImageData(blurredOptions: {width: 400}, height: 450, width: 300)

@@ -8,6 +8,8 @@ tags: ['Fiction', 'Mystery', 'Short Stories']
 image: 1.jpg
 rating: 4
 omit: false
+superlatives: Unsettle
+score: 87
 ---
 
 

@@ -23,29 +23,30 @@ const BlogIndex = ({ data, location }) => {
 
     // if author then return author ~ if tags then return tags ~ if narrator and not null return narrator ~ if narrator and narrators not null return narrators ~ if rating return rating
 
-    blogs.map((txt) => {
-      const v = texts === 'author' ? txt.author 
-      : 
-      texts === 'tags' ? txt.tags 
-      : 
-      texts === 'narrator' && txt.narrator !== null ? txt.narrator 
-      : 
-      texts === 'narrator' && txt.narrators !== null ? txt.narrators 
-      : 
-      txt.rating;
+    blogs.map((txt, i) => {
+      let v;
 
-      //Map over tags to separate 
-      if(texts === 'tags'){
-        v.map((t) => {
-          arr.push(t);
-        })
-        //Map over narrator to separate 
+      if(texts === 'author'){
+        v = txt.author
+      }else if(texts === 'tags' || texts === 'favorites'){
+        v = txt.tags
+      }else if(texts === 'narrator' && txt.narrator !== null ) {
+        v = txt.narrator 
       }else if(texts === 'narrator' && txt.narrators !== null){
-        v.map((t) => {
-          arr.push(t);
-        })
-      }else if(texts === 'narrator' && txt.narrator === null && txt.narrators === null){
+        v = txt.narrators
+      }else if(texts === 'rating'){
+        v = txt.rating
+      }else if(texts === 'superlatives' && txt.superlative !== null){
+        v = txt.superlative
+      }else {
+        return;
+      }
 
+      //if V is an array seperate it and push to arr. 
+      if(Array.isArray(v)){
+        v.map((t, i) => {
+          arr.push(t);
+        }) 
       }else {
         arr.push(v);
       }
@@ -119,6 +120,26 @@ const BlogIndex = ({ data, location }) => {
           })
         }
       })
+    }else if(asideVersion === 'favorites'){
+      blogs.map((post) => {
+        post.tags.filter(t => {
+          if(q === t && post.score !== null){
+            newPosts.push(post);
+          }
+        })
+      })
+      const sorted = newPosts.sort((a, b) => b.score - a.score);
+
+    }else if(asideVersion === 'superlatives'){
+      console.log(q);
+      blogs.map((post) => {
+        console.log('in map');
+        if(post.superlative !== null) {
+          if(post.superlative.toLowerCase().includes(q.toLowerCase())){
+            return newPosts.push(post)
+          }
+        }
+      })
     }else {
       blogs.map((post) => {
         if(post.title.toLowerCase().includes(q.toLowerCase()) ||
@@ -130,7 +151,6 @@ const BlogIndex = ({ data, location }) => {
           }
       });
     }
-    console.log(q)
     setPosts(newPosts);
     if(q === "" || q === "none"){
       setPosts(blogs);
@@ -141,7 +161,9 @@ const BlogIndex = ({ data, location }) => {
   const filteredHeader = () => {
     if(query === 'emptyQuery' || query === 'none'){
       return;
-    }else{
+    }else if(asideVersion === 'favorites'){
+      return `My Top 5 - ${query}`
+    }else {
       return `Filter: ${query}`
     }
   }
@@ -158,22 +180,75 @@ const BlogIndex = ({ data, location }) => {
 
       </input>
       <button value='none' onClick={(e) => filterPosts(e)} type='button'>Reset</button>
-      {/* <button type="submit" onClick={(e) => filterPosts(e)}> Search </button> */}
       </form>
       <div className="query"><h1>{filteredHeader()}</h1></div>
       <div className="flex">
       <ol>
-        {posts.map(post => {
+        {posts.map((post, i) => {
           const title = post.title || post.slug;
+          //get book image
+          let image = getImage(post.image);
 
-          //color changes based on rating score
+          if(asideVersion === 'favorites'){
+            if(i <= 4){
+              return (
+                <li key={post.slug} className='flex'>
+              <article
+                className="post-list-item"
+                itemScope
+                itemType="http://schema.org/Article"
+              >
+                <header>
+                  <h2>
+                    <Link to={post.slug} itemProp="url">
+                    <GatsbyImage image={image} 
+                    alt=""
+                    className="book-cover-home" /> <br />
+                      <span itemProp="headline" className="headline" key={post.slug}>{title}</span>
+                    </Link>
+                  </h2>
+                  <p className="score">rating:{post.score} </p>
+                </header>
+              </article>
+            </li>
+              )
+            }else {
+              return;
+            }
+          }else {
+            //color changes based on rating score
           const classNames = post.rating === 5 ? 'green' : 
             post.rating >= 3 ? 'yellow' : 'red';
 
             //changes narrator singular to ensemble for multiple
-            const narrator = post.narrator !== null ? `Narrated By: ${post.narrator}` :post.narrator === null && post.narrators === null ? 'Written Word' : 'Narratored By: Ensemble';
-          
-          let image = getImage(post.image);
+            const narrator = 
+            post.narrator !== null 
+            ? 
+            <p className="narrator">Narrated By: {post.narrator}</p> 
+            : post.narrator === null && post.narrators === null 
+            ? 
+            ''
+            : 
+            <p className="narrator">Narratored By: Ensemble</p> ;
+
+
+            const rated = 
+            <small className={classNames}> Rating: {post.rating} out of 5</small>;
+          const read =  <small className="date">Date Read: {post.date}</small>;
+
+          const authors = <p className="author">Written by: {post.author}</p>;
+            //series or byline 
+            const either = 
+            post.series !== null 
+            ? 
+            <p className="series">{post.series}</p> 
+            : 
+            post.biline !== null 
+            ? 
+            <p className="byline">{post.biline}</p> 
+            : '';
+
+          // get tags
           const tags = post.tags !== undefined ? post.tags.map((tag) => {
                       return (
                         <small className={tag}>
@@ -181,6 +256,9 @@ const BlogIndex = ({ data, location }) => {
                         </small>
                       )
                     }) : 'Uncatagorized';
+
+          const html = [authors, either, narrator, read, rated, tags]
+
           return (
             <li key={post.slug} className='flex'>
               <article
@@ -197,16 +275,15 @@ const BlogIndex = ({ data, location }) => {
                       <span itemProp="headline" className="headline" key={post.slug}>{title}</span>
                     </Link>
                   </h2>
-                  <p className="biline">{post.biline}{post.series}</p>
-                  <p className="author">Written by: {post.author}</p>
-                  <p className="narrator">{narrator}</p>
-                  <small className="date">Date Read: {post.date}</small>
-                  <small className={classNames}> Rating: {post.rating} out of 5</small>
-                    {tags}
+                  {html.map((d) => {
+                return d
+              })}
                 </header>
               </article>
             </li>
           )
+
+          }
         })}
       </ol>
       <aside className="aside" id={asideVersion}>
@@ -246,8 +323,38 @@ const BlogIndex = ({ data, location }) => {
                 <small>Rating</small>
             </div>
           </div>
+          <div id='Superlatives'>
+            <div className={asideVersion === 'superlatives' ? 'tab selected' : 'tab'}
+            onClick={()=> {
+                setAside('superlatives');
+                asideText('superlatives');
+              }}>
+                <small>Most Likely to</small>
+            </div>
+          </div>
+          <div id='favorites'>
+            <div className={asideVersion === 'favorites' ? 'tab selected' : 'tab'}
+            onClick={()=> {
+                setAside('favorites');
+                asideText('favorites');
+              }}>
+                <small>Favorites</small>
+            </div>
+          </div>
             <div className="data">
               {final.map((t, i) => {
+                if(asideVersion === 'favorites'){
+                  return (
+                  <div className="data-container">
+                    <li value={t.name} className={query === t.name ? "aside-list-item selected" : "aside-list-item"} onClick={(e) => filterPosts(e)}>
+                      {t.name}
+                    </li>
+                    <small>
+                        (Top 5)
+                    </small>
+                  </div>
+                )
+                }else {
                 return (
                   <div className="data-container">
                     <li value={t.name} className={query === t.name ? "aside-list-item selected" : "aside-list-item"} onClick={(e) => filterPosts(e)}>
@@ -258,6 +365,7 @@ const BlogIndex = ({ data, location }) => {
                     </small>
                   </div>
                 )
+                }
               })}
             </div>
       </aside>

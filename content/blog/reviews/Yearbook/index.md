@@ -8,6 +8,7 @@ tags: ['Nonfiction', 'Memoir', 'Humor']
 image: 1.jpg
 rating: 3
 omit: false
+superlatives: Disappoint
 ---
 
 

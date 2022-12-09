@@ -9,6 +9,7 @@ tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 5
 omit: false
+superlatives: Produce Tears
 ---
 
 

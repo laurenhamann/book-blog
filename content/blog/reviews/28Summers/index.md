@@ -8,6 +8,8 @@ tags: ['Fiction ', 'Romance']
 image: '1.jpg'
 rating: 5
 omit: false
+superlatives: Produce Tears
+score: 90
 ---
 
 

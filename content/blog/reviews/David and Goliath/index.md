@@ -9,6 +9,8 @@ tags: ['Nonfiction ', 'Self Help']
 image: 1.jpg
 rating: 3
 omit: false
+score: 70
+
 ---
 
 

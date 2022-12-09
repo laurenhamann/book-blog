@@ -9,6 +9,7 @@ tags: ['Nonfiction', 'Music', 'Essays']
 image: 1.jpg
 rating: 5
 omit: false
+superlatives: Move the Soul
 ---
 
 

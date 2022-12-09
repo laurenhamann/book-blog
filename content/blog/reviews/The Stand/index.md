@@ -8,6 +8,7 @@ tags: ['Fiction', 'Horror', 'Fantasy']
 image: 1.jpg
 rating: 5
 omit: false
+salutations: 'Most Memorable'
 ---
 
 

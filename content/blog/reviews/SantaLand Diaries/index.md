@@ -8,6 +8,7 @@ tags: ['Nonfiction', 'Humor', 'Essays']
 image: 1.jpg
 rating: 3
 omit: false
+superlatives: Not Finish
 ---
 
 ## Book Description

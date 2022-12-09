@@ -4,10 +4,11 @@ date: "2022-01-05"
 blogger: Lauren Hamann
 author: John, Elton
 narrator: Egerton, Taron
-tags: ['Nonfiction', 'Memoir']
+tags: ['Nonfiction', 'Memoir', 'LGBT']
 image: 1.jpg
 rating: 5
 omit: false
+superlatives: Re-Read
 ---
 
 

@@ -8,6 +8,7 @@ tags: ['Fiction', 'Romance']
 image: 1.jpg
 rating: 3
 omit: false
+score: 72
 ---
 
 ## Book Description

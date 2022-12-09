@@ -22,6 +22,8 @@ const useBlogs = () => {
                 tags
                 title
                 narrators
+                superlatives
+                score
                 image {
                 childImageSharp {
                     gatsbyImageData(blurredOptions: {width: 150}, height: 200, width: 200)
@@ -49,8 +51,13 @@ const useBlogs = () => {
         narrators: post.frontmatter.narrators,
         rating: post.frontmatter.rating,
         image: post.frontmatter.image,
-        slug: post.fields.slug
+        slug: post.fields.slug,
+        score: post.frontmatter.score,
+        superlative: post.frontmatter.superlatives
     }))
 }
 
+
+
+// go to graphiql and see how to query for awards
 export default useBlogs;

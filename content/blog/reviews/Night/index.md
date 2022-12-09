@@ -9,6 +9,11 @@ tags: ['Nonfiction', 'Classics', 'History', 'World War 2']
 image: 1.jpg
 rating: 5
 omit: false
+awards:
+     -   {tag: History,
+        order: 1}
+     -  {tag: Classics,
+        order: 2}
 ---
 
 ## Book Description

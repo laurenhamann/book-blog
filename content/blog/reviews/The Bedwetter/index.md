@@ -5,7 +5,7 @@ blogger: Lauren Hamann
 author: Silverman, Sarah
 narrator: Silverman, Sarah
 tags: ['Nonfiction', 'Memoir']
-image: bedwetter.jpg
+image: 1.jpg
 rating: 3
 omit: false
 ---

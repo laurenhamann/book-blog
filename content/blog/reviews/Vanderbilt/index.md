@@ -9,6 +9,11 @@ tags: ['Nonfiction', 'History', 'Biography']
 image: 1.jpg
 rating: 2
 omit: false
+salutations: Most Likely to Not Finish
+awards: -
+    tag: History
+    order: 2
+-
 ---
 
 

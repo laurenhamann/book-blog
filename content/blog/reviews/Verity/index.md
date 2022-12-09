@@ -8,6 +8,7 @@ tags: ['Fiction', 'Thriller', 'Romance', 'Mystery']
 image: 1.jpg
 rating: 2
 omit: false
+superlatives: Unsettle
 ---
 
 ## Book Description

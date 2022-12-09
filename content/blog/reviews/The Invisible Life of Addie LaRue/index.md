@@ -8,6 +8,7 @@ tags: ['Fiction', 'Fantasy']
 image: 1.jpg
 rating: 4
 omit: false
+superlatives: Produce Tears
 ---
 
 

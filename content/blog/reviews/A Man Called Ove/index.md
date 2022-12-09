@@ -8,6 +8,7 @@ tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 5
 omit: false
+superlatives: Warm the Body
 ---
 
 ## Book Description

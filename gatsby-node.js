@@ -114,7 +114,6 @@ exports.createSchemaCustomization = ({ actions }) => {
       fields: Fields
     }
 
-
     type Frontmatter {
       title: String
       description: String
@@ -127,6 +126,8 @@ exports.createSchemaCustomization = ({ actions }) => {
       series: String
       narrator: String
       narrators: [String]
+      superlatives: String
+      score: Int
     }
     
     type Fields {

@@ -8,6 +8,8 @@ tags: ['Fiction', 'Short Stories']
 image: 1.jpg
 rating: 4
 omit: false
+score: 85
+
 ---
 
 
