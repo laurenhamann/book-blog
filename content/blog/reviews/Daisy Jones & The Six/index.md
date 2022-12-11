@@ -7,7 +7,7 @@ narrators: ['Beals, Jennifer', 'Bratt, Benjamin', 'Greer, Judy', 'Schreiber, Pab
 tags: ['Fiction ', 'Historical']
 image: 1.jpg
 rating: 4
-omit: false
+score: 73
 ---
 
 ## Book Description 

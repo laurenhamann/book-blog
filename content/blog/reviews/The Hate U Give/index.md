@@ -7,7 +7,7 @@ narrator: Turpin, Bahni
 tags: ['Fiction', 'Contemporary', 'Race']
 image: 1.jpg
 rating: 5
-omit: false
+score: 96
 superlatives: Move the Soul
 ---
 

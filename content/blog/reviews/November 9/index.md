@@ -7,7 +7,7 @@ narrators: ['Webber, Zachary', 'Goethals, Angela']
 tags: ['Fiction', 'Romance', 'Mystery']
 image: 1.jpg
 rating: 4
-omit: false
+score: 89
 ---
 
 

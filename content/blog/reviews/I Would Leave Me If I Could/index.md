@@ -8,7 +8,7 @@ narrator: Halsey
 tags: ['Poetry']
 image: 1.jpg
 rating: 5
-omit: false
+score: 80
 ---
 
 

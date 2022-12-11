@@ -7,8 +7,8 @@ author: Graham, Lauren
 narrator: Graham, Lauren
 tags: ['Nonfiction', 'Memoir']
 image: 1.jpg
-rating: 5
-omit: false
+rating: 3
+score: 69
 ---
 
 

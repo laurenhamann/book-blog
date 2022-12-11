@@ -7,7 +7,7 @@ author: Gunter, Jennifer
 tags: ['Nonfiction', 'Health']
 image: 1.jpg
 rating: 3
-omit: false
+score: 60
 ---
 
 ## Book Description

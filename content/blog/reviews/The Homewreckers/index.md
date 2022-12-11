@@ -7,8 +7,7 @@ narrator: McInerney, Kathleen
 tags: ['Fiction', 'Romance', 'Mystery' ]
 image: 1.jpg
 rating: 3
-omit: false
-salutations: Biggest Surprise
+score: 79
 ---
 
 

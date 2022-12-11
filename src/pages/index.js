@@ -14,7 +14,7 @@ const BlogIndex = ({ data, location }) => {
   const [posts, setPosts] = React.useState(blogs);
   const [query, setQuery] = React.useState('emptyQuery');
   const [asideVersion, setAside] = React.useState('author');
-  const [asideTxt, setAsideTxt] = React.useState();
+  //const [asideTxt, setAsideTxt] = React.useState();
   let final = [];
 
 
@@ -50,6 +50,7 @@ const BlogIndex = ({ data, location }) => {
       }else {
         arr.push(v);
       }
+      return;
     })
     let count = 0;
     const lengthshortened = arr.length - 2;
@@ -71,7 +72,7 @@ const BlogIndex = ({ data, location }) => {
         }
       })
     })
-    const sorted = final.sort((a, b) => b.count - a.count);
+    final.sort((a, b) => b.count - a.count);
   }
 
 
@@ -188,15 +189,16 @@ const BlogIndex = ({ data, location }) => {
           const title = post.title || post.slug;
           //get book image
           let image = getImage(post.image);
-
+          const key = `${post.slug}${i}`;
           if(asideVersion === 'favorites'){
             if(i <= 4){
               return (
-                <li key={post.slug} className='flex'>
+              <li key={post.slug} className='flex'>
               <article
                 className="post-list-item"
                 itemScope
                 itemType="http://schema.org/Article"
+                key={key}
               >
                 <header>
                   <h2>
@@ -265,6 +267,7 @@ const BlogIndex = ({ data, location }) => {
                 className="post-list-item"
                 itemScope
                 itemType="http://schema.org/Article"
+                key={key}
               >
                 <header>
                   <h2>
@@ -343,9 +346,10 @@ const BlogIndex = ({ data, location }) => {
           </div>
             <div className="data">
               {final.map((t, i) => {
+                const key = `${t.name}+${i}`;
                 if(asideVersion === 'favorites'){
                   return (
-                  <div className="data-container">
+                  <div className="data-container" key={key}>
                     <li value={t.name} className={query === t.name ? "aside-list-item selected" : "aside-list-item"} onClick={(e) => filterPosts(e)}>
                       {t.name}
                     </li>
@@ -356,7 +360,7 @@ const BlogIndex = ({ data, location }) => {
                 )
                 }else {
                 return (
-                  <div className="data-container">
+                  <div className="data-container" key={key}>
                     <li value={t.name} className={query === t.name ? "aside-list-item selected" : "aside-list-item"} onClick={(e) => filterPosts(e)}>
                       {t.name}
                     </li>

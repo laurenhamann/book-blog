@@ -7,7 +7,7 @@ narrator: Heyborne, Kirby
 tags: ['Fiction']
 image: 1.jpg
 rating: 5
-omit: false
+score: 90
 ---
 
 

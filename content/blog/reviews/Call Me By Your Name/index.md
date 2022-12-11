@@ -7,7 +7,6 @@ narrator: Hammer, Armie
 tags: ['Fiction ', 'Romance', 'LGBT']
 image: 1.jpg
 rating: 4
-omit: false
 score: 85
 
 ---

@@ -7,7 +7,6 @@ narrator: Reilly, John C.
 tags: ['Fiction', 'Psychology', 'Classics']
 image: 1.jpg
 rating: 4
-omit: false
 score: 86
 ---
 

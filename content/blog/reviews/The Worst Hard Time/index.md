@@ -8,8 +8,7 @@ narrator: York, Jacob
 tags: ['Nonfiction', 'History']
 image: 1.jpg
 rating: 3
-omit: false
-salutations: Most Likely to Not Finish
+superlatives: Not Finish
 score: 30
 ---
 

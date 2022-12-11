@@ -8,7 +8,7 @@ narrator: Dawe, Angela
 tags: ['Fiction', 'Mystery']
 image: 1.jpg
 rating: 4
-omit: false
+score: 88
 ---
 
 

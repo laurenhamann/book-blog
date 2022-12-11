@@ -8,7 +8,7 @@ narrators: ['Campbell, Cassandra', 'Gati, Kathleen', 'Kana, Kathrin', 'Kelly, Ma
 tags: ['Fiction', 'Historical', 'World War 2']
 image: 1.jpg
 rating: 4
-omit: false
+score: 89
 ---
 
 

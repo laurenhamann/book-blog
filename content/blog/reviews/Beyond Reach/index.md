@@ -8,7 +8,6 @@ narrator: Bean, Joyce
 tags: ['Fiction ', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 5
-omit: false
 ---
 
 ## Book Description

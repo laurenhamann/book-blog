@@ -7,7 +7,7 @@ narrator: Acevedo, Elizabeth
 tags: ['Fiction', 'Contemporary', 'Romance']
 image: 1.jpg
 rating: 4
-omit: false
+score: 86
 ---
 
 

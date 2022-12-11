@@ -7,7 +7,7 @@ narrator: Armitage, Richard
 tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 3
-omit: false
+score: 60
 ---
 
 

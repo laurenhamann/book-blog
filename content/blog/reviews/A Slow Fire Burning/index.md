@@ -7,7 +7,7 @@ narrator: Pike, Rosamund
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 4
-omit: false
+score: 75
 ---
 
 ## Book Description

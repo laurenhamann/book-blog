@@ -7,7 +7,7 @@ narrator: Egerton, Taron
 tags: ['Nonfiction', 'Memoir', 'LGBT']
 image: 1.jpg
 rating: 5
-omit: false
+score: 96
 superlatives: Re-Read
 ---
 

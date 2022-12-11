@@ -8,7 +8,7 @@ narrator: Farrow, Ronan
 tags: ['Nonfiction ', 'Crime', 'Politics']
 image: 1.jpg
 rating: 5
-omit: false
+score: 92
 ---
 
 ## Book Description

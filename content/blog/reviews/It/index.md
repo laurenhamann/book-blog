@@ -7,7 +7,7 @@ narrator: Weber, Steven
 tags: ['Fiction', 'Horror']
 image: 1.jpg
 rating: 5
-omit: false
+score: 88
 superlatives: Unsettle
 ---
 

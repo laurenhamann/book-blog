@@ -7,8 +7,8 @@ narrator: Sedaris, David
 tags: ['Nonfiction ', 'Essays', 'Memoir', 'Humor']
 image: 1.jpg
 rating: 5
-omit: false
 superlatives: Re-Read
+score: 95
 ---
 
 ## Book Description

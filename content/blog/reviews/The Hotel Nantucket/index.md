@@ -4,10 +4,9 @@ date: "2022-11-27"
 blogger: Lauren Hamann
 author: Hilderbrand, Elin
 narrator: Bennett, Erin
-tags: ['Fiction', 'Romance']
+tags: ['Fiction', 'Romance', 'Supernatural']
 image: 1.jpg
 rating: 3
-omit: false
 score: 72
 ---
 

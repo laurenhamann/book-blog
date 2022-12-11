@@ -7,7 +7,7 @@ narrator: Murin, Patti
 tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 3
-omit: false
+score: 60
 ---
 
 

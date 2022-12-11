@@ -8,7 +8,6 @@ narrator: Patton, Will
 tags: ['Fiction', 'Horror', 'Thriller']
 image: 1.jpg
 rating: 3
-omit: false
 ---
 
 

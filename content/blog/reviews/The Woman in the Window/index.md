@@ -7,7 +7,7 @@ narrator: Lee, Ann Marie
 tags: ['Fiction', 'Thriller', 'Mystery']
 image: 1.jpg
 rating: 5
-omit: false
+score: 91
 ---
 
 

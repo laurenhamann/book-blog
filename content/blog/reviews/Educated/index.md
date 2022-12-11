@@ -7,7 +7,6 @@ narrator: Whelan, Julia
 tags: ['Nonfiction', 'Memoir']
 image: 1.jpg
 rating: 5
-omit: false
 superlatives: Remember Forever 
 score: 98
 

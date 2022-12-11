@@ -7,7 +7,7 @@ narrator: Lewis, Nicole
 tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 3
-omit: false
+score: 50
 ---
 
 

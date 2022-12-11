@@ -8,7 +8,7 @@ narrator: Gladwell, Malcolm
 tags: ['Nonfiction ', 'Psychology']
 image: 1.jpg
 rating: 5
-omit: false
+score: 79
 ---
 
 

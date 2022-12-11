@@ -8,7 +8,7 @@ narrator: Acton, Anna
 tags: ['Fiction', 'Romance']
 image: 1.jpg
 rating: 5
-omit: false
+score: 97
 ---
 
 

@@ -7,7 +7,7 @@ narrator: Lee, Mela
 tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 5
-omit: false
+score: 94
 superlatives: Warm the Body
 ---
 

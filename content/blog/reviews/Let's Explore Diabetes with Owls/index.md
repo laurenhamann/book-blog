@@ -7,7 +7,7 @@ narrator: Sedaris, David
 tags: ['Nonfiction', 'Humor', 'Essays']
 image: 1.jpg
 rating: 3
-omit: false
+score: 77
 ---
 
 

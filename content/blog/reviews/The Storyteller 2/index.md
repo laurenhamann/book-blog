@@ -7,7 +7,7 @@ narrators: ['Marno, Mozhan', 'Ikeda, Jennifer', 'Ballerini, Edoardo', 'Toren, Su
 tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 4
-omit: false
+score: 80
 ---
 
 

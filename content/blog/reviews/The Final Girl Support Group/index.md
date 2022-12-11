@@ -7,7 +7,8 @@ narrator: King, Adrienne
 tags: ['Fiction', 'Horror', 'Thriller']
 image: 1.jpg
 rating: 4
-omit: false
+score: 70
+superlatives: Unsettle
 ---
 
 ## Book Description

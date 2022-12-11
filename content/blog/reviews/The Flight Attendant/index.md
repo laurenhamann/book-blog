@@ -7,7 +7,7 @@ narrators: ['Spencer, Erin', 'Experience, Grace', 'Deakins, Mark']
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 4
-omit: false
+score: 79
 ---
 
 

@@ -7,7 +7,7 @@ narrators: ['Grant, Grace', 'Lee, Deacon']
 tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 4
-omit: false
+score: 89
 ---
 
 

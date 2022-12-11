@@ -7,7 +7,7 @@ narrators: ['Davies, Jot', 'Massey, Chloe', 'Dowd, Olivia', 'McMahon, Aoife', 'O
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 5
-omit: false
+score: 80
 ---
 
 ## Book Description

@@ -7,7 +7,7 @@ narrators: ['Furlong, Gary', 'Newlands, Elle', 'Sims, Morag', 'Church, Imogen', 
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 5
-omit: false
+score: 93
 ---
 
 

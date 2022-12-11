@@ -8,7 +8,7 @@ narrator: Tolentino, Jia
 tags: ['Nonfiction', 'Essays']
 image: 1.jpg
 rating: 2
-omit: false
+score: 10
 ---
 
 

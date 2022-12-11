@@ -7,7 +7,7 @@ narrator: Ireland, Marin
 tags: ['Fiction', 'Mystery']
 image: 1.jpg
 rating: 5
-omit: false
+score: 90
 superlatives: Unsettle
 ---
 

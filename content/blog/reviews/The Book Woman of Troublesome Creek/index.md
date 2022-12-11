@@ -4,10 +4,10 @@ date: "2022-05-05"
 blogger: Lauren Hamann
 narrator: Schorr, Katie
 author: Richardson, Kim Michele
-tags: ['Fiction ', 'Historical']
+tags: ['Fiction ', 'Historical', 'Supernatural']
 image: 1.jpg
 rating: 5
-omit: false
+score: 90
 ---
 
 

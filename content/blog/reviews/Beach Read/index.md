@@ -7,8 +7,8 @@ narrator: Whelan, Julia
 tags: ['Fiction', 'Romance']
 image: 1.jpg
 rating: 5
-omit: false
 superlatives: Warm the Body
+score: 97
 ---
 
 

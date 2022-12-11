@@ -7,8 +7,8 @@ author: Gladwell, Malcolm
 narrator: Gladwell, Malcolm
 tags: ['Nonfiction', 'Psychology']
 image: 1.jpg
-rating: 5
-omit: false
+rating: 4
+score: 85
 ---
 
 

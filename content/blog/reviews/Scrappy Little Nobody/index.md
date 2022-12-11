@@ -7,7 +7,7 @@ narrator: Kendrick, Anna
 tags: ['Nonfiction', 'Humor', 'Memoir']
 image: 1.jpg
 rating: 3
-omit: false
+score: 40
 ---
 
 

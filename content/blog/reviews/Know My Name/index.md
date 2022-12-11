@@ -6,7 +6,7 @@ author: Miller, Chanel
 tags: ['Nonfiction', 'Memoir']
 image: 1.jpg
 rating: 4
-omit: false
+score: 79
 ---
 
 

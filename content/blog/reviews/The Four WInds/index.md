@@ -7,7 +7,7 @@ narrator: Whelan, Julia
 tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 5
-omit: false
+score: 99
 superlatives: Remember Forever
 ---
 

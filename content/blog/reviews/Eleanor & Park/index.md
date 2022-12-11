@@ -7,8 +7,8 @@ narrators: ['Lowman, Rebecca', 'Malhotra, Sunil']
 tags: ['Fiction', 'Romance']
 image: 1.jpg
 rating: 4
-omit: false
 superlatives: Produce Tears
+score: 82
 ---
 
 

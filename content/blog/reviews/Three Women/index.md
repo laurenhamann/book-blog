@@ -7,7 +7,7 @@ narrators: ['Barr, Tara Lynne', 'Ireland, Marin', 'Suvari, Mena']
 tags: ['Nonfiction', 'Feminism']
 image: 1.jpg
 rating: 5
-omit: false
+score: 93
 ---
 
 

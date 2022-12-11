@@ -7,7 +7,7 @@ narrator: Stone, Polly
 tags: ['Fiction', 'Historical', 'World War 2']
 image: 1.jpg
 rating: 4
-omit: false
+score: 85
 ---
 
 

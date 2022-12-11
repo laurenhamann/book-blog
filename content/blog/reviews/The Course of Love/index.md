@@ -7,8 +7,8 @@ narrator: Rhind-Tutt, Julian
 tags: ['Fiction ', 'Philosophy', 'Romance']
 image: 1.jpg
 rating: 5
-omit: false
 superlatives: Open Eyes
+score: 90
 ---
 
 

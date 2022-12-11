@@ -7,8 +7,8 @@ narrators: ['Johansson, Vanessa', 'Landon, Amy']
 tags: ['Fiction', 'Thriller', 'Romance', 'Mystery']
 image: 1.jpg
 rating: 2
-omit: false
 superlatives: Unsettle
+score: 20
 ---
 
 ## Book Description

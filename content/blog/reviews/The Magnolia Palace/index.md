@@ -7,7 +7,7 @@ narrator: Vacker, Karissa
 tags: ['Fiction', 'Mystery', 'Historical']
 image: 1.jpg
 rating: 4
-omit: false
+score: 80
 ---
 
 

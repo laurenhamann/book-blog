@@ -4,10 +4,10 @@ date: "2022-01-12"
 blogger: Lauren Hamann
 author: King, Stephen
 narrator: Muller, Frank
-tags: ['Fiction', 'Horror', 'Thriller']
+tags: ['Fiction', 'Horror', 'Thriller', 'Superlatives']
 image: 1.jpg
 rating: 3
-omit: false
+score: 69
 ---
 
 

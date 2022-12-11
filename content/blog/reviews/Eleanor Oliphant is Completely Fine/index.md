@@ -7,7 +7,7 @@ narrator: McCarron, Cathleen
 tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 4
-omit: false
+score: 88
 ---
 
 

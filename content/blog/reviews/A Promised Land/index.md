@@ -7,7 +7,7 @@ narrator: Obama, Barack
 tags: ['Nonfiction', 'Memoir']
 image: 1.jpg
 rating: 5
-omit: false
+score: 82
 ---
 ## Book Description
 

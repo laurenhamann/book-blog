@@ -7,9 +7,7 @@ narrators: ['Hampton, Piers', 'Powell, Emma']
 tags: ['Fiction', 'LGBT', 'Romance']
 image: 1.jpg
 rating: 4
-omit: false
-awards: 
- score: 82
+score: 82
 ---
 
 

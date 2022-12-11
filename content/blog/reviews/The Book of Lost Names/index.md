@@ -7,7 +7,7 @@ narrator: Madeleine, Maby
 tags: ['Fiction ', 'Historical', 'World War 2']
 image: 1.jpg
 rating: 5
-omit: false
+score: 94
 superlatives: Move the Soul
 ---
 

@@ -7,7 +7,6 @@ narrators: ['Cuervo, Alma', 'Whelan, Julia', 'Miles, Robin']
 tags: ['Fiction', 'Historical', 'LGBT']
 image: 1.jpg
 rating: 5
-omit: false
 score: 97
 ---
 

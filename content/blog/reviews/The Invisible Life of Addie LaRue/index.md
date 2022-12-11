@@ -4,10 +4,10 @@ date: "2021-08-19"
 blogger: Lauren Hamann
 author: Schwab, V.E.
 narrator: Whelan, Julia
-tags: ['Fiction', 'Fantasy']
+tags: ['Fiction', 'Fantasy', 'Supernatural']
 image: 1.jpg
 rating: 4
-omit: false
+score: 88
 superlatives: Produce Tears
 ---
 

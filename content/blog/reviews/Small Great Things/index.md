@@ -6,8 +6,9 @@ author: Picoult, Jodi
 narrators: ['McDonald, Audra', 'Campbell, Cassandra', 'Fliakos, Ari']
 tags: ['Fiction', 'Contemporary']
 image: 1.jpg
-rating: 4
-omit: false
+rating: 3
+score: 70
+superlative: Unsettle
 ---
 
 

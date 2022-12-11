@@ -7,7 +7,7 @@ narrator: Jost, Colin
 tags: ['Nonfiction', 'Memoir', 'Humor']
 image: 1.jpg
 rating: 2
-omit: false
+score: 30
 ---
 
 ## Book Description

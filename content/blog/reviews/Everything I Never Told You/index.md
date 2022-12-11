@@ -7,7 +7,7 @@ narrator: Campbell, Cassandra
 tags: ['Fiction', 'Contemporary', 'Mystery']
 image: 1.jpg
 rating: 4
-omit: false
+score: 89
 ---
 
 

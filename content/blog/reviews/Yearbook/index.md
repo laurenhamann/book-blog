@@ -7,7 +7,7 @@ narrator: Rogen, Seth
 tags: ['Nonfiction', 'Memoir', 'Humor']
 image: 1.jpg
 rating: 3
-omit: false
+score: 25
 superlatives: Disappoint
 ---
 

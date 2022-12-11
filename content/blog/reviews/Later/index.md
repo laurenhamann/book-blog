@@ -4,10 +4,10 @@ date: "2021-11-05"
 blogger: Lauren Hamann
 author: King, Stephen
 narrator: Numrich, Seth
-tags: ['Fiction', 'Horror', 'Thriller']
+tags: ['Fiction', 'Horror', 'Thriller', 'Supernatural']
 image: 1.jpg
 rating: 5
-omit: false
+score: 96
 ---
 
 

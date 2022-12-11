@@ -7,7 +7,8 @@ narrator: Whelan, Julia
 tags: ['Fiction', 'Mental Health', 'Contemporary']
 image: 1.jpg
 rating: 3
-omit: false
+score: 50
+superlatives: Unsettle
 ---
 
 

@@ -7,7 +7,7 @@ narrator: Green, John
 tags: ['Nonfiction ', 'Essays']
 image: 1.jpg
 rating: 4
-omit: false
+score: 70
 ---
 
 

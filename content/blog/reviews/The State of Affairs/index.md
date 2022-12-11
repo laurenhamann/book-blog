@@ -7,7 +7,7 @@ author: Perel, Esther
 tags: ['Nonfiction', 'Psychology']
 image: 1.jpg
 rating: 3
-omit: false
+score: 50
 ---
 
 

@@ -8,7 +8,7 @@ narrator: Jewel
 tags: ['Nonfiction', 'Music', 'Essays']
 image: 1.jpg
 rating: 5
-omit: false
+score: 99
 superlatives: Move the Soul
 ---
 

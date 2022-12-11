@@ -8,7 +8,7 @@ narrator: Manville, Leslie
 tags: ['Fiction', 'Mystery']
 image: 1.jpg
 rating: 4
-omit: false
+score: 80
 ---
 
 

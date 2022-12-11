@@ -7,7 +7,7 @@ narrator: Sparks, Paul
 tags: ['Fiction ', 'Thriller', 'Horror']
 image: 1.jpg
 rating: 4
-omit: false
+score: 76
 ---
 
 ## Book Description

@@ -7,7 +7,7 @@ narrators: ['Dalton, Callie', 'Hamilton, Teddy']
 tags: ['Romance', 'Fiction', 'Contemporary']
 image: 1.jpg
 rating: 4
-omit: false
+score: 84
 ---
 
 

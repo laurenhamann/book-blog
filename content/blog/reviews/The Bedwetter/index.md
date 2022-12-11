@@ -7,7 +7,7 @@ narrator: Silverman, Sarah
 tags: ['Nonfiction', 'Memoir']
 image: 1.jpg
 rating: 3
-omit: false
+score: 40
 ---
 
 

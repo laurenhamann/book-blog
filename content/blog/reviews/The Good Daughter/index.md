@@ -8,7 +8,8 @@ narrator: Early, Kathleen
 tags: ['Fiction', 'Thriller', 'Mystery']
 image: 1.jpg
 rating: 4
-omit: false
+score: 80
+superlatives: Unsettle
 ---
 
 

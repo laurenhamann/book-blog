@@ -7,7 +7,7 @@ narrator: Lowman, Rebecca
 tags: ['Fiction', 'Mystery']
 image: 1.jpg
 rating: 3
-omit: false
+score: 64
 ---
 
 

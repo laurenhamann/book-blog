@@ -7,7 +7,7 @@ narrator: McNamara, Nan
 tags: ['Fiction', 'Contemporary']
 image: 1.jpg
 rating: 5
-omit: false
+score: 96
 ---
 
 ## Book Description

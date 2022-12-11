@@ -7,7 +7,6 @@ narrator: Stevens, Dan
 tags: ['Fiction ', 'Mystery', 'Classics']
 image: 1.jpg
 rating: 4
-omit: false
 score: 80
 
 ---

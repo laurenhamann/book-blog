@@ -7,7 +7,7 @@ narrators: ['Acevedo, Elizabeth', 'Marte, Melania-Luisa']
 tags: ['Fiction ', 'Contemporary']
 image: 1.jpg
 rating: 5
-omit: false
+score: 90
 ---
 
 

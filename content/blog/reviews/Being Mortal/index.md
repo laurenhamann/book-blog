@@ -8,8 +8,8 @@ narrator: Petkoff, Robert
 tags: ['Nonfiction ', 'Health']
 image: 1.jpg
 rating: 4
-omit: false
 superlatives: Not Finish
+score: 89
 ---
 
 ## Book Description

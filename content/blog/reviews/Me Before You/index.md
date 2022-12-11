@@ -8,7 +8,7 @@ narrators: ['Lyons, Susan', 'Bentink, Anna', 'Crossley, Steven', 'Tregear, Alex'
 tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 4
-omit: false
+score: 87
 ---
 
 

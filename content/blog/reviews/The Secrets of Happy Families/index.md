@@ -8,7 +8,7 @@ narrator: Feiler, Bruce
 tags: ['Nonfiction', 'Parenting']
 image: 1.jpg
 rating: 3
-omit: false
+score: 65
 ---
 
 

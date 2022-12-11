@@ -6,9 +6,8 @@ author: Turton, Stuart
 narrator: Stewart, James Cameron
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
-rating: 3
-omit: false
-salutations: Most Surprising
+rating: 4
+score: 85
 ---
 
 

@@ -7,7 +7,7 @@ narrators: ['Lee, Mela', 'Collyer, Will']
 tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 5
-omit: false
+score: 97.8
 ---
 
 

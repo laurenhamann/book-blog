@@ -7,7 +7,7 @@ narrator: Whelan, Julia
 tags: ['Fiction', 'Dystopia']
 image: 1.jpg
 rating: 4
-omit: false
+score: 69
 ---
 
 

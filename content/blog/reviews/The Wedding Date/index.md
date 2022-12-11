@@ -7,8 +7,8 @@ narrator: Edwards, Janina
 tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 2
-omit: false
-salutations: 'Cheesiest'
+score: 20
+superlatives: Dissappoint
 ---
 
 

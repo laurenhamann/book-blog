@@ -7,7 +7,7 @@ narrator: Lee, Caroline
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 5
-omit: false
+score: 89
 ---
 
 

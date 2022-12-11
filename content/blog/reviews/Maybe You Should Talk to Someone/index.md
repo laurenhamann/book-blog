@@ -7,7 +7,7 @@ narrator: Pressley, Brittany
 tags: ['Nonfiction', 'Memoir', 'Psychology']
 image: 1.jpg
 rating: 5
-omit: false
+score: 99
 ---
 
 

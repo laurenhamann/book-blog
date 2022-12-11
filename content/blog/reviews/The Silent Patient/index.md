@@ -7,7 +7,7 @@ narrators: ['Brealey, Louise', 'Hawkins, Jack']
 tags: ['Fiction', 'Thriller', 'Mystery']
 image: 1.jpg
 rating: 3
-omit: false
+score: 60
 ---
 
 

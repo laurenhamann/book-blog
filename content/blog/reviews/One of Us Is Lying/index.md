@@ -6,8 +6,8 @@ author: Roberts, Bethan
 narrators: ['Guest, Kim Mai', 'Andrews, MacLeod', 'McManus, Shannon', 'Daymond, Robbie']
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
-rating: 4
-omit: false
+rating: 3
+score: 71
 ---
 
 

@@ -8,7 +8,7 @@ narrator: Dubner, Stephen J.
 tags: ['Nonfiction', 'Economics']
 image: 1.jpg
 rating: 4 
-omit: false
+score: 85
 ---
 
 

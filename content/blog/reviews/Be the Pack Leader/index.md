@@ -8,7 +8,7 @@ narrator: Mayer, John H.
 tags: ['Nonfiction', 'Animals']
 image: 1.jpg
 rating: 4
-omit: false
+score: 70
 ---
 
 

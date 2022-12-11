@@ -7,7 +7,6 @@ narrators: ['Kreinik, Barrie', 'Lee, Caroline', 'Douglas-Henry, Jessica', 'Carid
 tags: ['Fiction', 'Mystery', 'Thriller']
 image: 1.jpg
 rating: 3
-omit: false
 score: 79
 ---
 

@@ -7,7 +7,7 @@ narrators: ['Bennett, Lorna', 'Anthony, Lauren', 'Irwin, Lauren']
 tags: ['Fiction', 'Historical', 'Mystery']
 image: 1.jpg
 rating: 5
-omit: false
+score: 96
 ---
 
 

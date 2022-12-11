@@ -7,7 +7,7 @@ narrator: Whelan, Julia
 tags: ['Fiction', 'Thriller', 'Mystery']
 image: 1.jpg
 rating: 4
-omit: false
+score: 75
 ---
 
 
