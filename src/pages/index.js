@@ -6,7 +6,7 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import useBlogs from "../hooks/use-blogs"
-
+import Header from "../components/header"
 
 const BlogIndex = ({ data, location }) => {
   const blogs = useBlogs();
@@ -15,8 +15,19 @@ const BlogIndex = ({ data, location }) => {
   const [query, setQuery] = React.useState('emptyQuery');
   const [asideVersion, setAside] = React.useState('author');
   //const [asideTxt, setAsideTxt] = React.useState();
+  const [scrolling, setScrolling] = React.useState(false);
+  const [scrollTop, setScrollTop] = React.useState(0);
   let final = [];
 
+  React.useEffect(() => {
+    const onScroll = e => {
+      setScrollTop(e.target.documentElement.scrollTop);
+      setScrolling(e.target.documentElement.scrollTop > scrollTop);
+    };
+    window.addEventListener("scroll", onScroll);
+
+    return () => window.removeEventListener("scroll", onScroll);
+  }, [scrollTop]);
 
   function asideText (texts) {
     let arr = [];
@@ -132,9 +143,7 @@ const BlogIndex = ({ data, location }) => {
       const sorted = newPosts.sort((a, b) => b.score - a.score);
 
     }else if(asideVersion === 'superlatives'){
-      console.log(q);
       blogs.map((post) => {
-        console.log('in map');
         if(post.superlative !== null) {
           if(post.superlative.toLowerCase().includes(q.toLowerCase())){
             return newPosts.push(post)
@@ -170,9 +179,8 @@ const BlogIndex = ({ data, location }) => {
   }
 
   return (
-    <Layout location={location} title={siteTitle}>
-      <Bio />
-      <form name="search" rel="search">
+    <Layout location={location} title={siteTitle} scroll={scrolling} filterPosts={filterPosts}>
+      {/* <form name="search" rel="search" id="searchForm" className='search'>
       <input className="searchInput"
               type="search"
               aria-label="Search"
@@ -181,7 +189,7 @@ const BlogIndex = ({ data, location }) => {
 
       </input>
       <button value='none' onClick={(e) => filterPosts(e)} type='button'>Reset</button>
-      </form>
+      </form> */}
       <div className="query"><h1>{filteredHeader()}</h1></div>
       <div className="flex">
       <ol>
@@ -374,6 +382,7 @@ const BlogIndex = ({ data, location }) => {
             </div>
       </aside>
       </div>
+      <Bio />
     </Layout>
   )
 }

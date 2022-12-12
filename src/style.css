@@ -239,7 +239,6 @@ a:focus {
 /* Custom classes */
 
 .global-wrapper {
-  max-width: var(--maxWidth-wrapper);
   padding: var(--spacing-10) var(--spacing-5);
 }
 

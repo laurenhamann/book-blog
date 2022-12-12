@@ -8,7 +8,7 @@ tags: ['Fiction', 'Horror', 'Fantasy', 'Science Fiction']
 image: 1.jpg
 rating: 5
 score: 96
-superlatives: 'Most Memorable'
+superlatives: 'Remember Forever'
 ---
 
 

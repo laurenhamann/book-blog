@@ -127,12 +127,19 @@ div.blogger-section {
     justify-content: center;
     width: auto;
 }
+
+
+//header title page 
+.global-wrapper {
+    margin: 0;
+    width: 100vw;
+}
+
 //Main Page
 form {
     padding: 0 auto;
     text-align: center;
     .searchInput {
-        width: 80vw;
         max-width: 1000px;
         margin: 0 auto;
         text-align: center;
@@ -181,41 +188,41 @@ ol {
 }
 
 
-.aside {
-    width: auto;
-    min-width: 250px;
-    margin: 5px 45px 5px auto;
-    height: 80vh;
-    overflow: scroll;
-    align-self: center;
+// .aside {
+//     width: auto;
+//     min-width: 250px;
+//     margin: 5px 45px 5px auto;
+//     height: 80vh;
+//     overflow: scroll;
+//     align-self: center;
 
-    div {
-        cursor: pointer;
-        .tab {
-            background-color: #eee;
-        }
-        .selected {
-            font-weight: bold;
-            background-color: #bbb;
-        }
-    }
-}
+//     div {
+//         cursor: pointer;
+//         .tab {
+//             background-color: #eee;
+//         }
+//         .selected {
+//             font-weight: bold;
+//             background-color: #bbb;
+//         }
+//     }
+// }
 
-.aside {
-    .data {
-        padding: 7.5px;
-        border: 1px solid #002B5B;
-        div.data-container {
-            display: flex;
-            flex-direction: row;
-            justify-content: space-between;
-            li.aside-list-item {
-                list-style-type: none;
-                cursor: pointer;
-            }
-        }
-    }
-}
+// .aside {
+//     .data {
+//         padding: 7.5px;
+//         border: 1px solid #002B5B;
+//         div.data-container {
+//             display: flex;
+//             flex-direction: row;
+//             justify-content: space-between;
+//             li.aside-list-item {
+//                 list-style-type: none;
+//                 cursor: pointer;
+//             }
+//         }
+//     }
+// }
 
 .flex {
     display: flex;
@@ -224,20 +231,112 @@ ol {
     margin: 10px auto;
 }
 
-@media screen and (max-width: 900px)  {
-    .aside {
-        display: none;
+.flex-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 4px auto;
+    .main-heading {
+        width: 90%;
+        font-size: 32px;
     }
+    form {
+        margin-top: 10px;
+    }
+}
 
-    ol {
-        width: 80vw;
-        margin: 0 auto;
-        li {
-            width: 40vw;
-            min-width: 320px;
-            max-width: 400px;
+.aside {
+    display: none;
+}
+
+ol {
+    width: 80vw;
+    margin: 0 auto;
+    li {
+        width: 40vw;
+        min-width: 320px;
+        max-width: 400px;
+    }
+}
+
+@media screen and (min-width: 574px) {
+    .flex-header {
+        position: fixed;
+        top: 0;
+        flex-direction: row;
+        justify-content: space-between;
+        background-color: #fff;
+        z-index: 99;
+        width: 100vw;
+        margin-top: 0;
+        .main-heading {
+            font-size: 32px;
+        }
+        form {
+            margin-top: 3px;
+            display: flex;
+            flex-direction: row;
+            padding: 3px;
+
+            .searchInput{
+                height: 24px;
+            }
+            button {
+                height: 24px;
+            }
         }
     }
+
+}
+
+@media screen and (min-width: 1023px)  {
+    .flex-header{
+        max-width: 1200px;
+        justify-content: space-between;
+        margin: inherit auto;
+        form {
+            margin: 5px 45px 5px auto;
+        } 
+    }
+
+    .aside {
+        display: flex;
+        flex-direction: column;
+        width: auto;
+        min-width: 250px;
+        margin: 5px 45px 5px auto;
+        height: 80vh;
+        overflow: scroll;
+        align-self: center;
+        div {
+            cursor: pointer;
+            .tab {
+                background-color: #eee;
+            }
+            .selected {
+                font-weight: bold;
+                background-color: #bbb;
+            }
+        }
+        .data {
+            padding: 7.5px;
+            border: 1px solid #002B5B;
+            div.data-container {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                cursor: pointer;
+                .tab{
+                    background-color: #eee;
+                }
+                li.aside-list-item {
+                    list-style-type: none;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+    
     
 }
 
