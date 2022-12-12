@@ -5,7 +5,7 @@ date: "2022-03-25"
 blogger: Lauren Hamann
 author: Larsson, Stieg
 narrator: Vance, Simon
-tags: ['Fiction', 'Mystery', 'Thriller']
+tags: ['Fiction', 'Mystery', 'Thriller', 'Crime']
 image: 1.jpg
 rating: 5
 score: 97

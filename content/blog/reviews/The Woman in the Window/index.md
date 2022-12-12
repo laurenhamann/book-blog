@@ -4,7 +4,7 @@ date: "2021-10-10"
 blogger: Lauren Hamann
 author: Finn, A.J.
 narrator: Lee, Ann Marie
-tags: ['Fiction', 'Thriller', 'Mystery']
+tags: ['Fiction', 'Thriller', 'Mystery', 'Contemporary']
 image: 1.jpg
 rating: 5
 score: 91

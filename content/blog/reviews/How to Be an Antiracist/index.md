@@ -4,7 +4,7 @@ date: "2021-09-15"
 blogger: Lauren Hamann
 author: Kendi, Ibram X. 
 narrator: Kendi, Ibram X.
-tags: ['Nonfiction', 'Race']
+tags: ['Nonfiction', 'Race', 'Memoir']
 image: 1.jpg
 rating: 4
 score: 89

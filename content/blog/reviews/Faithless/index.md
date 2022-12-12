@@ -5,7 +5,7 @@ date: "2022-05-14"
 blogger: Lauren Hamann
 author: Slaughter, Karin
 narrator: Ross, Clarinda
-tags: ['Thriller', 'Fiction', 'Mystery']
+tags: ['Thriller', 'Fiction', 'Mystery', 'Crime']
 image: 1.jpg
 rating: 3
 ---

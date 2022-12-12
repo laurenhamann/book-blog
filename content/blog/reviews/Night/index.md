@@ -5,7 +5,7 @@ date: "2021-08-16"
 blogger: Lauren Hamann
 author: Wiesel, Elie
 narrator: Guidall, George
-tags: ['Nonfiction', 'Classics', 'History', 'World War 2']
+tags: ['Nonfiction', 'Classics', 'History', 'World War 2', 'Memoir']
 image: 1.jpg
 rating: 5
 score: 94

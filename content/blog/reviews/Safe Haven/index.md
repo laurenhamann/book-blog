@@ -4,7 +4,7 @@ date: "2022-03-03"
 blogger: Lauren Hamann
 author: Sparks, Nicholas
 narrator: Lowman, Rebecca
-tags: ['Fiction', 'Romance']
+tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 3
 score: 50

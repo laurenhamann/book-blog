@@ -5,7 +5,7 @@ date: "2021-12-25"
 blogger: Lauren Hamann
 author: King, Stephen
 narrator: Patton, Will
-tags: ['Fiction', 'Horror', 'Thriller']
+tags: ['Fiction', 'Horror', 'Thriller', 'Crime']
 image: 1.jpg
 rating: 4
 score: 83

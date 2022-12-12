@@ -4,7 +4,7 @@ date: "2021-12-15"
 blogger: Lauren Hamann
 author: Hoover, Colleen
 narrators: ['Webber, Zachary', 'Goethals, Angela']
-tags: ['Fiction', 'Romance', 'Mystery']
+tags: ['Fiction', 'Romance', 'Mystery', 'Contemporary']
 image: 1.jpg
 rating: 4
 score: 89

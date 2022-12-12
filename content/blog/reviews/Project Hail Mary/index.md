@@ -7,7 +7,7 @@ narrator: Porter, Ray
 tags: ['Fiction', 'Science Fiction', 'Fantasy']
 image: 1.jpg
 rating: 5
-score: 99.5
+score: 99
 ---
 
 

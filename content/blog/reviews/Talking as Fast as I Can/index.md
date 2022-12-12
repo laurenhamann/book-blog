@@ -5,7 +5,7 @@ date: "2021-10-11"
 blogger: Lauren Hamann
 author: Graham, Lauren
 narrator: Graham, Lauren
-tags: ['Nonfiction', 'Memoir']
+tags: ['Nonfiction', 'Memoir', 'Essays']
 image: 1.jpg
 rating: 3
 score: 69

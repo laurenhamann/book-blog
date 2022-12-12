@@ -4,7 +4,7 @@ date: "2021-11-16"
 blogger: Lauren Hamann
 author: King, Stephen
 narrator: Gardner, Grover
-tags: ['Fiction', 'Horror', 'Fantasy']
+tags: ['Fiction', 'Horror', 'Fantasy', 'Science Fiction']
 image: 1.jpg
 rating: 5
 score: 96

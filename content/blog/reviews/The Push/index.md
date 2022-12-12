@@ -4,7 +4,7 @@ date: "2021-11-04"
 blogger: Lauren Hamann
 author: Audrain, Ashley
 narrator: Ireland, Marin
-tags: ['Fiction', 'Mystery']
+tags: ['Fiction', 'Mystery', 'Contemporary']
 image: 1.jpg
 rating: 5
 score: 90

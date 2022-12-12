@@ -4,7 +4,7 @@ date: "2022-10-10"
 blogger: Lauren Hamann
 author: Foley, Lucy
 narrators: ['Davies, Jot', 'Massey, Chloe', 'Dowd, Olivia', 'McMahon, Aoife', 'Ovens, Sarah', 'Keeble, Rich']
-tags: ['Fiction', 'Mystery', 'Thriller']
+tags: ['Fiction', 'Mystery', 'Thriller', 'Crime']
 image: 1.jpg
 rating: 5
 score: 80

@@ -5,7 +5,7 @@ date: "2022-04-30"
 blogger: Lauren Hamann
 author: Osman, Richard
 narrator: Manville, Leslie
-tags: ['Fiction', 'Mystery']
+tags: ['Fiction', 'Mystery', 'Crime']
 image: 1.jpg
 rating: 4
 score: 80

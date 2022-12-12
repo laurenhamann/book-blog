@@ -1,11 +1,11 @@
 ---
-title: The Girl who Kicked the Hornet's Nest
+title: The Girl Who Kicked the Hornet's Nest
 series: "Millennium #3"
 date: "2022-03-29"
 blogger: Lauren Hamann
 author: Larsson, Stieg
 narrator: Vance, Simon
-tags: ['Fiction', 'Mystery', 'Thriller']
+tags: ['Fiction', 'Mystery', 'Thriller', 'Crime']
 image: 1.jpg
 rating: 5
 score: 96

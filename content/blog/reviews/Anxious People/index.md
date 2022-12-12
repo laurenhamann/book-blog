@@ -4,7 +4,7 @@ date: "2021-12-09"
 blogger: Lauren Hamann
 author: Backman, Fredrik
 narrator: Ireland, Marin
-tags: ['Fiction ', 'Contemporary']
+tags: ['Fiction ', 'Contemporary', 'Mystery']
 image: 1.jpg
 rating: 5
 score: 88

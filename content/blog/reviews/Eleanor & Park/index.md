@@ -4,7 +4,7 @@ date: "2022-02-24"
 blogger: Lauren Hamann
 author: Rowell, Rainbow
 narrators: ['Lowman, Rebecca', 'Malhotra, Sunil']
-tags: ['Fiction', 'Romance']
+tags: ['Fiction', 'Romance', 'Contemporary', 'YA']
 image: 1.jpg
 rating: 4
 superlatives: Produce Tears

@@ -5,7 +5,7 @@ date: "2022-05-02"
 blogger: Lauren Hamann
 author: Slaughter, Karin
 narrator: Kramer, Michael
-tags: ['Fiction', 'Mystery', 'Thriller']
+tags: ['Fiction', 'Mystery', 'Thriller', 'Crime']
 image: 1.jpg
 rating: 4
 score: 70

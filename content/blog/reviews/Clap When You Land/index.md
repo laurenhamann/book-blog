@@ -4,7 +4,7 @@ date: "2022-04-03"
 blogger: Lauren Hamann
 author: Acevedo, Elizabeth
 narrators: ['Acevedo, Elizabeth', 'Marte, Melania-Luisa']
-tags: ['Fiction ', 'Contemporary']
+tags: ['Fiction ', 'Contemporary', 'LGBT', 'YA', 'Poetry']
 image: 1.jpg
 rating: 5
 score: 90

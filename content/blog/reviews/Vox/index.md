@@ -4,7 +4,7 @@ date: "2021-10-05"
 blogger: Lauren Hamann
 author: Dalcher, Christina
 narrator: Whelan, Julia
-tags: ['Fiction', 'Dystopia']
+tags: ['Fiction', 'Dystopia', 'Science Fiction']
 image: 1.jpg
 rating: 4
 score: 69

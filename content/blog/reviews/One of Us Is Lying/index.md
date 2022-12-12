@@ -4,7 +4,7 @@ date: "2022-04-05"
 blogger: Lauren Hamann
 author: Roberts, Bethan
 narrators: ['Guest, Kim Mai', 'Andrews, MacLeod', 'McManus, Shannon', 'Daymond, Robbie']
-tags: ['Fiction', 'Mystery', 'Thriller']
+tags: ['Fiction', 'Mystery', 'Thriller', 'YA']
 image: 1.jpg
 rating: 3
 score: 71

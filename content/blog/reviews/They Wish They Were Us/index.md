@@ -4,7 +4,7 @@ date: "2022-09-29"
 blogger: Lauren Hamann
 author: Goodman, Jessica
 narrator: Sieh, Kristen
-tags: ['Fiction', 'Mystery', 'Thriller']
+tags: ['Fiction', 'Mystery', 'Thriller', 'YA']
 image: 1.jpg
 rating: 4
 score: 82

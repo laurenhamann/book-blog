@@ -5,7 +5,7 @@ date: "2021-10-17"
 blogger: Lauren Hamann
 author: Sedaris, David
 narrator: Sedaris, David
-tags: ['Nonfiction ', 'Essays', 'Memoir', 'Humor']
+tags: ['Nonfiction ', 'Essays', 'Memoir', 'Humor', 'LGBT']
 image: 1.jpg
 rating: 5
 score: 89

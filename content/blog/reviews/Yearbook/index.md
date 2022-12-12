@@ -4,7 +4,7 @@ date: "2022-01-30"
 blogger: Lauren Hamann
 author: Rogen, Seth
 narrator: Rogen, Seth
-tags: ['Nonfiction', 'Memoir', 'Humor']
+tags: ['Nonfiction', 'Memoir', 'Humor', 'Essays']
 image: 1.jpg
 rating: 3
 score: 25

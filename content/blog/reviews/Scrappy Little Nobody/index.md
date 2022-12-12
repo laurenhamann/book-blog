@@ -4,7 +4,7 @@ date: "2022-02-16"
 blogger: Lauren Hamann
 author: Kendrick, Anna
 narrator: Kendrick, Anna
-tags: ['Nonfiction', 'Humor', 'Memoir']
+tags: ['Nonfiction', 'Humor', 'Memoir', 'Essays']
 image: 1.jpg
 rating: 3
 score: 40

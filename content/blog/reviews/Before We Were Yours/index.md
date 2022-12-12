@@ -8,7 +8,7 @@ tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 5
 superlatives: Remember Forever
-score: 99.9
+score: 99
 ---
 
 ## Book Description

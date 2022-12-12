@@ -4,10 +4,10 @@ date: "2022-10-17"
 blogger: Lauren Hamann
 author: Moriarty, Liane
 narrator: Lee, Caroline
-tags: ['Fiction', 'Mystery', 'Thriller']
+tags: ['Fiction', 'Mystery', 'Thriller', 'Contemporary']
 image: 1.jpg
 rating: 5
-score: 89
+score: 82
 ---
 
 

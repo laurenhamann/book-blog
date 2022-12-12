@@ -4,7 +4,7 @@ date: "2022-02-18"
 blogger: Lauren Hamann
 author: Henry, Emily
 narrator: Whelan, Julia
-tags: ['Fiction', 'Romance']
+tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 5
 superlatives: Warm the Body

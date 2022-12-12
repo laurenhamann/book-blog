@@ -8,7 +8,7 @@ tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 2
 score: 20
-superlatives: Dissappoint
+superlatives: Disappoint
 ---
 
 

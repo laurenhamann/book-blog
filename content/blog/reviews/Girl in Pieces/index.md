@@ -4,7 +4,7 @@ date: "2022-04-05"
 blogger: Lauren Hamann
 author: Glasgow, Kathleen
 narrator: Whelan, Julia
-tags: ['Fiction', 'Contemporary']
+tags: ['Fiction', 'Contemporary', 'YA']
 image: 1.jpg
 rating: 5
 score: 97

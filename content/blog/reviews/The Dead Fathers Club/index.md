@@ -4,7 +4,7 @@ date: "2022-10-07"
 blogger: Lauren Hamann
 author: Haig, Matt
 narrator: Dennis, Andrew
-tags: ['Fiction ', 'Mystery']
+tags: ['Fiction ', 'Mystery', 'YA']
 image: 1.jpg
 rating: 5
 score: 96

@@ -4,7 +4,7 @@ date: "2022-03-07"
 blogger: Lauren Hamann
 author: Sparks, Nicholas
 narrator: Bostwick, Barry
-tags: ['Fiction', 'Romance']
+tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 4
 score: 76

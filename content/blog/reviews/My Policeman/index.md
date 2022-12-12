@@ -4,7 +4,7 @@ date: "2022-09-14"
 blogger: Lauren Hamann
 author: Roberts, Bethan
 narrators: ['Hampton, Piers', 'Powell, Emma']
-tags: ['Fiction', 'LGBT', 'Romance']
+tags: ['Fiction', 'LGBT', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 4
 score: 82

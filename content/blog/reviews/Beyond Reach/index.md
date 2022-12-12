@@ -5,9 +5,10 @@ date: "2022-05-17"
 blogger: Lauren Hamann
 author: Slaughter, Karin
 narrator: Bean, Joyce
-tags: ['Fiction ', 'Mystery', 'Thriller']
+tags: ['Fiction ', 'Mystery', 'Thriller', 'Crime']
 image: 1.jpg
 rating: 5
+score: 84
 ---
 
 ## Book Description
