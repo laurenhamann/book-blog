@@ -63,6 +63,7 @@ const BlogIndex = ({ data, location }) => {
       }
       return;
     })
+
     let count = 0;
     const lengthshortened = arr.length - 2;
     const length = arr.length - 1;
@@ -180,16 +181,6 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle} scroll={scrolling} filterPosts={filterPosts}>
-      {/* <form name="search" rel="search" id="searchForm" className='search'>
-      <input className="searchInput"
-              type="search"
-              aria-label="Search"
-              placeholder="Filter blog posts by title or tag"
-              onChange={(e) => filterPosts(e)}>
-
-      </input>
-      <button value='none' onClick={(e) => filterPosts(e)} type='button'>Reset</button>
-      </form> */}
       <div className="query"><h1>{filteredHeader()}</h1></div>
       <div className="flex">
       <ol>

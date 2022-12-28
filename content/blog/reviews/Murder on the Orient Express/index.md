@@ -9,6 +9,7 @@ tags: ['Fiction', 'Mystery', 'Thriller', 'Classics', 'Crime']
 image: 1.jpg
 rating: 4
 score: 81
+time: 6h36m
 ---
 
 ## Book Description

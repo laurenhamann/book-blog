@@ -4,6 +4,7 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import PrevReads from "../components/previous-reads"
 
 
 const BlogPostTemplate = ({
@@ -54,10 +55,12 @@ const BlogPostTemplate = ({
           className="article-section"
         />
         <hr />
-        <footer>
-          <Bio />
-        </footer>
+        <PrevReads 
+          data={post.frontmatter.author}
+          title={post.frontmatter.title}
+        />
       </article>
+      <hr />
       <nav className="blog-post-nav">
         <ul
           style={{
@@ -84,6 +87,9 @@ const BlogPostTemplate = ({
           </li>
         </ul>
       </nav>
+      <footer>
+          <Bio />
+        </footer>
     </Layout>
   )
 }
