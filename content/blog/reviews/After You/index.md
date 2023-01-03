@@ -9,6 +9,7 @@ tags: ['Fiction ', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 4
 score: 82
+time: 11h6m
 ---
 
 

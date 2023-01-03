@@ -8,6 +8,7 @@ tags: ['Nonfiction', 'Humor', 'Essays']
 image: 1.jpg
 rating: 4
 score: 89
+time: 3h4m
 ---
 
 

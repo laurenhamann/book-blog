@@ -9,6 +9,7 @@ image: 1.jpg
 rating: 5
 superlatives: Re-Read
 score: 95
+time: 6h39m
 ---
 
 ## Book Description

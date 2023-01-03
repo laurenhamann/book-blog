@@ -8,6 +8,7 @@ tags: ['Nonfiction', 'Memoir']
 image: 1.jpg
 rating: 5
 score: 82
+time: 29h11m
 ---
 ## Book Description
 

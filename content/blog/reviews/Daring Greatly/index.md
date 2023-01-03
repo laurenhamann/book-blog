@@ -9,6 +9,7 @@ tags: ['Nonfiction ', 'Self Help']
 image: 1.jpg
 rating: 4
 score: 89
+time: 6h30m
 ---
 
 

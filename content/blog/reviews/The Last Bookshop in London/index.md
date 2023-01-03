@@ -1,5 +1,6 @@
 ---
 title: The Last Bookshop in London
+byline: A Novel of World War II
 date: "2022-10-22"
 blogger: Lauren Hamann
 author: Martin, Madeline
@@ -8,6 +9,7 @@ tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 5
 score: 98
+time: 8h13m
 ---
 
 

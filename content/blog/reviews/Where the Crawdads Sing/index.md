@@ -8,6 +8,7 @@ tags: ['Fiction', 'Historical', 'Mystery']
 image: 1.jpg
 rating: 5
 score: 92
+time: 12h12m
 ---
 
 ## Book Description

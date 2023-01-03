@@ -8,6 +8,7 @@ tags: ['Fiction ', 'Mystery', 'YA']
 image: 1.jpg
 rating: 5
 score: 96
+time: 6h37m
 ---
 
 

@@ -4,11 +4,12 @@ date: "2022-02-25"
 blogger: Lauren Hamann
 author: Hilderbrand, Elin
 narrator: Bennett, Erin
-tags: ['Fiction ', 'Romance']
+tags: ['Fiction ', 'Romance', 'Contemporary']
 image: '1.jpg'
 rating: 5
 superlatives: Produce Tears
 score: 90
+time: 15h26m
 ---
 
 

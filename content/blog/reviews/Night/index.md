@@ -9,6 +9,7 @@ tags: ['Nonfiction', 'Classics', 'History', 'World War 2', 'Memoir']
 image: 1.jpg
 rating: 5
 score: 94
+time: 4h22m
 ---
 
 ## Book Description

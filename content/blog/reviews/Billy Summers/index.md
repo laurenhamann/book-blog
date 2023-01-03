@@ -8,6 +8,7 @@ tags: ['Fiction ', 'Thriller', 'Horror']
 image: 1.jpg
 rating: 4
 score: 76
+time: 16h57m
 ---
 
 ## Book Description

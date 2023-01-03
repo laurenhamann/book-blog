@@ -8,6 +8,7 @@ tags: ['Fiction', 'Contemporary', 'Mystery']
 image: 1.jpg
 rating: 4
 score: 65
+time: 17h20m
 ---
 
 

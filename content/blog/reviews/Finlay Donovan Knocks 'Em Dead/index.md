@@ -9,6 +9,7 @@ tags: ['Mystery', 'Fiction']
 image: 1.jpg
 rating: 4
 score: 88
+time: 9h21m
 ---
 
 

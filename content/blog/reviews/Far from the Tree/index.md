@@ -8,6 +8,7 @@ tags: ['Fiction', 'Contemporary', 'YA']
 image: 1.jpg
 rating: 5
 score: 93
+time: 8h54m
 ---
 
 

@@ -9,6 +9,7 @@ tags: ['Nonfiction', 'Essays']
 image: 1.jpg
 rating: 2
 score: 10
+time: 9h45m
 ---
 
 

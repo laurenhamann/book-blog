@@ -9,6 +9,7 @@ tags: ['Fiction', 'Mystery', 'Crime']
 image: 1.jpg
 rating: 4
 score: 85
+time: 12h25m
 ---
 
 

@@ -8,6 +8,7 @@ tags: ['Fiction ', 'Historical']
 image: 1.jpg
 rating: 4
 score: 73
+time: 9h3m
 ---
 
 ## Book Description 

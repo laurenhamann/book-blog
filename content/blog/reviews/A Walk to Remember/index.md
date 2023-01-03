@@ -9,6 +9,7 @@ image: 1.jpg
 rating: 3
 superlatives: Disappoint
 score: 30
+time: 4h24m
 ---
 
 ## Book Description

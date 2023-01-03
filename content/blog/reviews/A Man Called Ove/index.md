@@ -9,6 +9,7 @@ image: 1.jpg
 rating: 5
 superlatives: Warm the Body
 score: 95
+time: 9h12m
 ---
 
 ## Book Description

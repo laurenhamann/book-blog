@@ -8,6 +8,7 @@ tags: ['Fiction', 'Romance', 'Mystery', 'Contemporary']
 image: 1.jpg
 rating: 4
 score: 89
+time: 9h46m
 ---
 
 

@@ -9,6 +9,7 @@ tags: ['Nonfiction', 'Psychology']
 image: 1.jpg
 rating: 3
 score: 60
+time: 7h18m
 ---
 
 

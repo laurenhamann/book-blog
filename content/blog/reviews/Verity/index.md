@@ -9,6 +9,7 @@ image: 1.jpg
 rating: 2
 superlatives: Unsettle
 score: 20
+time: 8h10m
 ---
 
 ## Book Description

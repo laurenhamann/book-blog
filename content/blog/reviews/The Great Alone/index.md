@@ -8,6 +8,7 @@ tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 4
 score: 79
+time: 15h2m
 ---
 
 

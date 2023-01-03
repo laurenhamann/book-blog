@@ -9,6 +9,7 @@ image: 1.jpg
 rating: 3
 score: 25
 superlatives: Disappoint
+time: 6h13m
 ---
 
 

@@ -8,6 +8,7 @@ tags: ['Nonfiction ', 'Essays', 'Memoir']
 image: 1.jpg
 rating: 4
 score: 70
+time: 10h4m
 ---
 
 

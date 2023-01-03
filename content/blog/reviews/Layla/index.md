@@ -6,8 +6,9 @@ author: Hoover, Colleen
 narrator: Pallino, Brian
 tags: ['Fiction', 'Romance', 'Fantasy', 'Supernatural']
 image: 1.jpg
-rating: 5
-score: 89
+rating: 3
+score: 60
+time: 8h10m
 ---
 
 

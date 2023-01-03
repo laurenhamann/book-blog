@@ -8,6 +8,7 @@ tags: ['Fiction', 'Historical', 'World War 2']
 image: 1.jpg
 rating: 4
 score: 85
+time: 17h30m
 ---
 
 

@@ -8,6 +8,7 @@ tags: ['Nonfiction', 'Memoir', 'Humor', 'Essays']
 image: 1.jpg
 rating: 2
 score: 30
+time: 7h40m
 ---
 
 ## Book Description

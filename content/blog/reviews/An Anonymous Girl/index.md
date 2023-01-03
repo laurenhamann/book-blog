@@ -8,6 +8,7 @@ tags: ['Fiction ', 'Thriller', 'Mystery']
 image: 1.jpg
 rating: 4
 score: 72
+time: 11h40m
 ---
 
 

@@ -9,6 +9,7 @@ image: 1.jpg
 rating: 4
 score: 70
 superlatives: Unsettle
+time: 13h49m
 ---
 
 ## Book Description

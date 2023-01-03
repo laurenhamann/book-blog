@@ -10,6 +10,7 @@ image: 1.jpg
 rating: 4
 superlatives: Not Finish
 score: 89
+time: 9h4m
 ---
 
 ## Book Description

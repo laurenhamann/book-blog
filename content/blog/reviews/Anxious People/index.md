@@ -8,6 +8,7 @@ tags: ['Fiction ', 'Contemporary', 'Mystery']
 image: 1.jpg
 rating: 5
 score: 88
+time: 9h53m
 ---
 
 ## Book Description

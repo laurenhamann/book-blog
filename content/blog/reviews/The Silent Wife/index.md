@@ -8,6 +8,7 @@ narrator: Early, Kathleen
 tags: ['Fiction', 'Thriller', 'Mystery']
 image: 1.jpg
 rating: 4
+time: 18h33m
 ---
 
 

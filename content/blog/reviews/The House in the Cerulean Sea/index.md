@@ -8,6 +8,7 @@ tags: ['Fiction', 'Fantasy', 'Supernatural', 'LGBT']
 image: 1.jpg
 rating: 5
 score: 95
+time: 12h11m
 ---
 
 

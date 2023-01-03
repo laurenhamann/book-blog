@@ -9,6 +9,7 @@ tags: ['Fiction', 'Horror', 'Thriller', 'Crime']
 image: 1.jpg
 rating: 3
 score: 68
+time: 13h15m
 ---
 
 

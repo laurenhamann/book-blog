@@ -6,9 +6,9 @@ author: Agatha, Christie
 narrator: Stevens, Dan
 tags: ['Fiction ', 'Mystery', 'Classics', 'Crime']
 image: 1.jpg
-rating: 4
-score: 80
-
+rating: 3
+score: 60
+time: 6h1m
 ---
 
 ## Book Description

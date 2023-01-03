@@ -5,7 +5,7 @@ date: "2022-12-14"
 blogger: Lauren Hamann
 author: Jackson, Holly
 narrators: ['Carr, Bailey', 'Calin, Marisa', 'Crouch, Michael', 'Divan, Gopal', 'Fass, Robert', 'Hopkins, Sean Patrick', 'Free, Kevin R.', 'Monda, Carol', 'Santomasso, Patricia', 'Sardar, Shezi', 'Thickpenny, Amanda']
-tags: ['Fiction', 'YA', 'Mystery', 'Thriller']
+tags: ['Fiction', 'YA', 'Mystery']
 image: 1.jpg
 rating: 5
 score: 93

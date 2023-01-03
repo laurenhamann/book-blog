@@ -8,6 +8,7 @@ tags: ['Fiction', 'Historical', 'Fantasy']
 image: 1.jpg
 rating: 5
 score: 91
+time: 7h25m
 ---
 
 

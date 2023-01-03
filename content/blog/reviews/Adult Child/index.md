@@ -9,6 +9,7 @@ image: 1.jpg
 rating: 5
 superlatives: Open Eyes
 score: 91
+time: 6h50m
 ---
 
 

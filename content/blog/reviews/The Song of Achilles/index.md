@@ -8,6 +8,7 @@ tags: ['Fiction', 'Historical', 'Fantasy', 'LGBT']
 image: 1.jpg
 rating: 4
 score: 80
+time: 11h15m
 ---
 
 

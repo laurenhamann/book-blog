@@ -8,6 +8,7 @@ tags: ['Nonfiction', 'Feminism']
 image: 1.jpg
 rating: 5
 score: 93
+time: 11h24m
 ---
 
 
