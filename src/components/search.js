@@ -3,7 +3,6 @@ import React from "react";
 
 
 const Search = ({ filter }) => {
-    console.log(filter)
     return (
         <form name="search" rel="search" id="searchForm" className='search'>
             <input className="searchInput"

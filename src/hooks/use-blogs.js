@@ -8,7 +8,10 @@ const useBlogs = () => {
                 title
             }
         }
-        allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
+        allMarkdownRemark(
+            filter: {frontmatter: {description: {ne: "up next"}}}
+            sort: {frontmatter: {date: DESC}}
+        ){
             nodes {
             frontmatter {
                 author
@@ -24,6 +27,7 @@ const useBlogs = () => {
                 narrators
                 superlatives
                 score
+                description
                 image {
                 childImageSharp {
                     gatsbyImageData(blurredOptions: {width: 150}, height: 200, width: 200)
@@ -53,7 +57,8 @@ const useBlogs = () => {
         image: post.frontmatter.image,
         slug: post.fields.slug,
         score: post.frontmatter.score,
-        superlative: post.frontmatter.superlatives
+        superlative: post.frontmatter.superlatives,
+        description: post.frontmatter.description
     }))
 }
 

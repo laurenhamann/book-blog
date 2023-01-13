@@ -4,7 +4,7 @@ date: "2022-10-22"
 blogger: Lauren Hamann
 author: Harmel, Kristin
 narrator: Madeleine, Maby
-tags: ['Fiction ', 'Historical', 'World War 2']
+tags: ['Fiction', 'Historical', 'World War 2']
 image: 1.jpg
 rating: 5
 score: 94
