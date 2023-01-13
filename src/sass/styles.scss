@@ -1,7 +1,4 @@
-$dark : #002B5B;
-$midDark : #2B4865;
-$midLight : #256D85;
-$light : #8FE3CF;
+@use 'colors' as color;
 
 // body {
 //     margin: 24px;
@@ -26,22 +23,24 @@ div.blogger-section {
         font-size: 1em;
     }
     .yellow {
-        color: #FD841F;
+        color: color.$yellow;
     }
     .red {
-        color: red;
+        color: color.$red;
     }
     .green {
-        color: green;
+        color: color.$green;
     }
 
     .tag {
-        color: grey;
+        color: color.$grey;
         font-style: italic;
     }
 }
 
-
+.query{
+    margin-top: 105px;
+}
 .book-cover-home {
     width: 200px;
     height: 200px;
@@ -49,72 +48,146 @@ div.blogger-section {
 }
 
 .headline {
-    color: $dark;
+    color: color.$dark;
 }
 
 .date {
-    color: $midLight;
+    color: color.$midLight;
 }
 
 .yellow {
-    color: #FD841F;
+    color: color.$yellow;
 }
 .red {
-    color: red;
+    color: color.$red;
 }
 .green {
-    color: green;
+    color: color.$green;
 }
 
 .Mystery {
-    color: #FD841F;
+    color: color.$yellow;
 }
 
 .Fiction {
-    color: #CD104D;
+    color: color.$salmon;
 }
 
 .Thriller {
-    color: #9C2C77;
+    color: color.$purple;
 }
 
 .Romance {
-    color: #D989B5;
+    color: color.$mauve;
 }
 
 .Nonfiction {
-    color: #4FA095;
+    color: color.$teal;
 }
 
 .Historical {
-    color: #5C2E7E;
+    color: color.$mutedPurple;
 }
 
 .LGBT {
-    color: #E8AA42;
+    color: color.$neonOrg;
 }
 
 .Contemporary {
-    color: #810955;
+    color: color.$maroon;
 }
 
 .Horror {
-    color: #F24C4C;
+    color: color.$red;
 }
 
 .Essays {
-    color: #93ABD3;
+    color: color.$mutedBlue;
 }
 
 .World {
-    color: #562B08;
+    color: color.$navy;
 }
 
 .Memoir {
-    color: #005555;
+    color: color.$blue;
 }
 
+.Crime {
+    color: color.$maroon;
+}
+.Politics {
+    color: color.$red;
+}
+.Self {
+    color: color.$navy;
+}
 
+.YA {
+    color: color.$pink;
+}
+
+.Poetry {
+    color: color.$blue;
+}
+
+.Fantasy {
+    color: color.$burntOrange;
+}
+
+.Dystopia {
+    color: color.$navy;
+}
+
+.Parenting {
+    color: color.$midYellow;
+}
+.Mental {
+    color: color.$navy;
+}
+.Philosophy {
+    color: color.$blue;
+}
+.History {
+    color: color.$midYellow;
+}
+
+.Biography {
+    color: color.$mutedBlue;
+}
+
+.Feminism {
+    color: color.$pink;
+}
+.Economics {
+    color: color.$burntOrange;
+}
+
+.Health {
+    color: color.$pink;
+}
+
+.Music {
+    color: color.$midYellow;
+}
+.Short {
+    color: color.$mauve;
+}
+
+.Sports {
+    color: color.$gold;
+}
+
+.Classics {
+    color: color.$navy;
+}
+
+.Psychology {
+    color: color.$red;
+}
+.Supernatural {
+    color: color.$silver;
+}
 .post-wrapper {
     width: 100vw;
     height: 50px;
@@ -276,7 +349,7 @@ ol {
         flex-direction: column;
         width: auto;
         min-width: 250px;
-        margin: 5px 45px 5px auto;
+        margin: 5px auto 5px 45px;
         height: 80vh;
         overflow: scroll;
         align-self: center;
@@ -313,6 +386,32 @@ ol {
 }
 
 
+
+// UPNEXT
+.up-next-container {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: flex-end;
+    max-width: 1200px;
+    margin: 0 auto;
+    h4 {
+        align-self: flex-end;
+        margin-bottom: 0;
+    }
+    .shelf-container {
+        border-bottom: 5px solid #583101;
+        display: flex;
+        flex-direction: row;
+        gap: 15px;
+    }
+    a {
+        .up-next {
+            height: 90px;
+            width: 70px;
+        }
+    }
+}
 
 
 

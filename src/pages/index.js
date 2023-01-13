@@ -6,7 +6,8 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import useBlogs from "../hooks/use-blogs"
-import Header from "../components/header"
+import FilterHeader from "../components/filterHeader"
+import UpNext from "../components/up-next"
 
 const BlogIndex = ({ data, location }) => {
   const blogs = useBlogs();
@@ -14,7 +15,6 @@ const BlogIndex = ({ data, location }) => {
   const [posts, setPosts] = React.useState(blogs);
   const [query, setQuery] = React.useState('emptyQuery');
   const [asideVersion, setAside] = React.useState('author');
-  //const [asideTxt, setAsideTxt] = React.useState();
   const [scrolling, setScrolling] = React.useState(false);
   const [scrollTop, setScrollTop] = React.useState(0);
   let final = [];
@@ -34,7 +34,7 @@ const BlogIndex = ({ data, location }) => {
 
     // if author then return author ~ if tags then return tags ~ if narrator and not null return narrator ~ if narrator and narrators not null return narrators ~ if rating return rating
 
-    blogs.map((txt, i) => {
+    blogs.map((txt) => {
       let v;
 
       if(texts === 'author'){
@@ -55,7 +55,7 @@ const BlogIndex = ({ data, location }) => {
 
       //if V is an array seperate it and push to arr. 
       if(Array.isArray(v)){
-        v.map((t, i) => {
+        v.map((t) => {
           arr.push(t);
         }) 
       }else {
@@ -68,7 +68,7 @@ const BlogIndex = ({ data, location }) => {
     const lengthshortened = arr.length - 2;
     const length = arr.length - 1;
     let uniquearr = [...new Set(arr)];
-    uniquearr.forEach((t, i) => {
+    uniquearr.forEach((t) => {
       arr.filter((d, index2) => {
         if(index2 <= lengthshortened) {
           if(t === d) {
@@ -107,22 +107,19 @@ const BlogIndex = ({ data, location }) => {
     const q = event.target.value === 0 ? event.target.textContent : event.target.value;
     const newPosts = [];
     setQuery(q);
-    if(asideVersion === 'tags'){
-      blogs.map((post) => {
+    blogs.map((post) => {
+      if(asideVersion === 'tags'){
         post.tags.filter(t => {
           if(q === t){
             newPosts.push(post);
           }
         })
-      })
-    }else if(q === 1 || q === 2 || q === 3 || q === 4 || q === 5 ) {
-      blogs.map((post) => {
+      }
+      else if(typeof(q) === 'number'){
         if(post.rating === q){
           return newPosts.push(post);
         }
-      })
-    }else if(asideVersion === 'narrator'){
-      blogs.map((post) => {
+      }else if(asideVersion === 'narrator'){
         if(post.narrator !== null && post.narrator.toLowerCase().includes(q.toLowerCase())){
           return newPosts.push(post)
         }else if(post.narrators !== null){
@@ -132,36 +129,30 @@ const BlogIndex = ({ data, location }) => {
             }
           })
         }
-      })
-    }else if(asideVersion === 'favorites'){
-      blogs.map((post) => {
+      }else if(asideVersion === 'favorites'){
         post.tags.filter(t => {
           if(q === t && post.score !== null){
             newPosts.push(post);
           }
         })
-      })
-      const sorted = newPosts.sort((a, b) => b.score - a.score);
-
-    }else if(asideVersion === 'superlatives'){
-      blogs.map((post) => {
-        if(post.superlative !== null) {
-          if(post.superlative.toLowerCase().includes(q.toLowerCase())){
-            return newPosts.push(post)
-          }
+        const sorted = newPosts.sort((a, b) => b.score - a.score);
+      }
+    else if(asideVersion === 'superlatives'){
+      if(post.superlative !== null) {
+        if(post.superlative.toLowerCase().includes(q.toLowerCase())){
+          return newPosts.push(post)
         }
-      })
+      }
     }else {
-      blogs.map((post) => {
-        if(post.title.toLowerCase().includes(q.toLowerCase()) ||
+      if(post.title.toLowerCase().includes(q.toLowerCase()) ||
         (post.author &&
           post.author.toLowerCase().includes(q.toLowerCase())) ||
         (post.tags &&
           post.tags.join('').toLowerCase().includes(q.toLowerCase()))){
             return newPosts.push(post);
           }
-      });
     }
+    })
     setPosts(newPosts);
     if(q === "" || q === "none"){
       setPosts(blogs);
@@ -169,19 +160,21 @@ const BlogIndex = ({ data, location }) => {
     }
     // set the component's state with our newly generated query and list variables
   };
-  const filteredHeader = () => {
-    if(query === 'emptyQuery' || query === 'none'){
-      return;
-    }else if(asideVersion === 'favorites'){
-      return `My Top 5 - ${query}`
-    }else {
-      return `Filter: ${query}`
-    }
-  }
+  // let upNext = [];
+
+  // blogs.map((p)=> {
+  //   if(p.description === 'up next'){
+  //     upNext.push(p);
+  //   }
+  // })
+
+  // console.log(upNext);
+
 
   return (
     <Layout location={location} title={siteTitle} scroll={scrolling} filterPosts={filterPosts}>
-      <div className="query"><h1>{filteredHeader()}</h1></div>
+      <UpNext />
+      <div className="query"><h1><FilterHeader query={query} aside={asideVersion} /></h1></div>
       <div className="flex">
       <ol>
         {posts.map((post, i) => {

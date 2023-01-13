@@ -4,7 +4,7 @@ date: "2022-08-18"
 blogger: Lauren Hamann
 author: Aciman, Andre
 narrator: Hammer, Armie
-tags: ['Fiction ', 'Romance', 'LGBT']
+tags: ['Fiction', 'Romance', 'LGBT']
 image: 1.jpg
 rating: 4
 score: 85
