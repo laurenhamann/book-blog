@@ -6,11 +6,14 @@
     .flex-header {
         position: fixed;
         top: 0;
+        left: 0;
+        right: 0;
+        margin: 5px auto;
         flex-direction: row;
         justify-content: space-between;
         background-color: color.$white;
         z-index: 99;
-        width: 100vw;
+        width: 80vw;
         .main-heading {
             font-size: 32px;
         }

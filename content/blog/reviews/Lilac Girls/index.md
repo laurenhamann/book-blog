@@ -10,6 +10,8 @@ image: 1.jpg
 rating: 4
 score: 89
 time: 17h30m
+reviewed: false
+shelved: "2021-07-16"
 ---
 
 

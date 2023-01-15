@@ -10,6 +10,7 @@ rating: 5
 superlatives: Re-Read
 score: 95
 time: 6h39m
+reviewed: false
 ---
 
 ## Book Description

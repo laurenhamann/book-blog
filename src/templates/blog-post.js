@@ -5,6 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import PrevReads from "../components/previous-reads"
+import Review from "../components/reviewed"
 
 
 const BlogPostTemplate = ({
@@ -14,6 +15,7 @@ const BlogPostTemplate = ({
   const siteTitle = site.siteMetadata?.title || `Title`
   const classNames = post.frontmatter.rating === 5 ? 'green rating' : 
   post.frontmatter.rating >= 3 ? 'yellow rating' : 'red rating';
+  const review = post.frontmatter.reviewed;
 
   const tags = post.frontmatter.tags !== undefined ? post.frontmatter.tags.map((tag) => {
     return (
@@ -53,6 +55,7 @@ const BlogPostTemplate = ({
           itemProp="articleBody"
           className="article-section"
         />
+        <Review review={review} />
         <hr />
         <PrevReads 
           data={post.frontmatter.author}
@@ -131,6 +134,7 @@ export const pageQuery = graphql`
         narrator
         narrators
         superlatives
+        reviewed
         score
         image {
           childImageSharp {

@@ -13,6 +13,8 @@ image: 1.jpg
 rating: 4
 score: 83
 time: 10h49m
+reviewed: false
+shelved: "2022-04-08"
 ---
 
 ## Book Description

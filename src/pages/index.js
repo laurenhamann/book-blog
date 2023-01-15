@@ -193,14 +193,12 @@ const BlogIndex = ({ data, location }) => {
                 key={key}
               >
                 <header>
-                  <h2>
                     <Link to={post.slug} itemProp="url">
                     <GatsbyImage image={image} 
                     alt=""
                     className="book-cover-home" /> <br />
-                      <span itemProp="headline" className="headline" key={post.slug}>{title}</span>
+                      <h2 itemProp="headline" className="headline" key={post.slug}>{title}</h2>
                     </Link>
-                  </h2>
                   <p className="score">rating:{post.score} </p>
                 </header>
               </article>
@@ -262,14 +260,12 @@ const BlogIndex = ({ data, location }) => {
                 key={key}
               >
                 <header>
-                  <h2>
-                    <Link to={post.slug} itemProp="url">
-                    <GatsbyImage image={image} 
-                    alt=""
-                    className="book-cover-home" /> <br />
-                      <span itemProp="headline" className="headline" key={post.slug}>{title}</span>
-                    </Link>
-                  </h2>
+                  <Link to={post.slug} itemProp="url">
+                  <GatsbyImage image={image} 
+                  alt=""
+                  className="book-cover-home" /> <br />
+                    <h2 itemProp="headline" className="headline" key={post.slug}>{title}</h2>
+                  </Link>
                   {html.map((d) => {
                 return d
               })}
