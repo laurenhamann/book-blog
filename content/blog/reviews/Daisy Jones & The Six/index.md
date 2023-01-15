@@ -4,7 +4,7 @@ date: "2022-02-26"
 blogger: Lauren Hamann
 author: Reid, Taylor Jenkins
 narrators: ['Beals, Jennifer', 'Bratt, Benjamin', 'Greer, Judy', 'Schreiber, Pablo']
-tags: ['Fiction ', 'Historical']
+tags: ['Fiction', 'Historical']
 image: 1.jpg
 rating: 4
 score: 73

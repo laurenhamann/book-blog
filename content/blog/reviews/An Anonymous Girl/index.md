@@ -4,7 +4,7 @@ date: "2021-09-28"
 blogger: Lauren Hamann
 author: Hendricks, Greer
 narrators: ['Kreinik, Barrie', 'Whelan, Julia']
-tags: ['Fiction ', 'Thriller', 'Mystery']
+tags: ['Fiction', 'Thriller', 'Mystery']
 image: 1.jpg
 rating: 4
 score: 72
