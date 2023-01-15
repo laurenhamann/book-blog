@@ -1,0 +1,69 @@
+@use 'colors' as color;
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    margin: 10px auto;
+    ol {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px 20px;
+        align-content: flex-start;
+        height: 80vh;
+        overflow: scroll;
+        width: 80vw;
+        margin: 0 auto;
+        background-color: color.$offWhite;
+        box-shadow: inset 0 0 10px color.$mutedPurple;
+        li.flex {
+            width: auto;
+            height: auto;
+            max-height: 520px;
+            min-width: 200px;
+            max-width: 400px;
+            margin: 5px;
+            &::marker {
+                text-align: left;
+                padding-right: 0;
+            } 
+            .post-list-item {
+                header {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: flex-start;
+                    align-items: center;
+                    height: auto;
+                    h2 {
+                        max-width: 200px;
+                        margin-bottom: 5px;
+                        .book-cover-home {
+                            width: 200px;
+                            height: 200px;
+                            border-radius: 5%;
+                        }
+                        .headline {
+                            font-size: 1rem;
+                        }
+                    }
+                    p {
+                        max-width: 200px;
+                        font-size: 0.6rem;
+                    }
+                    .date {
+                        color: color.$midLight;
+                    }
+                    .series {
+                        font-style: italic;
+                    }
+                    small {
+                        font-size: 0.5rem;
+                    }
+                }
+            }   
+        }
+    }
+}
+
+

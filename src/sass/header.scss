@@ -1,0 +1,38 @@
+@use 'colors' as color;
+
+.global-header {
+    max-width: 1200px;
+    height: auto;
+}
+.flex-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px auto;
+    max-width: 1200px;
+    .main-heading {
+        width: 90%;
+        font-size: 32px;
+    }
+    form {
+        margin-top: 10px;
+    }
+}
+
+.headline {
+    color: color.$dark;
+}
+
+.query{
+    margin-top: 105px;
+}
+
+form {
+    padding: 0 auto;
+    text-align: center;
+    .searchInput {
+        max-width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+    }
+}

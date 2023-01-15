@@ -4,7 +4,7 @@ date: "2022-02-20"
 blogger: Lauren Hamann
 author: Quinn, Kate
 narrator: Maarleveld, Saskia
-tags: ['Fiction ', 'Historical', 'World War 2']
+tags: ['Fiction', 'Historical', 'World War 2']
 image: 1.jpg
 rating: 5
 score: 96

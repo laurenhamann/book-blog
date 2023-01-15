@@ -12,8 +12,8 @@ const BlogPostTemplate = ({
   location,
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
-  const classNames = post.frontmatter.rating === 5 ? 'green' : 
-  post.frontmatter.rating >= 3 ? 'yellow' : 'red';
+  const classNames = post.frontmatter.rating === 5 ? 'green rating' : 
+  post.frontmatter.rating >= 3 ? 'yellow rating' : 'red rating';
 
   const tags = post.frontmatter.tags !== undefined ? post.frontmatter.tags.map((tag) => {
     return (
@@ -37,13 +37,12 @@ const BlogPostTemplate = ({
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <h4>{post.frontmatter.author}</h4>
+          <p>{post.frontmatter.date}</p>
           <div className="blogger-section">
-            <p className="author">Posted by: {post.frontmatter.blogger}</p>
             <p className="narrator">{narrator}</p>
             <p className={classNames}>{post.frontmatter.rating} out of 5</p>
             <p className="tag">{tags} </p>
           </div>
-          <p>{post.frontmatter.date}</p>
         </header>
 
         <GatsbyImage image={image} 

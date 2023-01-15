@@ -4,7 +4,7 @@ date: "2022-01-14"
 blogger: Lauren Hamann
 author: de Botton, Alain
 narrator: Rhind-Tutt, Julian
-tags: ['Fiction ', 'Philosophy', 'Romance']
+tags: ['Fiction', 'Philosophy', 'Romance']
 image: 1.jpg
 rating: 5
 superlatives: Open Eyes

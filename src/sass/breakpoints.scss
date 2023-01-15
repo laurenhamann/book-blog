@@ -1,0 +1,83 @@
+@use 'colors' as color;
+
+
+
+@media screen and (min-width: 574px) {
+    .flex-header {
+        position: fixed;
+        top: 0;
+        flex-direction: row;
+        justify-content: space-between;
+        background-color: color.$white;
+        z-index: 99;
+        width: 100vw;
+        .main-heading {
+            font-size: 32px;
+        }
+        form {
+            margin-top: 3px;
+            display: flex;
+            flex-direction: row;
+            padding: 3px;
+
+            .searchInput{
+                height: 24px;
+            }
+            button {
+                height: 24px;
+            }
+        }
+    }
+
+}
+
+@media screen and (min-width: 1023px)  {
+    .flex-header{
+        max-width: 1200px;
+        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        form {
+            margin: 5px 0 5px auto;
+        } 
+    }
+
+    .aside {
+        display: flex;
+        flex-direction: column;
+        width: auto;
+        min-width: 250px;
+        margin: 5px auto 5px 45px;
+        height: 80vh;
+        overflow: scroll;
+        align-self: center;
+        div {
+            cursor: pointer;
+            .tab {
+                background-color: color.$grey;
+            }
+            .selected {
+                font-weight: bold;
+                background-color: color.$mutedPurple;
+                color: color.$offWhite;
+            }
+        }
+        .data {
+            padding: 7.5px;
+            border: 1px solid #002B5B;
+            div.data-container {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                cursor: pointer;
+                .tab{
+                    background-color: #eee;
+                }
+                li.aside-list-item {
+                    list-style-type: none;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}

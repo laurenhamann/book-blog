@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Link } from "gatsby";
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import useNext from "../hooks/use-next";
+
 const UpNext = () => {
     const blogs = useNext();
     const [posts, setPosts] = useState(blogs);

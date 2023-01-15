@@ -1,0 +1,54 @@
+@use 'colors' as color;
+
+
+// UPNEXT
+.up-next-container {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: flex-end;  
+    margin: 0 auto;
+    h4 {
+        align-self: flex-end;
+        margin: 0;
+        font-size: 1rem;
+    }
+    .shelf-container {
+        border-bottom: 5px solid color.$brown;
+        box-shadow: 0 4px 8px -4px color.$maroon;
+        display: flex;
+        flex-direction: row;
+        gap: 5px;
+        height: fit-content;
+    }
+    a {
+        margin-bottom: 1px;
+        .up-next {
+            height: 60px;
+            width: 50px;
+            border-radius: 5%;
+        }
+    }
+}
+
+
+
+@media screen and (min-width: 1023px)  {
+    .up-next-container {
+        gap: 15px;
+        justify-content: flex-end;  
+        margin: 0 auto;
+        h4 {
+            font-size: 1.3rem;
+        }
+        .shelf-container {
+            gap: 15px;
+        }
+        a {
+            .up-next {
+                height: 90px;
+                width: 70px;
+            }
+        }
+    }
+}

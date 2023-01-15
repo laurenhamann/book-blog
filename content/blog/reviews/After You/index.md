@@ -5,7 +5,7 @@ date: "2022-02-20"
 blogger: Lauren Hamann
 author: Moyes, Jojo
 narrator: Acton, Anna
-tags: ['Fiction ', 'Romance', 'Contemporary']
+tags: ['Fiction', 'Romance', 'Contemporary']
 image: 1.jpg
 rating: 4
 score: 82
