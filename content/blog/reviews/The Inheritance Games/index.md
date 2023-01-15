@@ -9,6 +9,7 @@ tags: ['Fiction', 'Mystery', 'Contemporary', 'YA']
 image: 1.jpg
 rating: 5
 score: 94
+reviewed: false
 ---
 
 ## Book Description

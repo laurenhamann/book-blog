@@ -9,6 +9,8 @@ image: 1.jpg
 rating: 3
 score: 25
 time: 8h40m
+reviewed: true
+shelved: "2022-04-08"
 ---
 
 

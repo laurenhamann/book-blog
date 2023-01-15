@@ -10,6 +10,7 @@ rating: 3
 score: 72
 characters: ['Grace Hadley', 'Xavier Darling', 'Lizbet Keaton']
 time: 12h26m
+reviewed: true
 ---
 
 ## Book Description

@@ -35,17 +35,20 @@
                     justify-content: flex-start;
                     align-items: center;
                     height: auto;
-                    h2 {
-                        max-width: 200px;
-                        margin-bottom: 5px;
-                        .book-cover-home {
-                            width: 200px;
-                            height: 200px;
-                            border-radius: 5%;
-                        }
-                        .headline {
-                            font-size: 1rem;
-                        }
+                    max-width: 200px;
+                    margin-bottom: 5px;
+                    a {
+                        text-decoration: none;
+                    }
+                    .book-cover-home {
+                        width: 200px;
+                        height: 200px;
+                        border-radius: 5%;
+                    }
+                    .headline {
+                        margin: 5px auto;
+                        font-size: 1rem;
+                        color: color.$midDark;
                     }
                     p {
                         max-width: 200px;

@@ -10,6 +10,7 @@ rating: 4
 score: 70
 characters: [Nina Browning, Kirk Browning, Finch Browning, Tom Volpe, Lyla Volpe]
 time: 10h29m
+reviewed: false
 ---
 
 ## Book Description

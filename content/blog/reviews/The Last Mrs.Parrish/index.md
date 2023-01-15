@@ -11,6 +11,7 @@ score: 69
 characters: ['Amber Patterson', 'Daphne Parrish', 'Jackson Parrish']
 location: Bishops Harbor, Connecticut
 time: 12h
+reviewed: True
 ---
 
 

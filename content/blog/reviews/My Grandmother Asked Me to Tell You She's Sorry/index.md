@@ -10,6 +10,8 @@ rating:
 score: 
 characters: ['Elsa', 'Grandmother', 'Brit-Marie', 'Ulrika', 'George', 'Father', 'The Wurse', 'Wolfheart', 'Kent', 'Sam' ]
 time: 11h2m
+reviewed: true
+shelved: "2021-12-08"
 ---
 
 

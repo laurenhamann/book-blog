@@ -8,6 +8,7 @@ tags: ['Nonfiction', 'Economics']
 image: 1.jpg
 rating: 4
 score: 80
+reviewed: false
 ---
 
 ## Book Description

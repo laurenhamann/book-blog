@@ -10,10 +10,11 @@ image: 1.jpg
 rating: 4 
 score: 85
 time: 7h56m
+reviewed: false
 ---
 
 
 
 ## Book Description
 
-Which is more dangerous, a gun or a swimming pool? What do schoolteachers and sumo wrestlers have in common? Why do drug dealers still live with their moms? How much do parents really matter? What kind of impact did Roe v. Wade have on violent crime? Freakonomics will literally redefine the way we view the modern world.
+Which is more dangerous, a gun or a swimming pool? What do schoolteachers and sumo wrestlers have in common? Why do drug dealers still live with their moms? How much do parents matter? What kind of impact did Roe v. Wade have on violent crime? Freakonomics will redefine the way we view the modern world.
