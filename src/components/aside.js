@@ -3,8 +3,8 @@ import React from "react";
 
 const Aside = ({final, asideVersion, asideText, setAside, query, filterPosts}) => {
     return (
-        <aside className="aside" id={asideVersion}>
-          <div id='authors'>
+        <aside className="aside" id={asideVersion} data-test="aside">
+          <div id='authors' data-test="aside-list-item">
             <div className={asideVersion === 'author' ? 'tab selected' : 'tab'}
               onClick={()=> {
                 setAside('author');
@@ -13,7 +13,7 @@ const Aside = ({final, asideVersion, asideText, setAside, query, filterPosts}) =
                 <small>Authors</small>
             </div>
           </div>
-          <div id='narrators'>
+          <div id='narrators' data-test="aside-list-item">
             <div className={asideVersion === 'narrator' ? 'tab selected' : 'tab'}
               onClick={()=> {
                 setAside('narrator');
@@ -22,7 +22,7 @@ const Aside = ({final, asideVersion, asideText, setAside, query, filterPosts}) =
                 <small>Narrators</small>
             </div>
           </div>
-          <div id='tags'>
+          <div id='tags' data-test="aside-list-item">
             <div className={asideVersion === 'tags' ? 'tab selected' : 'tab'}
             onClick={()=> {
                 setAside('tags');
@@ -31,7 +31,7 @@ const Aside = ({final, asideVersion, asideText, setAside, query, filterPosts}) =
                 <small>Tags</small>
             </div>
           </div>
-          <div id='rating'>
+          <div id='rating' data-test="aside-list-item">
             <div className={asideVersion === 'rating' ? 'tab selected' : 'tab'}
             onClick={()=> {
                 setAside('rating');
@@ -40,7 +40,7 @@ const Aside = ({final, asideVersion, asideText, setAside, query, filterPosts}) =
                 <small>Rating</small>
             </div>
           </div>
-          <div id='Superlatives'>
+          <div id='Superlatives' data-test="aside-list-item">
             <div className={asideVersion === 'superlatives' ? 'tab selected' : 'tab'}
             onClick={()=> {
                 setAside('superlatives');
@@ -49,7 +49,7 @@ const Aside = ({final, asideVersion, asideText, setAside, query, filterPosts}) =
                 <small>Most Likely to</small>
             </div>
           </div>
-          <div id='favorites'>
+          <div id='favorites' data-test="aside-list-item">
             <div className={asideVersion === 'favorites' ? 'tab selected' : 'tab'}
             onClick={()=> {
                 setAside('favorites');
@@ -58,7 +58,7 @@ const Aside = ({final, asideVersion, asideText, setAside, query, filterPosts}) =
                 <small>Favorites</small>
             </div>
           </div>
-            <div className="data">
+            <div className="data" data-test="aside-data">
               {final.map((t, i) => {
                 const key = `${t.name}+${i}`;
                 if(asideVersion === 'favorites'){

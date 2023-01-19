@@ -160,21 +160,14 @@ const BlogIndex = ({ data, location }) => {
     }
     // set the component's state with our newly generated query and list variables
   };
-  // let upNext = [];
 
-  // blogs.map((p)=> {
-  //   if(p.description === 'up next'){
-  //     upNext.push(p);
-  //   }
-  // })
-
-  // console.log(upNext);
-
-
+  const clearInput = (e) => {
+    document.getElementById("search-input").value = "";
+  }
   return (
-    <Layout location={location} title={siteTitle} scroll={scrolling} filterPosts={filterPosts}>
+    <Layout location={location} title={siteTitle} scroll={scrolling} filterPosts={filterPosts} clear={clearInput}>
       <UpNext />
-      <div className="query"><h1><FilterHeader query={query} aside={asideVersion} /></h1></div>
+      <div className="query" data-test="filter-header"><h1><FilterHeader query={query} aside={asideVersion} /></h1></div>
       <div className="flex">
       <ol>
         {posts.map((post, i) => {

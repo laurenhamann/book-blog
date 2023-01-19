@@ -31,6 +31,7 @@
     "sass": "^1.56.1"
   },
   "devDependencies": {
+    "cypress": "^12.3.0",
     "prettier": "^2.7.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",

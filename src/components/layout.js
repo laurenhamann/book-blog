@@ -2,7 +2,7 @@ import * as React from "react"
 import { Link } from "gatsby"
 import Search from "./search"
 
-const Layout = ({ location, title, children, filterPosts }) => {
+const Layout = ({ location, title, children, filterPosts, clear }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
   console.log(filterPosts);
@@ -15,7 +15,7 @@ const Layout = ({ location, title, children, filterPosts }) => {
         <h1 className="main-heading">
           <Link to="/">{title}</Link>
         </h1>
-        <Search filter={(e) => filterPosts(e)} />
+        <Search filter={(e) => filterPosts(e)} clear={(e) => clear(e)}  />
       </div>
     )
   } else {

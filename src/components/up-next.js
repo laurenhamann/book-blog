@@ -7,13 +7,13 @@ const UpNext = () => {
     const blogs = useNext();
     const [posts, setPosts] = useState(blogs);
     return (
-        <div className="up-next-container">
+        <div className="up-next-container" data-test="up-next-container">
         <h4> On My Shelf </h4>
             <div className="shelf-container">
                 {posts.map((f) => {
                     let image = getImage(f.image);
                     return (
-                        <Link to={f.slug} itemProp="url">
+                        <Link to={f.slug} itemProp="url" data-test="up-next-book">
                         <GatsbyImage image={image} 
                         alt=""
                         className="book-cover-home up-next" />
