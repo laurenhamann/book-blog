@@ -1,14 +1,13 @@
 ---
 title: 'Carrie Soto is Back'
-date: "2023-01-14"
+date: "2023-01-15"
 blogger: Lauren Hamann
 author: Reid, Taylor Jenkins
 narrators: ['Whelan, Julia', 'Gonzalez, Stacie', 'Carillo, Mary', 'Mcenroe, Patrick', 'Simmelkjaer, Rob', 'Wayne, Brendan', 'Meyers, Max', 'Piniella, Reynaldo', 'Athavale, Vidish', 'Bromhead, Tom', 'Miller, Heath', 'Arrington, Sara' ]
 tags: ['Fiction', 'Historical', 'Sports']
 image: 1.jpg
-description: 'up next'
-rating: 
-score: 
+rating: 4
+score: 82
 time: 10h30m
 reviewed: false
 ---
