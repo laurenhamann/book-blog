@@ -28,6 +28,7 @@ const useBlogs = () => {
                 superlatives
                 score
                 description
+                reviewed
                 image {
                 childImageSharp {
                     gatsbyImageData(blurredOptions: {width: 150}, height: 200, width: 200)
@@ -58,7 +59,8 @@ const useBlogs = () => {
         slug: post.fields.slug,
         score: post.frontmatter.score,
         superlative: post.frontmatter.superlatives,
-        description: post.frontmatter.description
+        description: post.frontmatter.description,
+        reviewed: post.frontmatter.reviewed
     }))
 }
 
