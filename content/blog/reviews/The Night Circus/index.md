@@ -1,6 +1,6 @@
 ---
 title: The Night Circus
-date: "2023-01-20"
+date: "2023-01-25"
 blogger: Lauren Hamann
 author: Morgenstern, Erin
 narrator: Dale, Jim
