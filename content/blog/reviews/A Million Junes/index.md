@@ -1,14 +1,13 @@
 ---
 title: A Million Junes
-date: "2023-01-25"
+date: "2023-02-11"
 blogger: Lauren Hamann
 author: Henry, Emily
 narrator: Whelan, Julia
 tags: ['Fiction', 'YA', 'Fantasy']
 image: 1.jpg
-description: 'up next'
-rating: 
-score: 
+rating: 4
+score: 67
 time: 10h31m
 reviewed: false
 ---
