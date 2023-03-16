@@ -4,14 +4,14 @@ date: "2021-08-03"
 blogger: Lauren Hamann
 author: Dave, Laura
 narrator: Lowman, Rebecca
-tags: ['Fiction', 'Mystery']
+type: "Fiction"
+tags: ["Mystery", "Contemporary"]
 image: 1.jpg
 rating: 3
 score: 64
 time: 8h49m
 reviewed: false
 ---
-
 
 ## Book Description
 

@@ -4,15 +4,14 @@ date: "2022-05-07"
 blogger: Lauren Hamann
 author: Everhart, Donna
 narrator: Bentley, Amy Melissa
-tags: ['Fiction', 'Historical']
+type: "Fiction"
+tags: ["Historical"]
 image: 1.jpg
 rating: 5
 score: 90
 time: 10h
 reviewed: false
 ---
-
-
 
 ## Book Description
 

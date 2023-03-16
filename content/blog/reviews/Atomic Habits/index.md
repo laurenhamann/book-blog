@@ -5,7 +5,8 @@ byline: An Easy & Proven Way to Build Good Habits & Break Bad Ones
 blogger: Lauren Hamann
 author: Clear, James
 narrator: Clear, James
-tags: ['Nonfiction', 'Self Help']
+type: "Nonfiction"
+tags: ["Self Help"]
 image: 1.jpg
 rating: 3
 score: 70
@@ -14,7 +15,6 @@ reviewed: false
 ---
 
 ## Book Description
-
 
 A revolutionary system to get 1 percent better every day
 

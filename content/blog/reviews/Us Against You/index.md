@@ -1,11 +1,12 @@
 ---
 title: Us Against You
-series: 'Beartown #2'
-date: "2023-01-02"
+series: "Beartown #2"
+date: "2023-01-06"
 blogger: Lauren Hamann
 author: Backman, Fredrik
 narrator: Ireland, Marin
-tags: ['Fiction', 'Sports', 'Contemporary']
+type: "Fiction"
+tags: ["Sports", "Contemporary"]
 image: 1.jpg
 rating: 5
 superlatives: Warm the Body
@@ -14,7 +15,6 @@ time: 14h16m
 reviewed: false
 shelved: "2021-12-08"
 ---
-
 
 ## Book Description
 

@@ -4,14 +4,14 @@ date: "2022-03-21"
 blogger: Lauren Hamann
 author: Ng, Celeste
 narrator: Campbell, Cassandra
-tags: ['Fiction', 'Contemporary', 'Mystery']
+type: "Fiction"
+tags: ["Contemporary", "Mystery"]
 image: 1.jpg
 rating: 4
 score: 89
 time: 10h2m
 reviewed: false
 ---
-
 
 ## Book Description
 

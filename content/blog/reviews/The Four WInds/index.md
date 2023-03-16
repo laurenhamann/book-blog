@@ -4,15 +4,14 @@ date: "2021-07-30"
 blogger: Lauren Hamann
 author: Hannah, Kristin
 narrator: Whelan, Julia
-tags: ['Fiction', 'Historical']
+type: "Fiction"
+tags: ["Historical"]
 image: 1.jpg
 rating: 5
 score: 99
 superlatives: Remember Forever
 reviewed: false
 ---
-
-
 
 ## Book Description
 

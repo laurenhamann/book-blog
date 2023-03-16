@@ -4,14 +4,14 @@ date: "2022-04-15"
 blogger: Lauren Hamann
 author: Acevedo, Elizabeth
 narrator: Acevedo, Elizabeth
-tags: ['Fiction', 'Contemporary', 'Romance', 'YA']
+type: "Fiction"
+tags: ["Contemporary", "Romance", "YA"]
 image: 1.jpg
 rating: 4
 score: 86
 time: 7h26m
 reviewed: false
 ---
-
 
 ## Book Description
 

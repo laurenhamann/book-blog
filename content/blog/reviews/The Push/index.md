@@ -4,7 +4,8 @@ date: "2021-11-04"
 blogger: Lauren Hamann
 author: Audrain, Ashley
 narrator: Ireland, Marin
-tags: ['Fiction', 'Mystery', 'Contemporary']
+type: "Fiction"
+tags: ["Mystery", "Contemporary"]
 image: 1.jpg
 rating: 5
 score: 90
@@ -12,7 +13,6 @@ superlatives: Unsettle
 time: 8h39m
 reviewed: false
 ---
-
 
 ## Book Description
 

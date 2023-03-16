@@ -5,7 +5,8 @@ date: "2022-01-08"
 blogger: Lauren Hamann
 author: Farrow, Ronan
 narrator: Farrow, Ronan
-tags: ['Nonfiction ', 'Crime', 'Politics']
+type: "Nonfiction"
+tags: ["Crime", "Politics"]
 image: 1.jpg
 rating: 5
 score: 92

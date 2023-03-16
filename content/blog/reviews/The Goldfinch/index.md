@@ -4,14 +4,14 @@ date: "2021-10-15"
 blogger: Lauren Hamann
 author: Tartt, Donna
 narrator: Pittu, David
-tags: ['Fiction', 'Contemporary']
+type: "Fiction"
+tags: ["Contemporary"]
 image: 1.jpg
 rating: 3
 score: 76
 time: 32h24m
 reviewed: false
 ---
-
 
 ## Book Description
 

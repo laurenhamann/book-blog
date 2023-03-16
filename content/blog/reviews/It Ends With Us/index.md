@@ -5,7 +5,8 @@ date: "2021-11-23"
 blogger: Lauren Hamann
 author: Hoover, Colleen
 narrator: Song, Olivia
-tags: ['Fiction', 'Romance', 'Contemporary']
+type: "Fiction"
+tags: ["Romance", "Contemporary"]
 image: 1.jpg
 rating: 5
 score: 99
@@ -13,7 +14,6 @@ superlatives: Produce Tears
 time: 11h11m
 reviewed: false
 ---
-
 
 ## Book Description
 

@@ -4,14 +4,14 @@ date: "2022-09-22"
 blogger: Lauren Hamann
 author: Ware, Ruth
 narrator: Church, Imogen
-tags: ['Fiction', 'Mystery', 'Thriller']
+type: "Fiction"
+tags: ["Mystery", "Thriller"]
 image: 1.jpg
 rating: 4
 score: 82
 time: 13h7m
 reviewed: false
 ---
-
 
 ## Book Description
 

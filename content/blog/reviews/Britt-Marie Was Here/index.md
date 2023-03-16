@@ -4,14 +4,14 @@ date: "2023-01-10"
 blogger: Lauren Hamann
 author: Backman, Fredrik
 narrator: Walker, Joan
-tags: ['Fiction', 'Humor', 'Contemporary']
+type: "Fiction"
+tags: ["Humor", "Contemporary"]
 image: 1.jpg
 rating: 4
 score: 76
 time: 9hr18m
 reviewed: false
 ---
-
 
 ## Book Description
 

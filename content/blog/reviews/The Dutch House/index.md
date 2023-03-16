@@ -1,18 +1,17 @@
 ---
 title: The Dutch House
-date: "2021-11-09" 
+date: "2021-11-09"
 blogger: Lauren Hamann
 author: Patchett, Ann
 narrator: Hanks, Tom
-tags: ['Fiction', 'Historical']
+type: "Fiction"
+tags: ["Historical"]
 image: 1.jpg
 rating: 5
 score: 90
 time: 9h53m
 reviewed: false
 ---
-
-
 
 ## Book Description
 

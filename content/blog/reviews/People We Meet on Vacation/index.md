@@ -4,14 +4,14 @@ date: "2022-03-18"
 blogger: Lauren Hamann
 author: Henry, Emily
 narrator: Whelan, Julia
-tags: ['Fiction', 'Romance', 'Contemporary']
+type: "Fiction"
+tags: ["Romance", "Contemporary"]
 image: 1.jpg
 rating: 5
 score: 98
 time: 10h46m
 reviewed: false
 ---
-
 
 ## Book Description
 

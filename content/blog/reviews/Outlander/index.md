@@ -4,14 +4,14 @@ date: "2022-08-08"
 blogger: Lauren Hamann
 author: Gabaldon, Diana
 narrator: Porter, Davina
-tags: ['Fiction', 'Historical', 'Romance', 'Fantasy']
+type: "Fiction"
+tags: ["Historical", "Romance", "Fantasy"]
 image: 1.jpg
 rating: 5
 score: 97
 time: 32h42m
 reviewed: false
 ---
-
 
 ## Book Description
 

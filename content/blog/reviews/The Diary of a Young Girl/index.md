@@ -4,16 +4,14 @@ date: "2021-11-18"
 blogger: Lauren Hamann
 author: Frank, Anne
 narrator: Blair, Selma
-tags: ['Nonfiction', 'Memoir']
+type: "Nonfiction"
+tags: ["Memoir", "World War 2"]
 image: 1.jpg
 rating: 5
 score: 91
 time: 9h55m
 reviewed: false
 ---
-
-
-
 
 ## Book Description
 

@@ -5,14 +5,14 @@ date: "2021-06-30"
 blogger: Lauren Hamann
 author: Manson, Mark
 narrator: Wayne, Roger
-tags: ['Nonfiction', 'Psychology']
+type: "Nonfiction"
+tags: ["Psychology"]
 image: 1.jpg
 rating: 4
 score: 80
 time: 5h17m
 reviewed: false
 ---
-
 
 ## Book Description
 

@@ -4,7 +4,8 @@ date: "2021-10-08"
 blogger: Lauren Hamann
 author: Levitt, Steven D.
 narrator: Dubner, Stephen J.
-tags: ['Nonfiction', 'Economics']
+type: "Nonfiction"
+tags: ["Economics"]
 image: 1.jpg
 rating: 4
 score: 80

@@ -1,11 +1,12 @@
 ---
 title: The Final Gambit
-series: 'The Inheritance Games #3'
+series: "The Inheritance Games #3"
 date: "2022-12-10"
 blogger: Lauren Hamann
 author: Barnes, Jennifer Lynn
 narrator: Moreau, Christie
-tags: ['Fiction', 'Mystery', 'Contemporary', 'YA']
+type: "Fiction"
+tags: ["Mystery", "Contemporary", "YA"]
 image: 1.jpg
 rating: 5
 score: 87

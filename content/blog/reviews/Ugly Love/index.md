@@ -1,17 +1,17 @@
 ---
-title: Ugly Love 
+title: Ugly Love
 date: "2022-05-17"
 blogger: Lauren Hamann
 author: Hoover, Colleen
-narrators: ['Grant, Grace', 'Lee, Deacon']
-tags: ['Fiction', 'Romance', 'Contemporary']
+narrators: ["Grant, Grace", "Lee, Deacon"]
+type: "Fiction"
+tags: ["Romance", "Contemporary"]
 image: 1.jpg
 rating: 4
 score: 89
 time: 9h14m
 reviewed: false
 ---
-
 
 ## Book Description
 

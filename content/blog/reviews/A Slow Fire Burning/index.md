@@ -1,10 +1,11 @@
 ---
-title: A Slow Fire Burning 
+title: A Slow Fire Burning
 date: "2022-01-03"
 blogger: Lauren Hamann
 author: Hawkins, Paula
 narrator: Pike, Rosamund
-tags: ['Fiction', 'Mystery', 'Thriller']
+type: "Fiction"
+tags: ["Mystery", "Thriller"]
 image: 1.jpg
 rating: 4
 score: 75

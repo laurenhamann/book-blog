@@ -4,14 +4,14 @@ date: "2022-10-24"
 blogger: Lauren Hamann
 author: Jewell, Lisa
 narrator: Duff, Helen
-tags: ['Fiction', 'Mystery', 'Thriller']
+type: "Fiction"
+tags: ["Mystery", "Thriller"]
 image: 1.jpg
 rating: 5
 score: 85
 time: 10h13m
 reviewed: false
 ---
-
 
 ## Book Description
 
@@ -31,4 +31,4 @@ Because Poppy is the spitting image of Ellie when she was that age. And now all 
 
 What happened to Ellie? Where did she go?
 
-Who still has secrets to hide? 
+Who still has secrets to hide?

@@ -4,14 +4,14 @@ date: "2022-11-11"
 blogger: Lauren Hamann
 author: Min Jin Lee
 narrator: Hiroto, Allison
-tags: ['Fiction', 'Historical']
+type: "Fiction"
+tags: ["Historical"]
 image: 1.jpg
 rating: 3
 score: 69
 time: 18h16m
 reviewed: false
 ---
-
 
 ## Book Description
 

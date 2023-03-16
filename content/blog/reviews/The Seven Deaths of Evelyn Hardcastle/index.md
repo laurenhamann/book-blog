@@ -4,14 +4,14 @@ date: "2022-11-13"
 blogger: Lauren Hamann
 author: Turton, Stuart
 narrator: Stewart, James Cameron
-tags: ['Fiction', 'Mystery', 'Thriller']
+type: "Fiction"
+tags: ["Mystery", "Thriller"]
 image: 1.jpg
 rating: 4
 score: 85
 time: 17h4m
 reviewed: false
 ---
-
 
 ## Book Description
 

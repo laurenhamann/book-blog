@@ -4,16 +4,17 @@ series: "Lilac Girls #2"
 date: "2023-01-20"
 blogger: Lauren Hamann
 author: Kelly, Martha Hall
-narrators: ['Gati, Kathleen', 'Gilbert, Tavia', 'Vacker, Karissa', 'Taber, Catherine']
-tags: ['Fiction', 'Historical', 'World War 2']
+narrators:
+  ["Gati, Kathleen", "Gilbert, Tavia", "Vacker, Karissa", "Taber, Catherine"]
+type: "Fiction"
+tags: ["Historical", "World War 2"]
 image: 1.jpg
-description: 'up next'
-rating: 
-score: 
+description: "up next"
+rating:
+score:
 time: 15h21m
 reviewed: false
 ---
-
 
 ## Book Description
 

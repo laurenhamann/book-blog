@@ -5,15 +5,14 @@ date: "2022-04-19"
 blogger: Lauren Hamann
 author: Cosimano, Elle
 narrator: Dawe, Angela
-tags: ['Fiction', 'Mystery']
+type: "Fiction"
+tags: ["Mystery"]
 image: 1.jpg
 rating: 4
 score: 88
 time: 9h59m
 reviewed: false
 ---
-
-
 
 ## Book Description
 

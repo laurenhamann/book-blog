@@ -1,17 +1,17 @@
 ---
-title: The Henna Artist 
+title: The Henna Artist
 date: "2022-05-06"
 blogger: Lauren Hamann
 author: Joshi, Alka
 narrator: Mathan, Sneha
-tags: ['Fiction', 'Historical']
+type: "Fiction"
+tags: ["Historical"]
 image: 1.jpg
 rating: 5
 score: 93
 time: 10h56m
 reviewed: false
 ---
-
 
 ## Book Description
 

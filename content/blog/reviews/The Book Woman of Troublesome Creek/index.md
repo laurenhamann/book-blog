@@ -4,15 +4,14 @@ date: "2022-05-05"
 blogger: Lauren Hamann
 narrator: Schorr, Katie
 author: Richardson, Kim Michele
-tags: ['Fiction', 'Historical', 'Supernatural']
+type: "Fiction"
+tags: ["Historical", "Supernatural"]
 image: 1.jpg
 rating: 5
 score: 90
 time: 9h26m
 reviewed: false
 ---
-
-
 
 ## Book Description
 

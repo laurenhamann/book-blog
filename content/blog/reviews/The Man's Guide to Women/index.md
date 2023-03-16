@@ -4,13 +4,13 @@ byline: Scientifically Proven Secrets from the "Love Lab" About What Women Reall
 date: "2021-10-23"
 blogger: Lauren Hamann
 author: Gottman, John M.
-tags: ['Nonfiction', 'Psychology']
+type: "Nonfiction"
+tags: ["Psychology"]
 image: 1.jpg
 rating: 4
 score: 70
 reviewed: false
 ---
-
 
 ## Book Description
 

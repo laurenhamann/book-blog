@@ -3,15 +3,15 @@ title: My Policeman
 date: "2022-09-14"
 blogger: Lauren Hamann
 author: Roberts, Bethan
-narrators: ['Hampton, Piers', 'Powell, Emma']
-tags: ['Fiction', 'LGBT', 'Romance', 'Contemporary']
+narrators: ["Hampton, Piers", "Powell, Emma"]
+type: "Fiction"
+tags: ["LGBT", "Romance", "Contemporary"]
 image: 1.jpg
 rating: 4
 score: 82
 time: 10h10m
 reviewed: false
 ---
-
 
 ## Book Description
 

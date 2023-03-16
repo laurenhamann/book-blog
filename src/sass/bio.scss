@@ -1,4 +1,6 @@
 .bio {
-    justify-content: center;
-    width: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: auto;
 }

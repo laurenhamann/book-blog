@@ -1,17 +1,24 @@
 ---
-title: The Hunting Party 
+title: The Hunting Party
 date: "2022-10-14"
 blogger: Lauren Hamann
 author: Foley, Lucy
-narrators: ['Furlong, Gary', 'Newlands, Elle', 'Sims, Morag', 'Church, Imogen', 'Quirk, Moira']
-tags: ['Fiction', 'Mystery', 'Thriller']
+narrators:
+  [
+    "Furlong, Gary",
+    "Newlands, Elle",
+    "Sims, Morag",
+    "Church, Imogen",
+    "Quirk, Moira",
+  ]
+type: "Fiction"
+tags: ["Mystery", "Thriller"]
 image: 1.jpg
 rating: 5
 score: 93
 time: 10h8m
 reviewed: false
 ---
-
 
 ## Book Description
 

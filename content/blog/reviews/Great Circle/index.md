@@ -3,16 +3,15 @@ title: Great Circle
 date: "2022-06-24"
 blogger: Lauren Hamann
 author: Shipstead, Maggie
-narrators: ['Campbell, Cassandra', 'McKenna, Alex']
-tags: ['Fiction', 'Historical', 'LGBT']
+narrators: ["Campbell, Cassandra", "McKenna, Alex"]
+type: "Fiction"
+tags: ["Historical", "LGBT"]
 image: 1.jpg
 rating: 5
 score: 85
 time: 25h17m
 reviewed: false
 ---
-
-
 
 ## Book Description
 

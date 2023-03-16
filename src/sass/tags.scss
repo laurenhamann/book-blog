@@ -1,136 +1,235 @@
-@use 'colors' as color;
-
+@use "colors" as color;
 
 .yellow {
-    color: color.$yellow;
+  color: color.$yellow;
 }
 .red {
-    color: color.$red;
+  color: color.$red;
 }
 .green {
-    color: color.$green;
+  color: color.$green;
 }
 
-.Mystery {
-    color: color.$yellow;
+.Mystery:not(div) {
+  color: color.$yellow;
+}
+.Mystery:not(small) {
+  background-color: color.$yellow;
 }
 
-.Fiction {
-    color: color.$salmon;
+.Fiction:not(div) {
+  color: color.$salmon;
+}
+.Fiction:not(small) {
+  background-color: color.$salmon;
 }
 
-.Thriller {
-    color: color.$purple;
+.Thriller:not(div) {
+  color: color.$purple;
+}
+.Thriller:not(small) {
+  background-color: color.$purple;
 }
 
-.Romance {
-    color: color.$mauve;
+.Romance:not(div) {
+  color: color.$mauve;
+}
+.Romance:not(small) {
+  background-color: color.$mauve;
 }
 
-.Nonfiction {
-    color: color.$teal;
+.Nonfiction:not(div) {
+  color: color.$teal;
+}
+.Nonfiction:not(small) {
+  background-color: color.$teal;
 }
 
-.Historical {
-    color: color.$mutedPurple;
+.Historical:not(div) {
+  color: color.$mutedPurple;
+}
+.Historical:not(small) {
+  background-color: color.$mutedPurple;
 }
 
-.LGBT {
-    color: color.$neonOrg;
+.LGBT:not(div) {
+  color: color.$neonOrg;
+}
+.LGBT:not(small) {
+  background-color: color.$neonOrg;
 }
 
-.Contemporary {
-    color: color.$maroon;
+.Contemporary:not(div) {
+  color: color.$maroon;
+}
+.Contemporary:not(small) {
+  background-color: color.$maroon;
 }
 
-.Horror {
-    color: color.$red;
+.Horror:not(div) {
+  color: color.$red;
+}
+.Horror:not(small) {
+  background-color: color.$red;
 }
 
-.Essays {
-    color: color.$mutedBlue;
+.Essays:not(div) {
+  color: color.$mutedBlue;
+}
+.Essays:not(small) {
+  background-color: color.$mutedBlue;
 }
 
-.World {
-    color: color.$navy;
+.World:not(div) {
+  color: color.$navy;
+}
+.World:not(small) {
+  background-color: color.$navy;
 }
 
-.Memoir {
-    color: color.$blue;
+.Memoir:not(div) {
+  color: color.$blue;
+}
+.Memoir:not(small) {
+  background-color: color.$blue;
 }
 
-.Crime {
-    color: color.$maroon;
+.Crime:not(div) {
+  color: color.$maroon;
 }
-.Politics {
-    color: color.$red;
+.Crime:not(small) {
+  background-color: color.$maroon;
 }
-.Self {
-    color: color.$navy;
+.Politics:not(div) {
+  color: color.$red;
 }
-
-.YA {
-    color: color.$pink;
+.Politics:not(small) {
+  background-color: color.$red;
 }
-
-.Poetry {
-    color: color.$blue;
+.Self:not(div) {
+  color: color.$navy;
 }
-
-.Fantasy {
-    color: color.$burntOrange;
+.Self:not(small) {
+  background-color: color.$navy;
 }
 
-.Dystopia {
-    color: color.$navy;
+.YA:not(div) {
+  color: color.$pink;
+}
+.YA:not(small) {
+  background-color: color.$pink;
 }
 
-.Parenting {
-    color: color.$midYellow;
+.Poetry:not(div) {
+  color: color.$blue;
 }
-.Mental {
-    color: color.$navy;
-}
-.Philosophy {
-    color: color.$blue;
-}
-.History {
-    color: color.$midYellow;
+.Poetry:not(small) {
+  background-color: color.$blue;
 }
 
-.Biography {
-    color: color.$mutedBlue;
+.Fantasy:not(div) {
+  color: color.$burntOrange;
+}
+.Fantasy:not(small) {
+  background-color: color.$burntOrange;
 }
 
-.Feminism {
-    color: color.$pink;
+.Dystopia:not(div) {
+  color: color.$navy;
 }
-.Economics {
-    color: color.$burntOrange;
-}
-
-.Health {
-    color: color.$pink;
+.Dystopia:not(small) {
+  background-color: color.$navy;
 }
 
-.Music {
-    color: color.$midYellow;
+.Parenting:not(div) {
+  color: color.$midYellow;
 }
-.Short {
-    color: color.$mauve;
+.Parenting:not(small) {
+  background-color: color.$midYellow;
+}
+.Mental:not(div) {
+  color: color.$navy;
+}
+.Mental:not(small) {
+  background-color: color.$navy;
+}
+.Philosophy:not(div) {
+  color: color.$blue;
+}
+.Philosophy:not(small) {
+  background-color: color.$blue;
+}
+.History:not(div) {
+  color: color.$midYellow;
+}
+.History:not(small) {
+  background-color: color.$midYellow;
 }
 
-.Sports {
-    color: color.$gold;
+.Biography:not(div) {
+  color: color.$mutedBlue;
+}
+.Biography:not(small) {
+  background-color: color.$mutedBlue;
 }
 
-.Classics {
-    color: color.$navy;
+.Feminism:not(div) {
+  color: color.$pink;
+}
+.Feminism:not(small) {
+  background-color: color.$pink;
+}
+.Economics:not(div) {
+  color: color.$burntOrange;
+}
+.Economics:not(small) {
+  background-color: color.$burntOrange;
 }
 
-.Psychology {
-    color: color.$red;
+.Health:not(div) {
+  color: color.$pink;
 }
-.Supernatural {
-    color: color.$silver;
+.Health:not(small) {
+  background-color: color.$pink;
+}
+
+.Music:not(div) {
+  color: color.$midYellow;
+}
+.Music:not(small) {
+  background-color: color.$midYellow;
+}
+.Short:not(div) {
+  color: color.$mauve;
+}
+.Short:not(small) {
+  background-color: color.$mauve;
+}
+
+.Sports:not(div) {
+  color: color.$gold;
+}
+.Sports:not(small) {
+  background-color: color.$gold;
+}
+
+.Classics:not(div) {
+  color: color.$navy;
+}
+.Classics:not(small) {
+  background-color: color.$navy;
+}
+
+.Psychology:not(div) {
+  color: color.$red;
+}
+.Psychology:not(small) {
+  background-color: color.$red;
+}
+.Supernatural:not(div) {
+  color: color.$silver;
+}
+
+.Supernatural:not(small) {
+  color: color.$silver;
 }

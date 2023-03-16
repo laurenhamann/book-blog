@@ -5,14 +5,14 @@ date: "2022-10-22"
 blogger: Lauren Hamann
 author: Martin, Madeline
 narrator: Maarleveld, Saskia
-tags: ['Fiction', 'Historical']
+type: "Fiction"
+tags: ["Historical", "World War 2"]
 image: 1.jpg
 rating: 5
 score: 98
 time: 8h13m
 reviewed: false
 ---
-
 
 ## Book Description
 

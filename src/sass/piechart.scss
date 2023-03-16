@@ -1,0 +1,42 @@
+@use "colors" as color;
+.pie-chart-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.pie-chart {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: color.$mauve;
+  margin: 5px auto;
+}
+
+.hide {
+  display: none;
+}
+.pie-chart:hover {
+  span .hide {
+    display: block;
+    color: black;
+  }
+}
+
+.key {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 2px;
+  p {
+    margin-bottom: 0;
+    font-size: 0.6rem;
+    span {
+      font-size: 0.6rem;
+    }
+  }
+  .square {
+    width: 20px;
+    height: 20px;
+    margin-right: 1px;
+  }
+}

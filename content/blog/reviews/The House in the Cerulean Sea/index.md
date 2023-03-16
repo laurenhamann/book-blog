@@ -4,14 +4,14 @@ date: "2022-04-11"
 blogger: Lauren Hamann
 author: Klune, T.J.
 narrator: Henning, Daniel
-tags: ['Fiction', 'Fantasy', 'Supernatural', 'LGBT']
+type: "Fiction"
+tags: ["Fantasy", "Supernatural", "LGBT"]
 image: 1.jpg
 rating: 5
 score: 95
 time: 12h11m
 reviewed: false
 ---
-
 
 ## Book Description
 

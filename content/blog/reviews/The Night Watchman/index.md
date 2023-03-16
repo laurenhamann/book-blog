@@ -4,14 +4,14 @@ date: "2022-10-08"
 blogger: Lauren Hamann
 author: Erdich, Louise
 narrator: Erdich, Louise
-tags: ['Fiction', 'Historical']
+type: "Fiction"
+tags: ["Historical"]
 image: 1.jpg
 rating: 4
 score: 87
 time: 13h33m
 reviewed: false
 ---
-
 
 ## Book Description
 

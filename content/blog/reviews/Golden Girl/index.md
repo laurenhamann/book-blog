@@ -4,15 +4,14 @@ date: "2022-04-04"
 blogger: Lauren Hamann
 author: Hilderbrand, Elin
 narrator: Bennett, Erin
-tags: ['Fiction', 'Contemporary']
+type: "Fiction"
+tags: ["Contemporary"]
 image: 1.jpg
 rating: 5
 score: 95
 time: 13h26m
 reviewed: false
 ---
-
-
 
 ## Book Description
 

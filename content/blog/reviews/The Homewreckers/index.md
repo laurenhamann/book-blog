@@ -1,17 +1,17 @@
 ---
-title: The Homewreckers 
+title: The Homewreckers
 date: "2022-10-03"
 blogger: Lauren Hamann
 author: Andrews, Mary Kay
 narrator: McInerney, Kathleen
-tags: ['Fiction', 'Romance', 'Mystery' ]
+type: "Fiction"
+tags: ["Romance", "Mystery"]
 image: 1.jpg
 rating: 3
 score: 79
 time: 14h30m
 reviewed: false
 ---
-
 
 ## Book Description
 

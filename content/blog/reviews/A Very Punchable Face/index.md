@@ -4,7 +4,8 @@ date: "2021-08-04"
 blogger: Lauren Hamann
 author: Jost, Colin
 narrator: Jost, Colin
-tags: ['Nonfiction', 'Memoir', 'Humor', 'Essays']
+type: "Nonfiction"
+tags: ["Memoir", "Humor", "Essays"]
 image: 1.jpg
 rating: 2
 score: 30

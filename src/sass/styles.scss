@@ -1,33 +1,33 @@
-@use 'tags';
-@use 'blog-post';
-@use 'index-flex-container';
-@use 'header';
-@use 'query';
-@use 'up-next';
-@use 'is-reviewed';
-@use 'bio';
-@use 'colors' as color;
-@use 'mobile';
-@use 'breakpoints';
-
+@use "tags";
+@use "blog-post";
+@use "index-flex-container";
+@use "header";
+@use "query";
+@use "up-next";
+@use "is-reviewed";
+@use "bio";
+@use "colors" as color;
+@use "footer";
+@use "piechart";
+@use "mobile";
+@use "breakpoints";
 
 #___gatsby {
-    width: 100vw;
+  width: 100vw;
 }
-.global-wrapper{
-    margin: 0;
-    width: 100vw;
+.global-wrapper {
+  margin: 0;
+  width: 100vw;
 }
 
 main {
-    max-width: 1200px;
-    text-align: center;
-    margin-right: auto;
-    margin-left: auto;
+  max-width: 1200px;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .post-wrapper {
-    width: 100vw;
-    height: 50px;
+  width: 100vw;
+  height: 50px;
 }
-

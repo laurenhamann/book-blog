@@ -4,7 +4,8 @@ date: "2021-11-22"
 blogger: Lauren Hamann
 author: King, Stephen
 narrator: Sparks, Paul
-tags: ['Fiction', 'Thriller', 'Horror']
+type: "Fiction"
+tags: ["Thriller", "Horror"]
 image: 1.jpg
 rating: 4
 score: 76

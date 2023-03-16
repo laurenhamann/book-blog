@@ -3,17 +3,16 @@ title: My Grandmother Asked Me to Tell You She's Sorry
 date: "2022-12-25"
 blogger: Lauren Hamann
 author: Backman, Fredrik
-narrator: 'Walker, Joan'
-tags: ['Fiction', 'Fantasy', 'Humor', 'Contemporary']
+narrator: "Walker, Joan"
+type: "Fiction"
+tags: ["Fantasy", "Humor", "Contemporary"]
 image: 1.jpg
-rating: 
-score: 
-characters: ['Elsa', 'Grandmother', 'Brit-Marie', 'Ulrika', 'George', 'Father', 'The Wurse', 'Wolfheart', 'Kent', 'Sam' ]
+rating: 4
+score: 90
 time: 11h2m
 reviewed: true
 shelved: "2021-12-08"
 ---
-
 
 ## Book Description
 
@@ -23,12 +22,8 @@ When Elsa’s grandmother dies and leaves behind a series of letters apologizing
 
 My Grandmother Asked Me to Tell You She’s Sorry is told with the same comic accuracy and beating heart as Fredrik Backman’s bestselling debut novel, A Man Called Ove. It is a story about life and death and one of the most important human rights: the right to be different.
 
-
-
 ## My Thoughts
 
-
-This book reminds me a lot of [The Dead Father's Club](/reviews//The%20Dead%20Fathers%20Club/). The similar nature of the book is from a child's perspective. I love the naive and fantasy elements in books from a child's perspective. 
-This book is great at not making the child sound annoying. That could happen very easily. I have read plenty of books with a teen point of view and it is so stereotypical. 
-This book has the ease of switching between reality and dreamlike metaphors. I find myself feeling like a child listening to this. The way the child processes the hard and dark stories told to her. I love this main character so much. 
-
+This book reminds me a lot of [The Dead Father's Club](/reviews//The%20Dead%20Fathers%20Club/). The similar nature of the book is from a child's perspective. I love the naive and fantasy elements in books from a child's perspective.
+This book is great at not making the child sound annoying. That could happen very easily. I have read plenty of books with a teen point of view and it is so stereotypical.
+This book has the ease of switching between reality and dreamlike metaphors. I find myself feeling like a child listening to this. The way the child processes the hard and dark stories told to her. I love this main character so much.

@@ -4,15 +4,16 @@ series: "Maybe #2"
 date: "2022-03-12"
 blogger: Lauren Hamann
 author: Hoover, Colleen
-narrators: ['Webber, Zachary', 'Goethals, Angela', 'Ross, Rebekkah', 'Ross, Todd']
-tags: ['Fiction', 'Romance', 'Contemporary']
+narrators:
+  ["Webber, Zachary", "Goethals, Angela", "Ross, Rebekkah", "Ross, Todd"]
+type: "Fiction"
+tags: ["Romance", "Contemporary"]
 image: 1.jpg
 rating: 4
 score: 89
 time: 9h11m
 reviewed: false
 ---
-
 
 ## Book Description
 

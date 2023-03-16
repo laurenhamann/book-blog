@@ -4,13 +4,13 @@ byline: Rethinking Infidelity
 date: "2021-08-19"
 blogger: Lauren Hamann
 author: Perel, Esther
-tags: ['Nonfiction', 'Psychology']
+type: "Nonfiction"
+tags: ["Psychology"]
 image: 1.jpg
 rating: 3
 score: 50
 reviewed: false
 ---
-
 
 ## Book Description
 

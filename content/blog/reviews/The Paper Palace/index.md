@@ -4,7 +4,8 @@ date: "2021-09-21"
 blogger: Lauren Hamann
 author: Heller, Miranda Cowley
 narrator: McNamara, Nan
-tags: ['Fiction', 'Contemporary']
+type: "Fiction"
+tags: ["Contemporary"]
 image: 1.jpg
 rating: 5
 score: 96

@@ -4,14 +4,14 @@ date: "2021-12-03"
 blogger: Lauren Hamann
 author: Lauren, Christina
 narrator: Murin, Patti
-tags: ['Fiction', 'Romance', 'Contemporary']
+type: "Fiction"
+tags: ["Romance", "Contemporary"]
 image: 1.jpg
 rating: 3
 score: 60
 time: 9h39m
 reviewed: false
 ---
-
 
 ## Book Description
 

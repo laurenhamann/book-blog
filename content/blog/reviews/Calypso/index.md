@@ -4,7 +4,8 @@ date: "2021-08-05"
 blogger: Lauren Hamann
 author: Sedaris, David
 narrator: Sedaris, David
-tags: ['Nonfiction ', 'Essays', 'Memoir', 'Humor']
+type: "Nonfiction"
+tags: ["Essays", "Memoir", "Humor"]
 image: 1.jpg
 rating: 5
 superlatives: Re-Read

@@ -5,14 +5,14 @@ date: "2022-05-19"
 blogger: Lauren Hamann
 author: Slaughter, Karin
 narrator: Early, Kathleen
-tags: ['Fiction','Thriller', 'Crime']
+type: "Fiction"
+tags: ["Thriller", "Crime"]
 image: 1.jpg
 rating: 5
 score: 91
 time: 13h15m
 reviewed: false
 ---
-
 
 ## Book Description
 

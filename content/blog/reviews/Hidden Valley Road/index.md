@@ -5,7 +5,8 @@ date: "2021-10-07"
 blogger: Lauren Hamann
 author: Kolker, Robert
 narrator: Pratt, Sean
-tags: ['Nonfiction', 'Psychology']
+type: "Nonfiction"
+tags: ["Psychology"]
 image: 1.jpg
 rating: 5
 superlatives: Open Eyes
@@ -13,7 +14,6 @@ score: 95
 time: 13h9m
 reviewed: false
 ---
-
 
 ## Book Description
 

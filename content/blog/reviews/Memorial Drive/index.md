@@ -5,14 +5,14 @@ date: "2021-11-10"
 blogger: Lauren Hamann
 author: Trethewey, Natasha
 narrator: Trethewey, Natasha
-tags: ['Nonfiction', 'Memoir']
+type: "Nonfiction"
+tags: ["Memoir"]
 image: 1.jpg
 rating: 4
 score: 89
 time: 5h10m
 reviewed: false
 ---
-
 
 ## Book Description
 

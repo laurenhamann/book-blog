@@ -5,13 +5,13 @@ byline: Stories and Essays
 blogger: Lauren Hamann
 author: Sedaris, David
 narrator: Sedaris, David
-tags: ['Humor', 'Nonfiction', 'Essays']
+type: "Nonfiction"
+tags: ["Humor", "Essays"]
 image: 1.jpg
 rating: 3
 score: 60
 reviewed: false
 ---
-
 
 ## Book Description
 

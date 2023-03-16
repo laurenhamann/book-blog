@@ -4,7 +4,8 @@ date: "2022-01-04"
 blogger: Lauren Hamann
 author: Moshfegh, Ottessa
 narrator: Whelan, Julia
-tags: ['Fiction', 'Mental Health', 'Contemporary']
+type: "Fiction"
+tags: ["Mental Health", "Contemporary"]
 image: 1.jpg
 rating: 3
 score: 50
@@ -12,7 +13,6 @@ superlatives: Unsettle
 time: 7h15m
 reviewed: false
 ---
-
 
 ## Book Description
 

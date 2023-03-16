@@ -4,14 +4,14 @@ date: "2022-03-22"
 blogger: Lauren Hamann
 author: Prose, Nita
 narrator: Ambrose, Lauren
-tags: ['Fiction', 'Mystery', 'Thriller']
+type: "Fiction"
+tags: ["Mystery", "Thriller"]
 image: 1.jpg
 rating: 4
 score: 85
 time: 9h38m
 reviewed: false
 ---
-
 
 ## Book Description
 

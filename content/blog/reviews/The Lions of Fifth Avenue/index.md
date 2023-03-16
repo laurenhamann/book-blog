@@ -3,15 +3,15 @@ title: The Lions of Fifth Avenue
 date: "2022-04-29"
 blogger: Lauren Hamann
 author: Davis, Fiona
-narrators: ['Bennett, Erin', 'Flanagan, Lisa']
-tags: ['Fiction', 'Mystery', 'Historical', 'LGBT']
+narrators: ["Bennett, Erin", "Flanagan, Lisa"]
+type: "Fiction"
+tags: ["Mystery", "Historical", "LGBT"]
 image: 1.jpg
 rating: 4
 score: 80
 time: 10h37m
 reviewed: false
 ---
-
 
 ## Book Description
 

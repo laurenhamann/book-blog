@@ -5,14 +5,14 @@ date: "2021-06-03"
 blogger: Lauren Hamann
 author: Halsey
 narrator: Halsey
-tags: ['Poetry']
+type: "Nonfiction"
+tags: ["Poetry"]
 image: 1.jpg
 rating: 5
 score: 80
 time: 1h32m
 reviewed: false
 ---
-
 
 ## Book Description
 

@@ -4,14 +4,14 @@ date: "2021-10-05"
 blogger: Lauren Hamann
 author: Benway, Robin
 narrator: Whelan, Julia
-tags: ['Fiction', 'Contemporary', 'YA']
+type: "Fiction"
+tags: ["Contemporary", "YA"]
 image: 1.jpg
 rating: 5
 score: 93
 time: 8h54m
 reviewed: false
 ---
-
 
 ## Book Description
 

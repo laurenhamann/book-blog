@@ -4,14 +4,14 @@ date: "2021-12-13"
 blogger: Lauren Hamann
 author: Reid, Kiley
 narrator: Lewis, Nicole
-tags: ['Fiction', 'Contemporary']
+type: "Fiction"
+tags: ["Contemporary"]
 image: 1.jpg
 rating: 3
 score: 50
 time: 10h2m
 reviewed: false
 ---
-
 
 ## Book Description
 

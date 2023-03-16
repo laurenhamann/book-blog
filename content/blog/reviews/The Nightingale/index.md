@@ -4,14 +4,14 @@ date: "2022-10-08"
 blogger: Lauren Hamann
 author: Hannah, Kristin
 narrator: Stone, Polly
-tags: ['Fiction', 'Historical', 'World War 2']
+type: "Fiction"
+tags: ["Historical", "World War 2"]
 image: 1.jpg
 rating: 4
 score: 85
 time: 17h30m
 reviewed: false
 ---
-
 
 ## Book Description
 

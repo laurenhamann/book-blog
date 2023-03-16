@@ -4,14 +4,14 @@ date: "2021-09-04"
 blogger: Lauren Hamann
 author: Miller, Madeline
 narrator: Douglas, Frazer
-tags: ['Fiction', 'Historical', 'Fantasy', 'LGBT']
+type: "Fiction"
+tags: ["Historical", "Fantasy", "LGBT"]
 image: 1.jpg
 rating: 4
 score: 80
 time: 11h15m
 reviewed: false
 ---
-
 
 ## Book Description
 

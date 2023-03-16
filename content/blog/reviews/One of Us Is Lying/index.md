@@ -2,16 +2,17 @@
 title: One of Us Is Lying
 date: "2022-04-05"
 blogger: Lauren Hamann
-author:  McManus, Karen M. 
-narrators: ['Guest, Kim Mai', 'Andrews, MacLeod', 'McManus, Shannon', 'Daymond, Robbie']
-tags: ['Fiction', 'Mystery', 'Thriller', 'YA']
+author: McManus, Karen M.
+narrators:
+  ["Guest, Kim Mai", "Andrews, MacLeod", "McManus, Shannon", "Daymond, Robbie"]
+type: "Fiction"
+tags: ["Mystery", "Thriller", "YA"]
 image: 1.jpg
 rating: 3
 score: 71
 time: 10h43m
 reviewed: false
 ---
-
 
 ## Book Description
 

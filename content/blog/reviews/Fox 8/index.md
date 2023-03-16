@@ -4,15 +4,14 @@ date: "2021-11-11"
 blogger: Lauren Hamann
 author: Saunders, George
 narrator: Saunders, George
-tags: ['Fiction', 'Short Stories', 'Contemporary']
+type: "Fiction"
+tags: ["Short Stories", "Contemporary"]
 image: 1.jpg
 rating: 4
 score: 85
 time: 30m
 reviewed: false
 ---
-
-
 
 ## Book Description
 

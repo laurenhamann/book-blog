@@ -2,9 +2,10 @@
 title: One Last Time
 date: "2022-12-31"
 blogger: Lauren Hamann
-author:  McQuiston, Casey 
-narrator: 'Naudus, Natalie'
-tags: ['Fiction', 'Contemporary', 'LGBT', 'Fantasy']
+author: McQuiston, Casey
+narrator: "Naudus, Natalie"
+type: "Fiction"
+tags: ["Contemporary", "LGBT", "Fantasy"]
 image: 1.jpg
 rating: 4
 score: 82
@@ -12,7 +13,6 @@ time: 12h11m
 reviewed: false
 shelved: "2021-09-24"
 ---
-
 
 ## Book Description
 

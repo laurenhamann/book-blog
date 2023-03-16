@@ -5,7 +5,8 @@ date: "2021-10-26"
 blogger: Lauren Hamann
 author: Gawande, Atul
 narrator: Petkoff, Robert
-tags: ['Nonfiction ', 'Health']
+type: "Nonfiction"
+tags: ["Health"]
 image: 1.jpg
 rating: 4
 superlatives: Not Finish

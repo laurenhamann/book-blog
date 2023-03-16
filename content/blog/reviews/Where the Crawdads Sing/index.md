@@ -4,7 +4,8 @@ date: "2022-04-08"
 blogger: Lauren Hamann
 author: Owens, Delia
 narrator: Campbell, Cassandra
-tags: ['Fiction', 'Historical', 'Mystery']
+type: "Fiction"
+tags: ["Historical", "Mystery"]
 image: 1.jpg
 rating: 5
 score: 92

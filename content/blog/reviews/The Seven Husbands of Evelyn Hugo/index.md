@@ -1,17 +1,17 @@
 ---
-title: The Seven Husbands of Evelyn Hugo 
+title: The Seven Husbands of Evelyn Hugo
 date: "2021-11-24"
 blogger: Lauren Hamann
 author: Reid, Taylor Jenkins
-narrators: ['Cuervo, Alma', 'Whelan, Julia', 'Miles, Robin']
-tags: ['Fiction', 'Historical', 'LGBT']
+narrators: ["Cuervo, Alma", "Whelan, Julia", "Miles, Robin"]
+type: "Fiction"
+tags: ["Historical", "LGBT"]
 image: 1.jpg
 rating: 5
 score: 97
 time: 12h10m
 reviewed: false
 ---
-
 
 ## Book Description
 

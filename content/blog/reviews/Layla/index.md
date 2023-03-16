@@ -4,14 +4,14 @@ date: "2022-06-12"
 blogger: Lauren Hamann
 author: Hoover, Colleen
 narrator: Pallino, Brian
-tags: ['Fiction', 'Romance', 'Fantasy', 'Supernatural']
+type: "Fiction"
+tags: ["Romance", "Fantasy", "Supernatural"]
 image: 1.jpg
 rating: 3
 score: 60
 time: 8h10m
 reviewed: false
 ---
-
 
 ## Book Description
 

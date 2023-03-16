@@ -4,15 +4,14 @@ date: "2021-11-17"
 blogger: Lauren Hamann
 author: London, Jack
 narrator: Schreiber, Pablo
-tags: ['Fiction', 'Classics']
+type: "Fiction"
+tags: ["Classics"]
 image: 1.jpg
 rating: 4
 score: 86
 time: 3h22m
 reviewed: false
 ---
-
-
 
 ## Book Description
 

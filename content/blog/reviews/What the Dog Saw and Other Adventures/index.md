@@ -4,13 +4,13 @@ date: "2021-11-30"
 blogger: Lauren Hamann
 author: Gladwell, Malcolm
 narrator: Gladwell, Malcolm
-tags: ['Nonfiction', 'Psychology', 'Essays']
+type: "Nonfiction"
+tags: ["Psychology", "Essays"]
 image: 1.jpg
 rating: 4
 score: 75
 reviewed: false
 ---
-
 
 ## Book Description
 

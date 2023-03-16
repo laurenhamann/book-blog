@@ -3,8 +3,10 @@ title: Daisy Jones & The Six
 date: "2022-02-26"
 blogger: Lauren Hamann
 author: Reid, Taylor Jenkins
-narrators: ['Beals, Jennifer', 'Bratt, Benjamin', 'Greer, Judy', 'Schreiber, Pablo']
-tags: ['Fiction', 'Historical']
+narrators:
+  ["Beals, Jennifer", "Bratt, Benjamin", "Greer, Judy", "Schreiber, Pablo"]
+type: "Fiction"
+tags: ["Historical"]
 image: 1.jpg
 rating: 4
 score: 73
@@ -12,7 +14,7 @@ time: 9h3m
 reviewed: false
 ---
 
-## Book Description 
+## Book Description
 
 Everyone knows Daisy Jones & The Six, but nobody knows the real reason why they split at the absolute height of their popularity…until now.
 

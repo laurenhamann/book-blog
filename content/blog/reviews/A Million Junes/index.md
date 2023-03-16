@@ -4,7 +4,8 @@ date: "2023-02-11"
 blogger: Lauren Hamann
 author: Henry, Emily
 narrator: Whelan, Julia
-tags: ['Fiction', 'YA', 'Fantasy']
+type: "Fiction"
+tags: ["YA", "Fantasy"]
 image: 1.jpg
 rating: 4
 score: 67

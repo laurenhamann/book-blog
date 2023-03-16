@@ -9,6 +9,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 
 // Define the template for blog post
 const blogPost = path.resolve(`./src/templates/blog-post.js`)
+const yearReview = path.resolve(`./src/templates/year-review.js`)
 
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
@@ -21,6 +22,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     {
       allMarkdownRemark(sort: { frontmatter: { date: ASC } }, limit: 1000) {
         nodes {
+          frontmatter {
+            date(formatString: "MMMM DD, YYYY")
+          }
           id
           fields {
             slug
@@ -59,8 +63,28 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         },
       })
     })
+    createPage({
+      path: "/years/2022",
+      component: yearReview,
+      context: {
+        year: 2022,
+      },
+    }),
+      createPage({
+        path: "/years/2023",
+        component: yearReview,
+        context: {
+          year: 2023,
+        },
+      }),
+      createPage({
+        path: "/years/2021",
+        component: yearReview,
+        context: {
+          year: 2021,
+        },
+      })
   }
-
 }
 
 /**

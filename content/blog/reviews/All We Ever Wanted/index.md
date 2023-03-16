@@ -3,12 +3,12 @@ title: All We Ever Wanted
 date: "2022-12-20"
 blogger: Lauren Hamann
 author: Giffin, Emily
-narrators: ['Blue, Dorothy Dillingham', 'Bagby, Milton', 'Taber, Catherine']
-tags: ['Fiction', 'Romance', 'Contemporary']
+narrators: ["Blue, Dorothy Dillingham", "Bagby, Milton", "Taber, Catherine"]
+type: "Fiction"
+tags: ["Romance", "Contemporary"]
 image: 1.jpg
 rating: 4
 score: 70
-characters: [Nina Browning, Kirk Browning, Finch Browning, Tom Volpe, Lyla Volpe]
 time: 10h29m
 reviewed: false
 ---

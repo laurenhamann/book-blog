@@ -1,18 +1,18 @@
 ---
-title: The Stand 
+title: The Stand
 date: "2021-11-16"
 blogger: Lauren Hamann
 author: King, Stephen
 narrator: Gardner, Grover
-tags: ['Fiction', 'Horror', 'Fantasy', 'Science Fiction']
+type: "Fiction"
+tags: ["Horror", "Fantasy", "Supernatural"]
 image: 1.jpg
 rating: 5
 score: 96
-superlatives: 'Remember Forever'
+superlatives: "Remember Forever"
 time: 47h47m
 reviewed: false
 ---
-
 
 ## Book Description
 

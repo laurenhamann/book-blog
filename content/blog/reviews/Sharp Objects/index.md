@@ -4,7 +4,8 @@ date: "2021-09-08"
 blogger: Lauren Hamann
 author: Flynn, Gillian
 narrator: Lee, Ann Marie
-tags: ['Fiction', 'Mystery', 'Thriller']
+type: "Fiction"
+tags: ["Mystery", "Thriller"]
 image: 1.jpg
 rating: 4
 score: 89

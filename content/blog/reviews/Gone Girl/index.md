@@ -4,15 +4,14 @@ date: "2021-09-17"
 blogger: Lauren Hamann
 author: Flynn, Gillian
 narrator: Whelan, Julia
-tags: ['Fiction', 'Thriller', 'Mystery']
+type: "Fiction"
+tags: ["Thriller", "Mystery"]
 image: 1.jpg
 rating: 4
 score: 75
 time: 19h11m
 reviewed: false
 ---
-
-
 
 ## Book Description
 

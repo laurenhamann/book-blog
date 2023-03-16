@@ -4,11 +4,22 @@ series: "A Good Girl's Guide to Murder #2"
 date: "2022-12-15"
 blogger: Lauren Hamann
 author: Jackson, Holly
-narrators: [
-    'Carr, Bailey', 'Andrews, MacLeod', 'Bonner, Donte', 'Fouhey, James', 'Hellegers, Neil', 'Hite, Cary', 'Landon, Amy', 
-    'Lee, Raymond J.', 'Sardar, Shezi', 'Leigh, Keylor',
-    'Reed, Maggi-Meg']
-tags: ['Fiction', 'YA', 'Mystery', 'Thriller']
+narrators:
+  [
+    "Carr, Bailey",
+    "Andrews, MacLeod",
+    "Bonner, Donte",
+    "Fouhey, James",
+    "Hellegers, Neil",
+    "Hite, Cary",
+    "Landon, Amy",
+    "Lee, Raymond J.",
+    "Sardar, Shezi",
+    "Leigh, Keylor",
+    "Reed, Maggi-Meg",
+  ]
+type: "Fiction"
+tags: ["YA", "Mystery", "Thriller"]
 image: 1.jpg
 rating: 4
 score: 83
@@ -18,6 +29,7 @@ shelved: "2022-04-08"
 ---
 
 ## Book Description
+
 Pip is not a detective anymore.
 
 With the help of Ravi Singh, she released a true-crime podcast about the murder case they solved together last year. The podcast has gone viral, yet Pip insists her investigating days are behind her.

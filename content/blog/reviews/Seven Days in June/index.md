@@ -4,7 +4,8 @@ date: "2022-03-13"
 blogger: Lauren Hamann
 author: Williams, Tia
 narrator: Lee, Mela
-tags: ['Fiction', 'Romance', 'Contemporary']
+type: "Fiction"
+tags: ["Romance", "Contemporary"]
 image: 1.jpg
 rating: 5
 score: 94
@@ -12,7 +13,6 @@ superlatives: Warm the Body
 time: 10h32m
 reviewed: false
 ---
-
 
 ## Book Description
 

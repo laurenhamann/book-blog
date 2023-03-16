@@ -4,13 +4,13 @@ date: "2021-08-17"
 blogger: Lauren Hamann
 author: Sedaris, David
 narrator: Sedaris, David
-tags: ['Nonfiction', 'Humor', 'Essays']
+type: "Nonfiction"
+tags: ["Humor", "Essays"]
 image: 1.jpg
 rating: 3
 score: 77
 reviewed: false
 ---
-
 
 ## Book Description
 

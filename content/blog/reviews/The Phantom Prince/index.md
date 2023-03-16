@@ -1,18 +1,17 @@
 ---
-title: The Phantom Prince 
+title: The Phantom Prince
 date: "2021-02-14"
 blogger: Lauren Hamann
 author: Kendall, Elizabeth
-tags: ['Nonfiction', 'Crime', 'Memoir']
+type: "Nonfiction"
+tags: ["Crime", "Memoir"]
 image: 1.jpg
 rating: 4
 score: 89
 reviewed: false
 ---
 
-
 ## Book Description
-
 
 Elizabeth Kendall’s 1981 memoir, detailing her six-year relationship with serial killer Ted Bundy, long out of print, now reissued with startling new material from the author and her daughter
 

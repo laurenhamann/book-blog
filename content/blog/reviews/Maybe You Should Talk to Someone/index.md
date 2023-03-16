@@ -4,14 +4,14 @@ date: "2021-10-21"
 blogger: Lauren Hamann
 author: Gottlieb, Lori
 narrator: Pressley, Brittany
-tags: ['Nonfiction', 'Memoir', 'Psychology']
+type: "Nonfiction"
+tags: ["Memoir", "Psychology"]
 image: 1.jpg
 rating: 5
 score: 99
 time: 14h21m
 reviewed: false
 ---
-
 
 ## Book Description
 

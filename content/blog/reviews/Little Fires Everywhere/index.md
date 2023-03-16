@@ -4,14 +4,14 @@ date: "2022-07-04"
 blogger: Lauren Hamann
 author: Ng, Celeste
 narrator: Lim, Jennifer
-tags: ['Fiction', 'Contemporary']
+type: "Fiction"
+tags: ["Contemporary"]
 image: 1.jpg
 rating: 4
 score: 88
 time: 11h28m
 reviewed: false
 ---
-
 
 ## Book Description
 

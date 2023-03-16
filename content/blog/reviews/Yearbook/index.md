@@ -4,7 +4,8 @@ date: "2022-01-30"
 blogger: Lauren Hamann
 author: Rogen, Seth
 narrator: Rogen, Seth
-tags: ['Nonfiction', 'Memoir', 'Humor', 'Essays']
+type: "Nonfiction"
+tags: ["Memoir", "Humor", "Essays"]
 image: 1.jpg
 rating: 3
 score: 25
@@ -12,7 +13,6 @@ superlatives: Disappoint
 time: 6h13m
 reviewed: false
 ---
-
 
 ## Book Description
 

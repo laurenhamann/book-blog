@@ -4,14 +4,15 @@ date: "2021-12-07"
 blogger: Lauren Hamann
 author: Korelitz, Jean Hanff
 narrator: Heyborne, Kirby
-tags: ['Fiction']
+type: 'Fiction'
+tags: ['Contemporary', 
+'Mystery']
 image: 1.jpg
 rating: 5
 score: 90
 time: 10h43m
 reviewed: false
 ---
-
 
 ## Book Description
 

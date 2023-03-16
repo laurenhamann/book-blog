@@ -5,7 +5,8 @@ date: "2022-11-15"
 blogger: Lauren Hamann
 author: Agatha, Christie
 narrator: Stevens, Dan
-tags: ['Fiction', 'Mystery', 'Thriller', 'Classics', 'Crime']
+type: "Fiction"
+tags: ["Mystery", "Thriller", "Classics", "Crime"]
 image: 1.jpg
 rating: 4
 score: 81

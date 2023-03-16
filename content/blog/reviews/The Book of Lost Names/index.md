@@ -4,7 +4,8 @@ date: "2022-10-22"
 blogger: Lauren Hamann
 author: Harmel, Kristin
 narrator: Madeleine, Maby
-tags: ['Fiction', 'Historical', 'World War 2']
+type: "Fiction"
+tags: ["Historical", "World War 2"]
 image: 1.jpg
 rating: 5
 score: 94
@@ -12,7 +13,6 @@ superlatives: Move the Soul
 time: 10h50m
 reviewed: false
 ---
-
 
 ## Book Description
 

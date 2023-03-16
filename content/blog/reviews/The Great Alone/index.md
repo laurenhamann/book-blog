@@ -4,15 +4,14 @@ date: "2021-08-13"
 blogger: Lauren Hamann
 author: Hannah, Kristin
 narrator: Whelan, Julia
-tags: ['Fiction', 'Historical']
+type: "Fiction"
+tags: ["Historical"]
 image: 1.jpg
 rating: 4
 score: 79
 time: 15h2m
 reviewed: false
 ---
-
-
 
 ## Book Description
 

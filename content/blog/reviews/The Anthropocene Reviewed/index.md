@@ -4,15 +4,14 @@ date: "2022-01-30"
 blogger: Lauren Hamann
 author: Green, John
 narrator: Green, John
-tags: ['Nonfiction ', 'Essays', 'Memoir']
+type: "Nonfiction"
+tags: ["Essays", "Memoir"]
 image: 1.jpg
 rating: 4
 score: 70
 time: 10h4m
 reviewed: false
 ---
-
-
 
 ## Book Description
 

@@ -3,8 +3,9 @@ title: The Wife Upstairs
 date: "2022-12-21"
 blogger: Lauren Hamann
 author: Hawkins, Rachel
-narrators: ['Shaffer, Emily', 'Heyborne, Kirby', 'Fortgang, Lauren']
-tags: ['Fiction', 'Thriller', 'Mystery', 'Contemporary']
+narrators: ["Shaffer, Emily", "Heyborne, Kirby", "Fortgang, Lauren"]
+type: "Fiction"
+tags: ["Thriller", "Mystery", "Contemporary"]
 image: 1.jpg
 rating: 3
 score: 25
@@ -12,7 +13,6 @@ time: 8h40m
 reviewed: true
 shelved: "2022-04-08"
 ---
-
 
 ## Book Description
 
@@ -22,7 +22,6 @@ But her luck changes when she meets Eddie­ Rochester. Recently widowed, Eddie i
 
 Yet as Jane and Eddie fall for each other, Jane is increasingly haunted by the legend of Bea, an ambitious beauty with a rags-to-riches origin story, who launched a wildly successful southern lifestyle brand. How can she, plain Jane, ever measure up? And can she win Eddie’s heart before her past—or his—catches up to her?
 
-
 ## My Thoughts
 
-This book was just ughh. This is very hard to do because I had to purposely keep listening to this book. I was waiting for something to pull me in but nothing. Young, poor girl is struggling and catches the eye of a very rich man. But this man has a dark secret, but don't worry so does Jane. A lot like [The Last Mrs.Parrish](/reviews/The%20Last%20Mrs.Parrish/), but the characters were less interesting and the ending was less fulfilling. 
+This book was just ughh. This is very hard to do because I had to purposely keep listening to this book. I was waiting for something to pull me in but nothing. Young, poor girl is struggling and catches the eye of a very rich man. But this man has a dark secret, but don't worry so does Jane. A lot like [The Last Mrs.Parrish](/reviews/The%20Last%20Mrs.Parrish/), but the characters were less interesting and the ending was less fulfilling.

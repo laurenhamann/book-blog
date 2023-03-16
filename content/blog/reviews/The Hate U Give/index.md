@@ -1,10 +1,11 @@
 ---
-title: The Hate U Give 
+title: The Hate U Give
 date: "2021-11-28"
 blogger: Lauren Hamann
 author: Thomas, Angie
 narrator: Turpin, Bahni
-tags: ['Fiction', 'Contemporary', 'Race']
+type: "Fiction"
+tags: ["Contemporary", "Race"]
 image: 1.jpg
 rating: 5
 score: 96
@@ -13,9 +14,7 @@ time: 11h50m
 reviewed: false
 ---
 
-
 ## Book Description
-
 
 Sixteen-year-old Starr Carter moves between two worlds: the poor neighborhood where she lives and the fancy suburban prep school she attends. The uneasy balance between these worlds is shattered when Starr witnesses the fatal shooting of her childhood best friend Khalil at the hands of a police officer. Khalil was unarmed.
 

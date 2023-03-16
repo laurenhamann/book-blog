@@ -5,14 +5,14 @@ date: "2022-02-20"
 blogger: Lauren Hamann
 author: Moyes, Jojo
 narrator: Acton, Anna
-tags: ['Fiction', 'Romance', 'Contemporary']
+type: "Fiction"
+tags: ["Romance", "Contemporary"]
 image: 1.jpg
 rating: 4
 score: 82
 time: 11h6m
 reviewed: false
 ---
-
 
 How do you move on after losing the person you loved? How do you build a life worth living?
 

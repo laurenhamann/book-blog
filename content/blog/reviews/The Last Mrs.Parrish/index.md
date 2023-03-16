@@ -3,17 +3,15 @@ title: The Last Mrs. Parrish
 date: "2022-12-24"
 blogger: Lauren Hamann
 author: Constantine, Liv
-narrators: ['Wolfe, Meghan', 'Freeman, Suzanne Elise']
-tags: ['Fiction', 'Thriller', 'Mystery']
+narrators: ["Wolfe, Meghan", "Freeman, Suzanne Elise"]
+type: "Fiction"
+tags: ["Thriller", "Mystery"]
 image: 1.jpg
 rating: 4
 score: 69
-characters: ['Amber Patterson', 'Daphne Parrish', 'Jackson Parrish']
-location: Bishops Harbor, Connecticut
 time: 12h
 reviewed: True
 ---
-
 
 ## Book Description
 
@@ -25,8 +23,6 @@ Amber’s envy could eat her alive . . . if she didn't have a plan. Amber uses D
 
 With shocking turns and dark secrets that will keep you guessing until the very end, The Last Mrs. Parrish is a fresh, juicy, and utterly addictive thriller from a diabolically imaginative talent.
 
-
-
 ## My Thoughts
 
-This book was very interesting. Interesting ... because I am not sure how I feel about this book right now. Only 1 day removed from it and it bothers me. I think because of the uncomfortable nature of the two main characters. The Daphne character is cunning and sympathetic. You feel one way during Amber's side of the story then flip to feeling the uncontrolled life of Daphne during her side. The author did a great way of making this a story of the grass not always greener and victory for the true victor. 
+This book was very interesting. Interesting ... because I am not sure how I feel about this book right now. Only 1 day removed from it and it bothers me. I think because of the uncomfortable nature of the two main characters. The Daphne character is cunning and sympathetic. You feel one way during Amber's side of the story then flip to feeling the uncontrolled life of Daphne during her side. The author did a great way of making this a story of the grass not always greener and victory for the true victor.

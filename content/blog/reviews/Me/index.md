@@ -4,7 +4,8 @@ date: "2022-01-05"
 blogger: Lauren Hamann
 author: John, Elton
 narrator: Egerton, Taron
-tags: ['Nonfiction', 'Memoir', 'LGBT']
+type: "Nonfiction"
+tags: ["Memoir", "LGBT"]
 image: 1.jpg
 rating: 5
 score: 96
@@ -12,7 +13,6 @@ superlatives: Re-Read
 time: 11h47m
 reviewed: false
 ---
-
 
 ## Book Description
 

@@ -4,14 +4,14 @@ date: "2022-05-12"
 blogger: Lauren Hamann
 author: Sparks, Nicholas
 narrator: Lloyd, John Bedford
-tags: ['Fiction', 'Romance', 'Contemporary']
+type: "Fiction"
+tags: ["Romance", "Contemporary"]
 image: 1.jpg
 rating: 4
 score: 80
 time: 10h24m
 reviewed: false
 ---
-
 
 ## Book Description
 

@@ -4,16 +4,15 @@ date: "2021-09-09"
 blogger: Lauren Hamann
 author: Westover, Tara
 narrator: Whelan, Julia
-tags: ['Nonfiction', 'Memoir']
+type: "Nonfiction"
+tags: ["Memoir"]
 image: 1.jpg
 rating: 5
-superlatives: Remember Forever 
+superlatives: Remember Forever
 score: 98
 time: 12h10m
 reviewed: false
 ---
-
-
 
 ## Book Description
 

@@ -4,7 +4,8 @@ date: "2022-03-14"
 blogger: Lauren Hamann
 author: Guillory, Jasmine
 narrator: Edwards, Janina
-tags: ['Fiction', 'Romance', 'Contemporary']
+type: "Fiction"
+tags: ["Romance", "Contemporary"]
 image: 1.jpg
 rating: 2
 score: 20
@@ -12,7 +13,6 @@ superlatives: Disappoint
 time: 8h28m
 reviewed: false
 ---
-
 
 ## Book Description
 

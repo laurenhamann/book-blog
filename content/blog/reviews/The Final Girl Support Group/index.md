@@ -4,7 +4,8 @@ date: "2022-07-01"
 blogger: Lauren Hamann
 author: Hendrix, Grady
 narrator: King, Adrienne
-tags: ['Fiction', 'Horror', 'Thriller']
+type: "Fiction"
+tags: ["Horror", "Thriller"]
 image: 1.jpg
 rating: 4
 score: 70

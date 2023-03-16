@@ -4,14 +4,14 @@ date: "2021-09-17"
 blogger: Lauren Hamann
 author: Honeyman, Gail
 narrator: McCarron, Cathleen
-tags: ['Fiction', 'Contemporary']
+type: "Fiction"
+tags: ["Contemporary"]
 image: 1.jpg
 rating: 4
 score: 88
 time: 11h3m
 reviewed: false
 ---
-
 
 ## Book Description
 

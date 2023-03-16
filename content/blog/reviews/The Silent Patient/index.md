@@ -1,17 +1,17 @@
 ---
-title: The Silent Patient 
+title: The Silent Patient
 date: "2021-08-22"
 blogger: Lauren Hamann
 author: Michaelides, Alex
-narrators: ['Brealey, Louise', 'Hawkins, Jack']
-tags: ['Fiction', 'Thriller', 'Mystery']
+narrators: ["Brealey, Louise", "Hawkins, Jack"]
+type: "Fiction"
+tags: ["Thriller", "Mystery"]
 image: 1.jpg
 rating: 3
 score: 60
 time: 8h51m
 reviewed: false
 ---
-
 
 ## Book Description
 

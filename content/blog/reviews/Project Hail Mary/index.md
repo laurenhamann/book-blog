@@ -4,14 +4,14 @@ date: "2022-04-10"
 blogger: Lauren Hamann
 author: Weir, Andy
 narrator: Porter, Ray
-tags: ['Fiction', 'Science Fiction', 'Fantasy']
+type: "Fiction"
+tags: ["Science Fiction", "Fantasy"]
 image: 1.jpg
 rating: 5
 score: 99
 time: 16h10m
 reviewed: false
 ---
-
 
 ## Book Description
 

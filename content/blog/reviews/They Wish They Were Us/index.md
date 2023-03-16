@@ -4,14 +4,14 @@ date: "2022-09-29"
 blogger: Lauren Hamann
 author: Goodman, Jessica
 narrator: Sieh, Kristen
-tags: ['Fiction', 'Mystery', 'Thriller', 'YA']
+type: "Fiction"
+tags: ["Mystery", "Thriller", "YA"]
 image: 1.jpg
 rating: 4
 score: 82
 time: 9h47m
 reviewed: false
 ---
-
 
 ## Book Description
 
@@ -20,4 +20,4 @@ During freshman year Jill's best friend, the brilliant, dazzling Shaila Arnold, 
 
 Now, it's Jill's senior year and she's determined to make it her best yet. After all, she's a senior and a Player--a member of Gold Coast Prep's exclusive, not-so-secret secret society. Senior Players have the best parties, the highest grades and the admiration of the entire school. This is going to be Jill's year. She's sure of it.
 
-But when Jill starts getting texts proclaiming Graham's innocence, her dreams of the perfect senior year start to crumble. If Graham didn't kill Shaila, who did? Jill vows to find out, but digging deeper could mean putting her friendships, and her future, in jeopardy. 
+But when Jill starts getting texts proclaiming Graham's innocence, her dreams of the perfect senior year start to crumble. If Graham didn't kill Shaila, who did? Jill vows to find out, but digging deeper could mean putting her friendships, and her future, in jeopardy.

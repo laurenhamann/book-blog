@@ -4,7 +4,8 @@ date: "2022-08-21"
 blogger: Lauren Hamann
 author: Agatha, Christie
 narrator: Stevens, Dan
-tags: ['Fiction', 'Mystery', 'Classics']
+type: "Fiction"
+tags: ["Mystery", "Classics"]
 image: 1.jpg
 rating: 3
 score: 60
@@ -13,7 +14,6 @@ reviewed: false
 ---
 
 ## Book Description
-
 
 First, there were ten—a curious assortment of strangers summoned as weekend guests to a little private island off the coast of Devon. Their host, an eccentric millionaire unknown to all of them, is nowhere to be found. All that the guests have in common is a wicked past they're unwilling to reveal—and a secret that will seal their fate. Each has been marked for murder. A famous nursery rhyme is framed and hung in every room of the mansion:
 

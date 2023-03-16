@@ -5,14 +5,14 @@ date: "2021-12-04"
 blogger: Lauren Hamann
 author: Grohl, Dave
 narrator: Grohl, Dave
-tags: ['Nonfiction', 'Music', 'Memoir']
+type: "Nonfiction"
+tags: ["Music", "Memoir"]
 image: 1.jpg
-rating: 4 
+rating: 4
 score: 80
 time: 10h35m
 reviewed: false
 ---
-
 
 ## Book Description
 

@@ -1,11 +1,12 @@
 ---
 title: A Court of Wings and Ruin
-series: 'A Court of Thorns and Roses #3'
+series: "A Court of Thorns and Roses #3"
 date: "2023-02-06"
 blogger: Lauren Hamann
 author: Maas, Sarah J
 narrator: Cobb, Amanda Leigh
-tags: ['Fiction', 'Romance', 'Fantasy']
+type: "Fiction"
+tags: ["Romance", "Fantasy"]
 image: 1.jpg
 rating: 4
 score: 88

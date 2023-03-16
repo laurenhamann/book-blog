@@ -5,13 +5,13 @@ date: "2021-07-23"
 blogger: Lauren Hamann
 author: Feiler, Bruce
 narrator: Feiler, Bruce
-tags: ['Nonfiction', 'Parenting']
+type: "Nonfiction"
+tags: ["Self Help", "Parenting"]
 image: 1.jpg
 rating: 3
 score: 65
 reviewed: false
 ---
-
 
 ## Book Description
 

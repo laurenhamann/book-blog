@@ -4,15 +4,14 @@ date: "2021-10-22"
 blogger: Lauren Hamann
 author: Silverman, Sarah
 narrator: Silverman, Sarah
-tags: ['Nonfiction', 'Memoir']
+type: "Nonfiction"
+tags: ["Memoir"]
 image: 1.jpg
 rating: 3
 score: 40
 time: 6h
 reviewed: false
 ---
-
-
 
 ## Book Description
 

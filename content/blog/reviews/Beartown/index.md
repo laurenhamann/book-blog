@@ -1,20 +1,19 @@
 ---
 title: Beartown
-series: 'Beartown #1'
-date: "2023-01-02"
+series: "Beartown #1"
+date: "2023-01-03"
 blogger: Lauren Hamann
 author: Backman, Fredrik
 narrator: Smith, Neil
-tags: ['Fiction', 'Sports', 'Contemporary']
+type: "Fiction"
+tags: ["Sports", "Contemporary"]
 image: 1.jpg
 rating: 5
 superlatives: Warm the Body
 score: 97
 time: 13h43m
 reviewed: false
-shelved: "2021-12-08"
 ---
-
 
 ## Book Description
 

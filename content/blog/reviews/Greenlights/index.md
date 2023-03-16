@@ -4,15 +4,14 @@ date: "2021-07-23"
 blogger: Lauren Hamann
 author: McConaughey, Matthew
 narrator: McConaughey, Matthew
-tags: ['Nonfiction', 'Memoir']
+type: "Nonfiction"
+tags: ["Memoir"]
 image: 1.jpg
 rating: 4
 score: 72
 time: 6h42m
 reviewed: false
 ---
-
-
 
 ## Book Description
 

@@ -4,14 +4,14 @@ date: "2021-11-16"
 blogger: Lauren Hamann
 author: Ford, Ashley C.
 narrator: Ford, Ashley C.
-tags: ['Nonfiction', 'Memoir']
+type: "Nonfiction"
+tags: ["Memoir"]
 image: 1.jpg
 rating: 5
 score: 90
 time: 8h44m
 reviewed: false
 ---
-
 
 ## Book Description
 

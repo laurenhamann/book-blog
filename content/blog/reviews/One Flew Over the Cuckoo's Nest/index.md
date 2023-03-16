@@ -4,14 +4,14 @@ date: "2022-10-06"
 blogger: Lauren Hamann
 author: Kesey, Ken
 narrator: Reilly, John C.
-tags: ['Fiction', 'Psychology', 'Classics']
+type: "Fiction"
+tags: ["Psychology", "Classics"]
 image: 1.jpg
 rating: 4
 score: 86
 time: 10h2m
 reviewed: false
 ---
-
 
 ## Book Description
 

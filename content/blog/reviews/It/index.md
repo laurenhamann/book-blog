@@ -4,7 +4,8 @@ date: "2021-12-20"
 blogger: Lauren Hamann
 author: King, Stephen
 narrator: Weber, Steven
-tags: ['Fiction', 'Horror']
+type: "Fiction"
+tags: ["Horror"]
 image: 1.jpg
 rating: 5
 score: 88
@@ -12,7 +13,6 @@ superlatives: Unsettle
 time: 44h55m
 reviewed: false
 ---
-
 
 ## Book Description
 

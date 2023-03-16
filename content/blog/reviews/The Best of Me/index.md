@@ -4,7 +4,8 @@ date: "2021-10-26"
 blogger: Lauren Hamann
 author: Sedaris, David
 narrator: Sedaris, David
-tags: ['Nonfiction ', 'Essays']
+type: "Nonfiction"
+tags: ["Essays"]
 image: 1.jpg
 rating: 5
 score: 90
@@ -12,9 +13,7 @@ time: 13h8m
 reviewed: false
 ---
 
-
 ## Book Description
-
 
 For more than twenty-five years, David Sedaris has been carving out a unique literary space, virtually creating his own genre. A Sedaris story may seem confessional, but is also highly attuned to the world outside. It opens our eyes to what is at absurd and moving about our daily existence. And it is almost impossible to read without laughing.
 
