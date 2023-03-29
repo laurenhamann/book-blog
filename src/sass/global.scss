@@ -1,0 +1,21 @@
+@use "colors" as color;
+
+h1:not(.main-heading) {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+h4 {
+  font-size: 1rem;
+}
+
+p {
+  font-size: 0.7rem;
+}

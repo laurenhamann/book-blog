@@ -7,28 +7,38 @@ import Seo from "../components/seo"
 import PrevReads from "../components/previous-reads"
 import Review from "../components/reviewed"
 
-
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
   location,
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
-  const classNames = post.frontmatter.rating === 5 ? 'green rating' : 
-  post.frontmatter.rating >= 3 ? 'yellow rating' : 'red rating';
-  const review = post.frontmatter.reviewed;
+  const classNames =
+    post.frontmatter.rating === 5
+      ? "green rating"
+      : post.frontmatter.rating >= 3
+      ? "yellow rating"
+      : "red rating"
+  const review = post.frontmatter.reviewed
 
-  const tags = post.frontmatter.tags !== undefined ? post.frontmatter.tags.map((tag) => {
-    return (
-      <small className={tag}>
-      -{tag} { }
-      </small>
-    )
-  }) : 'No Tags Available';
+  const tags =
+    post.frontmatter.tags !== undefined
+      ? post.frontmatter.tags.map(tag => {
+          return (
+            <small className={tag}>
+              -{tag} {}
+            </small>
+          )
+        })
+      : "No Tags Available"
 
+  const narrator =
+    post.frontmatter.narrator !== null
+      ? `Narrated by: ${post.frontmatter.narrator}`
+      : post.frontmatter.narrators !== null
+      ? "Narrated by: Ensemble"
+      : "Hardcover"
 
-  const narrator = post.frontmatter.narrator !== null ?  `Narrated by: ${post.frontmatter.narrator}` : post.frontmatter.narrators !== null ? 'Narrated by: Ensemble' : 'Hardcover';
-
-  let image = getImage(post.frontmatter.image);
+  let image = getImage(post.frontmatter.image)
   return (
     <Layout location={location} title={siteTitle}>
       <article
@@ -47,9 +57,7 @@ const BlogPostTemplate = ({
           </div>
         </header>
 
-        <GatsbyImage image={image} 
-                    alt=""
-                    className="book-cover-post" />
+        <GatsbyImage image={image} alt="" className="book-cover-post" />
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
@@ -57,7 +65,7 @@ const BlogPostTemplate = ({
         />
         <Review review={review} />
         <hr />
-        <PrevReads 
+        <PrevReads
           data={post.frontmatter.author}
           title={post.frontmatter.title}
         />
@@ -89,20 +97,12 @@ const BlogPostTemplate = ({
           </li>
         </ul>
       </nav>
-      <footer>
-          <Bio />
-        </footer>
     </Layout>
   )
 }
 
 export const Head = ({ data: { markdownRemark: post } }) => {
-  return (
-    <Seo
-      title={post.frontmatter.title}
-      description={post.excerpt}
-    />
-  )
+  return <Seo title={post.frontmatter.title} description={post.excerpt} />
 }
 
 export default BlogPostTemplate
@@ -138,10 +138,14 @@ export const pageQuery = graphql`
         score
         image {
           childImageSharp {
-              gatsbyImageData(blurredOptions: {width: 400}, height: 450, width: 300)
+            gatsbyImageData(
+              blurredOptions: { width: 400 }
+              height: 450
+              width: 300
+            )
           }
         }
-      } 
+      }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
       fields {

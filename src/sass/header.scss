@@ -1,38 +1,82 @@
-@use 'colors' as color;
-
+@use "colors" as color;
+@use "breakpoints" as bp;
 .global-header {
-    max-width: 1200px;
-    height: auto;
+  max-width: 1200px;
+  height: auto;
 }
 .flex-header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 10px auto;
-    max-width: 1200px;
-    .main-heading {
-        width: 90%;
-        font-size: 32px;
-    }
-    form {
-        margin-top: 10px;
-    }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px auto;
+  width: 90vw;
+  gap: 15px;
+  .main-heading {
+    width: 90%;
+  }
+  form {
+    margin-top: 10px;
+  }
 }
 
 .headline {
-    color: color.$dark;
+  color: color.$dark;
 }
 
-.query{
-    margin-top: 105px;
+.query {
+  margin-top: 105px;
 }
 
 form {
-    padding: 0 auto;
+  padding: 0 auto;
+  text-align: center;
+  .searchInput {
+    max-width: 1000px;
+    margin: 0 auto;
     text-align: center;
-    .searchInput {
-        max-width: 1000px;
-        margin: 0 auto;
-        text-align: center;
+  }
+}
+
+.main-heading {
+  font-size: 1.6rem;
+}
+
+@media screen and (min-width: bp.$largeMobile) {
+  .flex-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 5px auto;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: color.$white;
+    z-index: 99;
+    width: 80vw;
+    form {
+      margin-top: 3px;
+      display: flex;
+      flex-direction: row;
+      padding: 3px;
+
+      .searchInput {
+        height: 24px;
+      }
+      button {
+        height: 24px;
+      }
     }
+  }
+}
+
+@media screen and (min-width: bp.$desktopBP) {
+  .flex-header {
+    max-width: 1200px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    form {
+      margin: 5px 0 5px auto;
+    }
+  }
 }

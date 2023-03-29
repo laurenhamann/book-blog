@@ -1,0 +1,47 @@
+@use "colors" as color;
+@use "breakpoints" as bp;
+.aside {
+  display: none;
+}
+
+@media screen and (min-width: bp.$breakpoints) {
+  .aside {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    min-width: 250px;
+    margin: 5px auto 5px 45px;
+    height: 80vh;
+    overflow: scroll;
+    align-self: center;
+    div {
+      cursor: pointer;
+      .tab {
+        background-color: color.$dark;
+        color: color.$light;
+      }
+      .selected {
+        font-weight: bold;
+        background-color: color.$midLight;
+        color: color.$offWhite;
+      }
+    }
+    .data {
+      padding: 7.5px;
+      border: 1px solid #002b5b;
+      div.data-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        cursor: pointer;
+        .tab {
+          background-color: #eee;
+        }
+        li.aside-list-item {
+          list-style-type: none;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+}
