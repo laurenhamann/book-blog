@@ -4,11 +4,14 @@ import Layout from "../components/layout"
 
 import { PieChart } from "../components/pie-chart"
 
-const YearReview = ({ data: { site, allMarkdownRemark }, location }) => {
-  const [year, setYear] = React.useState(2023)
+const YearReview = ({
+  data: { site, allMarkdownRemark },
+  location,
+  pageContext,
+}) => {
+  const [year, setYear] = React.useState(pageContext.year)
   const siteTitle = site.siteMetadata?.title || `Title`
   const posts = allMarkdownRemark.nodes
-
   // Filter Posts only with year matching state.year
   let filteredPosts = []
   let final = []
