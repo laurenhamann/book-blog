@@ -1,0 +1,43 @@
+@use "colors" as color;
+
+.main-heading,
+.global-header {
+  font-family: lust-didone, serif;
+  font-weight: 700;
+  font-style: italic;
+  color: color.$mainBrand;
+}
+
+h1 {
+  font-family: lust-didone, serif;
+  font-weight: 700;
+  font-style: normal;
+  color: color.$lightShade;
+}
+
+h3 {
+  font-family: scotch-display, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #1d1d2a;
+}
+
+h2 {
+  font-family: scotch-display, sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+h4 {
+  font-family: lust-didone-fine, sans-serif;
+  font-weight: 100;
+  font-style: italic;
+  color: #6ba1b4;
+}
+
+p,
+li,
+input {
+  font-family: "montserrat-alternates", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}

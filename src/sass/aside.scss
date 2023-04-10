@@ -4,7 +4,7 @@
   display: none;
 }
 
-@media screen and (min-width: bp.$breakpoints) {
+@media screen and (min-width: bp.$desktopBP) {
   .aside {
     display: flex;
     flex-direction: column;
