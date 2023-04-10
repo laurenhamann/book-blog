@@ -1,15 +1,14 @@
 ---
 title: The Idea of You
-date: "2023-04-02"
+date: "2023-04-06"
 blogger: Lauren Hamann
 author: Lee, Robinne
 narrator: "Lee, Robinne"
 type: "Fiction"
 tags: ["Romance", "Contemporary"]
 image: "1.jpg"
-description: "up next"
-rating:
-score:
+rating: 4
+score: 88
 time: 11h55m
 reviewed: false
 ---
