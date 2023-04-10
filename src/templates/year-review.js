@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 import { PieChart } from "../components/pie-chart"
 
 const YearReview = ({ data: { site, allMarkdownRemark }, location }) => {
-  const [year, setYear] = React.useState(location.state.year)
+  const [year, setYear] = React.useState(2023)
   const siteTitle = site.siteMetadata?.title || `Title`
   const posts = allMarkdownRemark.nodes
 
