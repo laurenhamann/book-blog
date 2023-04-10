@@ -27,7 +27,6 @@ const Layout = ({ location, title, children, filterPosts, clear }) => {
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
-      <header className="global-header">{header}</header>
       <main>{children}</main>
       <Footer />
     </div>

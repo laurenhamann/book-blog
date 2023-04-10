@@ -1,6 +1,5 @@
 export function filter(arrayOne, callback) {
-  console.log(arrayOne)
-  let finalArray = []
+  let filteredArray = []
   let count = 0
   const arrayOneLength = arrayOne.length - 1
   const arrayTwoLength = arrayOne.length - 2
@@ -13,7 +12,7 @@ export function filter(arrayOne, callback) {
           count = count + 1
         }
       } else if (arrayOneIndex === arrayOneLength) {
-        finalArray.push({
+        filteredArray.push({
           name: arrayTwoEl,
           count: count,
         })
@@ -21,8 +20,7 @@ export function filter(arrayOne, callback) {
       }
     })
   })
-  finalArray.sort((a, b) => b.count - a.count)
-  console.log(finalArray)
-  callback(finalArray)
-  return finalArray
+  filteredArray.sort((a, b) => b.count - a.count)
+  callback(filteredArray)
+  return filteredArray
 }

@@ -19,3 +19,46 @@ h4 {
 p {
   font-size: 0.7rem;
 }
+
+@keyframes colorChange {
+  0% {
+    color: inherit;
+  }
+  10% {
+    color: color.$purple;
+  }
+  15% {
+    color: color.$maroon;
+  }
+  20% {
+    color: color.$salmon;
+  }
+  30% {
+    color: color.$neonOrg;
+  }
+  40% {
+    color: color.$burntOrange;
+  }
+  50% {
+    color: color.$midYellow;
+  }
+  60% {
+    color: color.$blue;
+  }
+  70% {
+    color: color.$light;
+  }
+  80% {
+    color: color.$green;
+  }
+  90% {
+    color: color.$teal;
+  }
+}
+
+li:hover,
+a:hover {
+  animation-name: colorChange;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}

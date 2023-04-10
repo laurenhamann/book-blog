@@ -9,7 +9,12 @@ const useBlogs = () => {
         }
       }
       allMarkdownRemark(
-        filter: { frontmatter: { description: { ne: "up next" } } }
+        filter: {
+          fileAbsolutePath: {
+            glob: "/Users/laurenhamann/book-blog/content/blog/reviews/**/*.md"
+          }
+          frontmatter: { description: { ne: "up next" } }
+        }
         sort: { frontmatter: { date: DESC } }
       ) {
         nodes {

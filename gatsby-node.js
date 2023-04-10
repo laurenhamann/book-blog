@@ -10,7 +10,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 // Define the template for blog post
 const blogPost = path.resolve(`./src/templates/blog-post.js`)
 const yearReview = path.resolve(`./src/templates/year-review.js`)
-
+const narratorTemp = path.resolve(`./src/templates/narrator.js`)
 /**
  * @type {import('gatsby').GatsbyNode['createPages']}
  */
@@ -24,6 +24,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         nodes {
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
+            type
           }
           id
           fields {
@@ -53,15 +54,25 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       const previousPostId = index === 0 ? null : posts[index - 1].id
       const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
 
-      createPage({
-        path: post.fields.slug,
-        component: blogPost,
-        context: {
-          id: post.id,
-          previousPostId,
-          nextPostId,
-        },
-      })
+      if (post.frontmatter.type === "narrator") {
+        createPage({
+          path: post.fields.slug,
+          component: narratorTemp,
+          context: {
+            id: post.id,
+          },
+        })
+      } else {
+        createPage({
+          path: post.fields.slug,
+          component: blogPost,
+          context: {
+            id: post.id,
+            previousPostId,
+            nextPostId,
+          },
+        })
+      }
     })
     createPage({
       path: "/years/2022",
@@ -158,4 +169,19 @@ exports.createSchemaCustomization = ({ actions }) => {
       slug: String
     }
   `)
+}
+
+// Implement the Gatsby API “onCreatePage”. This is
+// called after every page is created.
+exports.onCreatePage = async ({ page, actions }) => {
+  const { createPage } = actions
+
+  // page.matchPath is a special key that's used for matching pages
+  // only on the client.
+  if (page.path.match(/^\/app/)) {
+    page.matchPath = "/app/*"
+
+    // Update the page.
+    createPage(page)
+  }
 }

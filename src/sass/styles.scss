@@ -1,5 +1,6 @@
 @use "tags";
 @use "global";
+
 @use "blog-post";
 @use "index-flex-container";
 @use "header";
@@ -12,6 +13,7 @@
 @use "piechart";
 @use "aside";
 @use "breakpoints";
+@use "fonts";
 
 #___gatsby {
   width: 100vw;

@@ -1,6 +1,5 @@
 import * as React from "react"
-import { Link, graphql } from "gatsby"
-import { GatsbyImage, getImage } from "gatsby-plugin-image"
+import { graphql } from "gatsby"
 import Layout from "../components/layout"
 
 import { PieChart } from "../components/pie-chart"
@@ -13,10 +12,10 @@ const YearReview = ({ data: { site, allMarkdownRemark }, location }) => {
   // Filter Posts only with year matching state.year
   let filteredPosts = []
   let final = []
-  let tags = []
   posts.filter(y => {
     if (y.frontmatter.date === year.toString()) {
       filteredPosts.push(y)
+      return y
     }
   })
   // let count = 0
@@ -53,6 +52,7 @@ const YearReview = ({ data: { site, allMarkdownRemark }, location }) => {
     } else if (t.frontmatter.type === "Nonfiction") {
       nonfictioncount = nonfictioncount + 1
     }
+    return t
   })
 
   const fictionversusNon = [
@@ -76,6 +76,7 @@ const YearReview = ({ data: { site, allMarkdownRemark }, location }) => {
     } else if (ficTag.frontmatter.type === "Nonfiction") {
       ficTag.frontmatter.tags.forEach(tag => nonFictionTags.push(tag))
     }
+    return ficTag
   })
 
   //3a. Get Tag counts
@@ -99,6 +100,7 @@ const YearReview = ({ data: { site, allMarkdownRemark }, location }) => {
         })
         fictionTagCount = 0
       }
+      return d
     })
   })
   finalFictionCount.sort((a, b) => b.count - a.count)
