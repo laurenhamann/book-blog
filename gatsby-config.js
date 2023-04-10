@@ -29,13 +29,13 @@ module.exports = {
         name: `blog`,
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/blog/narrators`,
-        name: `narrators`,
-      },
-    },
+    // {
+    //   resolve: `gatsby-source-filesystem`,
+    //   options: {
+    //     path: `${__dirname}/content/narrators`,
+    //     name: `narrators`,
+    //   },
+    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
