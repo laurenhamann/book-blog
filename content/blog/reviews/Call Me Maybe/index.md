@@ -11,7 +11,9 @@ image: "1.jpg"
 rating: 3
 score: 67
 time: 5h55m
-reviewed: false
+reviewed: true
+wouldRecommend: false
+orgPub: "2020-10-20"
 ---
 
 ## Book Description
@@ -30,3 +32,7 @@ Because I’m falling… hard.
 ---
 
 Vera Hoffman has just days to make sure her website for her new Date-in-a-Box business launches. When the darn thing glitches, she calls her IT company and connects with Cal Kantola. An intense week of phone calls, DMs, voice messages, and texts ensue, and in between troubleshooting, these two start to develop feelings. But will their systems be compatible when they actually meet face-to-face?
+
+## My Thoughts
+
+This is what I would call a fun listen. Made for audio. I listened to the majority of it while pressure washing my patio. I enjoyed it, but it was very predictable. Extremely annoying that instead of talking they just assume. I just rolled my eyes during the assumptions.

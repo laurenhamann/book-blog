@@ -24,15 +24,12 @@ const BlogIndex = ({ data, location }) => {
   if (blogs.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
-        <p>
-          No blog posts found. Add markdown posts to "content/blog" (or the
-          directory you specified for the "gatsby-source-filesystem" plugin in
-          gatsby-config.js).
-        </p>
+        <p>No blog posts found.</p>
       </Layout>
     )
   } else {
     // asideText(asideVersion)
+    console.log(blogs)
     asideTexts(asideVersion, blogs, function callback(finalarray) {
       final = finalarray
     })

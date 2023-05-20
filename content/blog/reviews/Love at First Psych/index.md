@@ -11,7 +11,9 @@ image: "1.jpg"
 rating: 4
 score: 80
 time: 4h35m
-reviewed: false
+reviewed: true
+wouldRecommend: true
+orgPub: "2023-03-02"
 ---
 
 ## Book Description
@@ -25,3 +27,7 @@ But we both need to pass this course to graduate. So we’re interviewing five r
 Because it turns out Robbie isn’t just the charming golden boy I thought I knew. There’s some actual depth beneath all those lame dad jokes and the ‘70s-inspired thrift wardrobe (even if he does look ridiculously great in a flared collar). Next thing I know he’s walking me back to my office on the regular and finishing all my sentences and protecting me from freak storms, and...
 
 Wait. Could Robbie be right? Can happy endings come from unhappy beginnings? Is he about to change my entire worldview?
+
+## My Thoughts
+
+What a fun listen. Free on audible and I found this story to be a cute, quick listen. Nothing too deep with this story but it was super cute. This is a nice palette cleanser if you have just listened to a heavy book.

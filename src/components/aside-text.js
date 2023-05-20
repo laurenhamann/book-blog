@@ -7,6 +7,7 @@ export function asideTexts(asideVersion, blogs, cb) {
   let rating = []
   let superlatives = []
   let type = []
+  console.log(blogs)
   blogs.map(b => {
     authors.push(b.author)
     rating.push(b.rating)

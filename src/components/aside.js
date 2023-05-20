@@ -15,7 +15,6 @@ const Aside = ({
           className={asideVersion === "author" ? "tab selected" : "tab"}
           onClick={() => {
             setAside("author")
-            asideText("author")
           }}
         >
           <small>Authors</small>
@@ -26,7 +25,6 @@ const Aside = ({
           className={asideVersion === "narrator" ? "tab selected" : "tab"}
           onClick={() => {
             setAside("narrator")
-            asideText("narrator")
           }}
         >
           <small>Narrators</small>
@@ -48,7 +46,6 @@ const Aside = ({
           className={asideVersion === "tags" ? "tab selected" : "tab"}
           onClick={() => {
             setAside("tags")
-            asideText("tags")
           }}
         >
           <small>Tags</small>
@@ -59,7 +56,6 @@ const Aside = ({
           className={asideVersion === "rating" ? "tab selected" : "tab"}
           onClick={() => {
             setAside("rating")
-            asideText("rating")
           }}
         >
           <small>Rating</small>
@@ -70,7 +66,6 @@ const Aside = ({
           className={asideVersion === "superlatives" ? "tab selected" : "tab"}
           onClick={() => {
             setAside("superlatives")
-            asideText("superlatives")
           }}
         >
           <small>Most Likely to</small>
@@ -81,7 +76,6 @@ const Aside = ({
           className={asideVersion === "favorites" ? "tab selected" : "tab"}
           onClick={() => {
             setAside("favorites")
-            asideText("favorites")
           }}
         >
           <small>Favorites</small>

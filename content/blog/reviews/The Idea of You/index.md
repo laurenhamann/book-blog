@@ -10,7 +10,7 @@ image: "1.jpg"
 rating: 4
 score: 88
 time: 11h55m
-reviewed: false
+reviewed: true
 ---
 
 ## Book Description
@@ -18,3 +18,7 @@ reviewed: false
 Solène Marchand, the thirty-nine-year-old owner of an art gallery in Los Angeles, is reluctant to take her daughter, Isabelle, to meet her favorite boy band. But since her divorce, she’s more eager than ever to be close to Isabelle. The last thing Solène expects is to make a connection with one of the members of the world-famous August Moon. But Hayes Campbell is clever, winning, confident, and posh, and the attraction is immediate. That he is all twenty years old further complicates things.
 
 What begins as a series of clandestine trysts quickly evolves into a passionate and genuine relationship. It is a journey that spans continents as Solène and Hayes navigate each other’s worlds: from stadium tours to international art fairs to secluded hideaways in Paris and Miami. For Solène, it is a reclaiming of self, as well as a rediscovery of happiness and love. When Solène and Hayes’ romance becomes a viral sensation, and both she and her daughter become the target of rabid fans and an insatiable media, Solène must face how her romantic life has impacted the lives of those she cares about most.
+
+## My Thoughts
+
+I heard about this book because of the interview with Harry Styles by Howard Stern. I thought this book would be a fun, silly read but I found myself reeling for this woman. In its most basic form, this story shows the truth behind relationships, that they affect others around you. It shows the unbalanced truth of men and women of a certain age. <i> When you are in love, and it is hurting everyone around you. What would you do? </i>
