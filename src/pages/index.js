@@ -105,6 +105,12 @@ const BlogIndex = ({ data, location }) => {
     document.getElementById("search-input").value = ""
   }
 
+  const resetFilter = clear => {
+    console.log("ran", query)
+    if (clear === "none") {
+      setQuery(clear)
+    }
+  }
   return (
     <Layout
       location={location}
@@ -115,9 +121,11 @@ const BlogIndex = ({ data, location }) => {
       <CurrentCount count={bookcount} />
       <UpNext />
       <div className="query" data-test="filter-header">
-        <h1>
-          <FilterHeader query={query} aside={asideVersion} />
-        </h1>
+        <FilterHeader
+          query={query}
+          aside={asideVersion}
+          resetFilterFunc={newQuery}
+        />
       </div>
       <div className="flex">
         <ol>
