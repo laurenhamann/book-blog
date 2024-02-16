@@ -33,6 +33,7 @@ export function asideTexts(asideVersion, blogs, cb) {
   if (asideVersion === "author") {
     let finalArray
     filter(authors, function callback(filteredArray) {
+      console.log("in aside text")
       finalArray = filteredArray
     })
     cb(finalArray)

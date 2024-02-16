@@ -6,6 +6,9 @@
 
 @media screen and (min-width: bp.$desktopBP) {
   .aside {
+    position: absolute;
+    top: 265px;
+    right: 0;
     display: flex;
     flex-direction: column;
     width: auto;
@@ -14,39 +17,49 @@
     height: 80vh;
     overflow: scroll;
     align-self: center;
-    div {
-      cursor: pointer;
-      .tab {
-        background-color: color.$lightPeach;
-        color: color.$white;
-        border-right: 1px solid color.$lightPeach;
-        border-left: 1px solid color.$lightPeach;
-        border-top: 1px solid color.$lightPeach;
-        border-bottom: 1px solid #b2493e;
-      }
-      .selected {
-        font-weight: bold;
-        background-color: color.$white;
-        color: color.$lightPeach;
-        border-right: 1px solid color.$lightPeach;
-        border-left: 1px solid color.$lightPeach;
-        border-bottom: 1px solid #b2493e;
-      }
+    .display-button {
+      align-self: flex-end;
+      font-size: 24px;
+      margin-right: 15px;
     }
-    .data {
-      padding: 7.5px;
-      border: 1px solid #b2493e;
-      div.data-container {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
+    #filter {
+      display: none;
+      flex-direction: column;
+      div {
         cursor: pointer;
         .tab {
-          background-color: #eee;
+          background-color: color.$lightPeach;
+          color: color.$white;
+          border-right: 1px solid color.$lightPeach;
+          border-left: 1px solid color.$lightPeach;
+          border-top: 1px solid color.$lightPeach;
+          border-bottom: 1px solid #b2493e;
         }
-        li.aside-list-item {
-          list-style-type: none;
+        .selected {
+          font-weight: bold;
+          background-color: color.$white;
+          color: color.$lightPeach;
+          border-right: 1px solid color.$lightPeach;
+          border-left: 1px solid color.$lightPeach;
+          border-bottom: 1px solid #b2493e;
+        }
+      }
+      .data {
+        padding: 7.5px;
+        border: 1px solid #b2493e;
+        background-color: white;
+        div.data-container {
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
           cursor: pointer;
+          .tab {
+            background-color: #eee;
+          }
+          li.aside-list-item {
+            list-style-type: none;
+            cursor: pointer;
+          }
         }
       }
     }

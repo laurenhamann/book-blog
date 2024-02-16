@@ -20,6 +20,7 @@ const BlogIndex = ({ data, location }) => {
   const [query, setQuery] = React.useState("emptyQuery")
   const [asideVersion, setAside] = React.useState("author")
   const [bookcount, setCount] = React.useState(blogs.length)
+  const [sort, setSort] = React.useState("none")
   let final
   if (blogs.length === 0) {
     return (
@@ -31,7 +32,13 @@ const BlogIndex = ({ data, location }) => {
     // asideText(asideVersion)
     console.log(blogs)
     asideTexts(asideVersion, blogs, function callback(finalarray) {
-      final = finalarray
+      console.log("ran", sort)
+      if (sort === "none") {
+        final = finalarray
+      } else if (sort === "AZ") {
+        console.log("in AZ")
+        final = finalarray.sort()
+      }
     })
   }
 
@@ -265,6 +272,7 @@ const BlogIndex = ({ data, location }) => {
           setAside={setAside}
           query={query}
           filterPosts={newQuery}
+          setSort={setSort}
         />
       </div>
     </Layout>
